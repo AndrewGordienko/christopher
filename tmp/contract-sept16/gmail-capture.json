@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "source": "https://mail.google.com/mail/u/0/#search/in%3Aanywhere%20%7Benode.com%20enode.io%20axle.energy%20recycleye.com%20earthmover.io%20ferolabs.com%20fourgrowers.com%20rideco.com%20amperon.co%20earthsense.co%20gridraven.com%20agtonomy.com%20electriceratechnologies.com%20electricera.tech%20spare.com%20sparelabs.com%20weavegrid.com%20timefold.ai%20quantstack.net%20coiled.io%20sewerai.com%20goswift.ly%20inorbit.ai%20dustyrobotics.com%20rugged-robotics.com%20bearing.ai%20bonsairobotics.ai%20searoutes.com%20openoceanrobotics.com%20envelio.de%20takadu.com%20dryad.net%20piclo.energy%7D",
+  "tool_ref": "cua-gmail-selected-contracts-20260916-main-and-alias-search",
+  "account": "gordienko.adg@gmail.com",
+  "observed_at": "2026-09-15T23:53:27.811828+00:00",
+  "messages": [],
+  "search_query": "in:anywhere {enode.com enode.io axle.energy recycleye.com earthmover.io ferolabs.com fourgrowers.com rideco.com amperon.co earthsense.co gridraven.com agtonomy.com electriceratechnologies.com electricera.tech spare.com sparelabs.com weavegrid.com timefold.ai quantstack.net coiled.io sewerai.com goswift.ly inorbit.ai dustyrobotics.com rugged-robotics.com bearing.ai bonsairobotics.ai searoutes.com openoceanrobotics.com envelio.de takadu.com dryad.net piclo.energy}",
+  "additional_search": {
+    "query": "in:anywhere {piclo.com envelio.com coiled.com timefold.com}",
+    "source": "https://mail.google.com/mail/u/0/#search/in%3Aanywhere%20%7Bpiclo.com%20envelio.com%20coiled.com%20timefold.com%7D",
+    "result": "No exact matches"
+  },
+  "result": "No exact matches",
+  "scope_limit": "Current read-only Gmail search of listed domains in gordienko.adg@gmail.com, including Spam/Trash. Other-mailbox checks retained separately from September 15; unknown aliases and permanently deleted mail are not covered."
+}

@@ -1,0 +1,318 @@
+{
+  "technical_contract": {
+    "unit": "organization",
+    "success": "Interesting bounded work, signed projects and collected cash",
+    "target_days": 14,
+    "signed_value_target": null,
+    "collected_target_min": 15000,
+    "currency": "CAD",
+    "currency_note": "Current sprint: CAD 15,000 in upfront receipts by 2026-09-29; delivery payments additional.",
+    "preferred_project_mix": [],
+    "initial_accounts": 30,
+    "people_per_account": 3,
+    "backup_wait_business_days": 3,
+    "wave_2_review_day": 5,
+    "wave_2_if_serious_conversations_below": 3,
+    "wave_2_accounts": 30,
+    "company_weights": {
+      "societal_impact": 35,
+      "skill_leverage": 25,
+      "tractability": 15,
+      "neglectedness": 10,
+      "access": 10,
+      "ability_to_pay": 5
+    },
+    "person_weights": {
+      "problem_ownership": 35,
+      "sponsorship": 25,
+      "technical_overlap": 20,
+      "current_activity": 10,
+      "reachability": 10
+    },
+    "sequence_policy": "Account decision at D3\u20134, D8\u201310, optional D15+: follow up current person OR move to next ranked person; never both. Any human reply pauses the entire account.",
+    "sector_policy": "Sector agnostic. Rank a specific useful technical problem; impact and close speed stay separate. Unknown procurement speed is unknown, not a fast-close claim.",
+    "sectors": [
+      "rail",
+      "aviation",
+      "public transit",
+      "shipping",
+      "traffic",
+      "wildfire",
+      "oceans",
+      "forestry",
+      "biodiversity",
+      "pollution",
+      "weather",
+      "water",
+      "power grids",
+      "renewables",
+      "buildings",
+      "infrastructure inspection",
+      "resilience",
+      "biology",
+      "geospatial",
+      "remote sensing",
+      "simulation",
+      "scientific software",
+      "emergency response",
+      "accessibility",
+      "urban planning",
+      "government operations",
+      "robotics",
+      "manufacturing",
+      "mining",
+      "logistics",
+      "agriculture",
+      "recycling"
+    ],
+    "objective_function": "Maximize expected societal good from Andrew\u2019s available technical time, subject to realistically accessible, bounded, paid work.",
+    "ranking_note": "Impact and technical fit remain required. Assess approval and upfront payment inside 14 days separately, using sourced ordinal judgments. Do not manufacture calibrated close probabilities.",
+    "upfront_target": 15000,
+    "starts_on": "2026-09-15",
+    "deadline": "2026-09-29",
+    "weekly_capacity_hours": 54,
+    "signed_value_at_half_upfront": 30000,
+    "startup_lane": {
+      "stage_prior": [
+        "Seed",
+        "Series A"
+      ],
+      "headcount_prior": [
+        10,
+        100
+      ],
+      "funding_age_months_prior": [
+        3,
+        12
+      ],
+      "geography": "SF/Bay Area plus other relevant markets",
+      "hard_gates": [
+        "meaningful impact",
+        "specific technical overlap",
+        "bounded work",
+        "reachable technical owner"
+      ],
+      "closeability_evidence": [
+        "current problem",
+        "budget owner",
+        "outside-project approval path",
+        "data access",
+        "payment timing"
+      ],
+      "unknowns": "Funding/hiring is not verified outside-project budget; unknown stays unknown."
+    }
+  },
+  "wapahki_facility": {
+    "unit": "facility",
+    "success": "Observe one qualified cell, measure repeatable human intervention time, evaluate one suitable recovery, then earn a scoped pilot and paid deployment.",
+    "initial_geography": "Ontario / GTA before expanding across Canada",
+    "people_per_account": 3,
+    "backup_wait_business_days": 3,
+    "planning_targets": {
+      "first_observation_cell": 1,
+      "first_recovery_case": 1,
+      "volume_policy": "Research ceilings only; no minimum email quota. Only QUALIFIED cells reach the writer."
+    },
+    "facility_weights": {
+      "automation_intensity": 25,
+      "input_variability": 20,
+      "human_intervention_likelihood": 15,
+      "data_accessibility": 15,
+      "throughput_economics": 10,
+      "accessibility": 10,
+      "hardware_fit": 5
+    },
+    "personas": [
+      "Automation / controls / maintenance / plant engineering",
+      "Plant / operations performance owner",
+      "Corporate technical / operations sponsor"
+    ],
+    "progression": [
+      "research",
+      "contacted",
+      "conversation",
+      "qualified",
+      "site_visit",
+      "pilot_scoped",
+      "loi_sent",
+      "loi_negotiating",
+      "loi_signed",
+      "data_security",
+      "pilot_agreement",
+      "baseline",
+      "offline_evaluation",
+      "assisted_recovery",
+      "closed_loop_recovery",
+      "commercial_deployment"
+    ],
+    "subverticals": {
+      "material_recovery": {
+        "processes": [
+          "robotic_sorting",
+          "vision",
+          "conveying",
+          "separation"
+        ],
+        "data": [
+          "pick results",
+          "vision outputs",
+          "PLC alarms",
+          "jams",
+          "operator resets",
+          "intervention timestamps"
+        ]
+      },
+      "tire_recycling": {
+        "processes": [
+          "robot_handling",
+          "amr",
+          "vision",
+          "plc_hmi",
+          "shredding",
+          "milling",
+          "conveying",
+          "separation",
+          "pelletizing",
+          "drying",
+          "bagging"
+        ],
+        "data": [
+          "PLC alarms",
+          "machine-state transitions",
+          "emergency stops",
+          "conveyor faults",
+          "motor/VFD faults",
+          "jam events",
+          "vision outputs",
+          "AMR events",
+          "operator resets",
+          "maintenance logs",
+          "timestamped interventions"
+        ]
+      },
+      "tire_retreading": {
+        "processes": [
+          "robot_handling",
+          "amr",
+          "vision",
+          "plc_hmi",
+          "cutting",
+          "positioning",
+          "conveying"
+        ],
+        "data": [
+          "AMR events",
+          "PLC alarms",
+          "machine-state transitions",
+          "operator resets",
+          "intervention history"
+        ]
+      }
+    },
+    "automation_rule": "Require cell identity, operating evidence, recurring human recovery, plausible software/controller recovery, observable state, technical owner and operational benefit. Automation intensity never qualifies a plant.",
+    "benchmark_reference": "references/wapahki-benchmarks.md",
+    "default_modes": {
+      "recycling": "pilot",
+      "new_verticals": "discovery"
+    },
+    "loi_reference": "references/wapahki-loi.md",
+    "loi_quality_required": "A: named facility/system/problem, benchmark, mutual contributions, timing/path and commercial intent; actual executed document and qualified owner/authority path",
+    "loi_priority_factors": [
+      "pilot_fit",
+      "failure_frequency",
+      "customer_value",
+      "data_accessibility",
+      "technical_champion_access",
+      "signatory_accessibility",
+      "safety_deployment_ease",
+      "speed_to_loi"
+    ],
+    "loi_scoring_note": "Unknowns remain null. Multiplicative ordinal index is not an LOI probability.",
+    "first_touch": "A short technical conversation about one specific cell and a conditional plan to passively observe faults and operator recoveries.",
+    "remote_first": true,
+    "site_visit_policy": "Optional later if technically useful and logistically possible; not an LOI prerequisite.",
+    "qualification_unit": "specific deployed discrete cell",
+    "qualification_reference": "../morrow-pilot-qualifier/SKILL.md",
+    "legacy_weights_note": "facility_weights retained for historical research comparison only; cannot qualify or rank a cell above a missing gate.",
+    "scope_rule": "Processes and data lists are search vocabulary, not qualification evidence."
+  },
+  "outagehub_api": {
+    "unit": "organization",
+    "success": "Existing workflow, verified external-grid-data gap, API integration and recurring revenue",
+    "people_per_account": 3,
+    "backup_wait_business_days": 3,
+    "company_weights": {
+      "outage_dependent_workflow": 25,
+      "external_grid_data_gap": 20,
+      "canada_multi_utility_footprint": 15,
+      "economic_value": 15,
+      "integration_fit": 10,
+      "reachable_buyer": 10,
+      "current_trigger": 5
+    },
+    "verticals": [
+      "telecom_isp",
+      "msp_monitoring",
+      "ev_charging",
+      "property_facilities",
+      "multi_site_retail",
+      "weather",
+      "news_media",
+      "insurance_cat_risk",
+      "emergency_management",
+      "security_monitoring",
+      "logistics_cold_chain",
+      "solar_battery"
+    ],
+    "buyer_by_use": {
+      "product_embed": [
+        "VP Product",
+        "Director Product",
+        "Platform Product Manager",
+        "CTO at small company"
+      ],
+      "operations": [
+        "Network Operations",
+        "NOC",
+        "Reliability",
+        "Business Continuity",
+        "Facilities Technology"
+      ],
+      "analytics": [
+        "Head of Data",
+        "Risk Product",
+        "Catastrophe Modeling",
+        "Data Partnerships"
+      ],
+      "data_partnership": [
+        "VP Product",
+        "Data Partnerships"
+      ]
+    },
+    "hard_gate": "Explain exactly what changes in the existing product/workflow after an outage event. Reject equivalent internal grid visibility; device telemetry alone is not equivalent.",
+    "competitive_dimensions": [
+      "Canadian coverage",
+      "granularity",
+      "latency",
+      "historical depth",
+      "event polygons",
+      "location matching",
+      "ETRs / causes",
+      "webhooks",
+      "licensing",
+      "price",
+      "API simplicity",
+      "support"
+    ],
+    "progression": [
+      "product_identified",
+      "data_gap_verified",
+      "contacted",
+      "product_conversation",
+      "api_evaluation",
+      "commercial_discussion",
+      "integration",
+      "customer"
+    ]
+  }
+}

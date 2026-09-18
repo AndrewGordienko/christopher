@@ -1,0 +1,4 @@
+interface:
+  display_name: "Andrew Email & Outreach"
+  short_description: "Research accounts and draft from Andrew's actual sent mail"
+  default_prompt: "Use $andrew-email-style to research the right recipient, retrieve my relevant sent emails, and return one natural draft with supported facts."

@@ -1,0 +1,1583 @@
+[
+  {
+    "account": "axle",
+    "campaign": "contract-2026-09-16",
+    "domain": "axle.energy",
+    "source_id": "apollo-7554085eb41d5a8c4b",
+    "observed_at": "2026-09-16T11:20:09.413130+00:00",
+    "person": {
+      "id": "6049edb05303540001e58ae8",
+      "first_name": "Ben",
+      "last_name": "Cserkuti",
+      "name": "Ben Cserkuti",
+      "linkedin_url": "http://www.linkedin.com/in/ben-cserkuti",
+      "title": "Data Scientist",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C4D03AQGCb-Rr_NOn-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1585138198943?e=2147483647&v=beta&t=Rk8e1Kbc3OjwBa4ormcnWFtAWtaEcdZ4otRquSk0tfE",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Data Scientist @ Axle Energy",
+      "organization_id": "64896b78fd176f00c3c0ee46",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6aa5a7cca53c2c0001d77232",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "64896b78fd176f00c3c0ee46",
+          "organization_name": "Axle Energy",
+          "raw_address": null,
+          "start_date": "2026-06-01",
+          "title": "Data Scientist",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77232",
+          "key": "6aa5a7cca53c2c0001d77232"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77233",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2026-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5d375867a631080910868c05",
+          "organization_name": "Zenobē",
+          "raw_address": null,
+          "start_date": "2023-11-01",
+          "title": "Senior Data Scientist",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77233",
+          "key": "6aa5a7cca53c2c0001d77233"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77234",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2023-11-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a126e369702d8cfc468a00",
+          "organization_name": "National Grid",
+          "raw_address": null,
+          "start_date": "2023-04-01",
+          "title": "Energy Analyst",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77234",
+          "key": "6aa5a7cca53c2c0001d77234"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77235",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2023-04-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a126e369702d8cfc468a00",
+          "organization_name": "National Grid",
+          "raw_address": null,
+          "start_date": "2022-10-01",
+          "title": "Business Analyst - New Ventures (National Grid Ventures)",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77235",
+          "key": "6aa5a7cca53c2c0001d77235"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77236",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2022-09-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a126e369702d8cfc468a00",
+          "organization_name": "National Grid",
+          "raw_address": null,
+          "start_date": "2022-04-01",
+          "title": "Graduate Market Fundamentals Analyst",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77236",
+          "key": "6aa5a7cca53c2c0001d77236"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77237",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2022-03-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a126e369702d8cfc468a00",
+          "organization_name": "National Grid",
+          "raw_address": null,
+          "start_date": "2021-09-01",
+          "title": "Graduate Investment Engineer",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77237",
+          "key": "6aa5a7cca53c2c0001d77237"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77238",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-09-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a126e369702d8cfc468a00",
+          "organization_name": "National Grid",
+          "raw_address": null,
+          "start_date": "2019-07-01",
+          "title": "IET Power Academy Scholar",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77238",
+          "key": "6aa5a7cca53c2c0001d77238"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77239",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5972d3527fdf00017cadc0",
+          "organization_name": "Fish on Toast | Business & Entrepreneruship Society ",
+          "raw_address": null,
+          "start_date": "2019-05-01",
+          "title": "President",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77239",
+          "key": "6aa5a7cca53c2c0001d77239"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723a",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2019-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5972d3527fdf00017cadc0",
+          "organization_name": "Fish on Toast | Business & Entrepreneruship Society ",
+          "raw_address": null,
+          "start_date": "2018-09-01",
+          "title": "Marketing Advisor",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723a",
+          "key": "6aa5a7cca53c2c0001d7723a"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723b",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "6729f65949157d0001074825",
+          "organization_name": "modulo.",
+          "raw_address": null,
+          "start_date": "2019-04-01",
+          "title": "Co-Founder, CEO",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723b",
+          "key": "6aa5a7cca53c2c0001d7723b"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723c",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2019-02-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "Southampton University Formula Student Team",
+          "raw_address": null,
+          "start_date": "2018-09-01",
+          "title": "Electronics Team Member - Wireless Telemetry",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723c",
+          "key": "6aa5a7cca53c2c0001d7723c"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723d",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2018-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": null,
+          "organization_name": "ANGLO Ltd",
+          "raw_address": null,
+          "start_date": "2018-07-01",
+          "title": "Activity Leader",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723d",
+          "key": "6aa5a7cca53c2c0001d7723d"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723e",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2018-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "Entrepreneurs Club",
+          "raw_address": null,
+          "start_date": "2018-01-01",
+          "title": "Committee Member",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723e",
+          "key": "6aa5a7cca53c2c0001d7723e"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d7723f",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "Karinthy Frigyes Gimnazium Floorball Team",
+          "raw_address": null,
+          "start_date": "2011-09-01",
+          "title": "Founder & Head Coach",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d7723f",
+          "key": "6aa5a7cca53c2c0001d7723f"
+        },
+        {
+          "_id": "6aa5a7cca53c2c0001d77240",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2014-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "66d6cc38f87a3700015baf81",
+          "organization_name": "Karinthy Frigyes Gimnazium",
+          "raw_address": null,
+          "start_date": "2013-09-01",
+          "title": "Legal Representative of the Student Body",
+          "updated_at": null,
+          "id": "6aa5a7cca53c2c0001d77240",
+          "key": "6aa5a7cca53c2c0001d77240"
+        }
+      ],
+      "street_address": null,
+      "city": "Newbury",
+      "state": "England",
+      "country": "United Kingdom",
+      "postal_code": null,
+      "formatted_address": "Newbury, West Berkshire, UK",
+      "time_zone": "Europe/London",
+      "email": "ben.cserkuti@axle.energy",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "64896b78fd176f00c3c0ee46",
+        "name": "Axle Energy",
+        "website_url": "http://www.axle.energy",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/axle-energy",
+        "twitter_url": null,
+        "facebook_url": null,
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": null,
+        "linkedin_uid": "96037197",
+        "founded_year": 2023,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69aa64d27113090001309bd5/picture",
+        "crunchbase_url": null,
+        "primary_domain": "axle.energy",
+        "sic_codes": [
+          "7375"
+        ],
+        "naics_codes": [
+          "22111",
+          "51321"
+        ],
+        "industry": "information technology & services",
+        "estimated_num_employees": 36,
+        "keywords": [
+          "software development",
+          "api integrations",
+          "consulting",
+          "asset management",
+          "demand flexibility",
+          "asset onboarding",
+          "user onboarding flows",
+          "grid stability services",
+          "renewable integration",
+          "market participation platform",
+          "flexibility markets",
+          "flexibility market access",
+          "energy storage",
+          "renewable energy",
+          "market optimization",
+          "tradeable mw",
+          "b2b",
+          "energy revenue",
+          "asset dispatch",
+          "energy demand management",
+          "energy asset management",
+          "flex market access",
+          "local grid support",
+          "market optimization models",
+          "renewable energy integration",
+          "demand flexibility services",
+          "home energy management",
+          "demand response",
+          "forecasting & optimization",
+          "market access",
+          "machine learning models",
+          "grid decarbonization",
+          "flexibility monetization",
+          "market participation",
+          "smart tariffs",
+          "services",
+          "virtual power plant",
+          "distributed energy resource aggregation",
+          "virtual wallet payments",
+          "energy efficiency",
+          "asset registration",
+          "user onboarding",
+          "smart grid",
+          "market dispatch",
+          "energy",
+          "local and national markets",
+          "customer engagement tools",
+          "electric power generation",
+          "decentralized assets",
+          "demand response automation",
+          "decentralized energy assets",
+          "local constraint markets",
+          "energy trading",
+          "asset control api",
+          "demand prediction",
+          "flexibility asset monetization",
+          "distributed energy resources",
+          "energy trading platform",
+          "flexibility trading strategies",
+          "asset control",
+          "local network flexibility",
+          "demand-side response",
+          "energy assets",
+          "asset aggregation",
+          "market access licenses",
+          "utilities",
+          "energy market regulation",
+          "api-driven integration",
+          "flex market regulation compliance",
+          "b2c",
+          "e-commerce",
+          "flexibility",
+          "api",
+          "distributed assets",
+          "forecasting",
+          "optimization",
+          "decarbonization",
+          "local markets",
+          "national markets",
+          "saas",
+          "information technology & services",
+          "oil & energy",
+          "clean energy & technology",
+          "environmental services",
+          "renewables & environment",
+          "consumer internet",
+          "consumers",
+          "internet",
+          "computer software"
+        ],
+        "organization_revenue_printed": "500K",
+        "organization_revenue": 500000.0,
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "secondary_industries": [
+          "computer software"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4773696439b10b0000",
+        "industry_tag_hash": {
+          "information technology & services": "5567cd4773696439b10b0000",
+          "computer software": "5567cd4e7369643b70010000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "128 city road, london, england, united kingdom",
+        "street_address": null,
+        "city": "London",
+        "state": null,
+        "postal_code": null,
+        "country": "United Kingdom",
+        "owned_by_organization_id": null,
+        "short_description": "Axle Energy Limited is a B2B energy technology startup based in London, UK, founded in early 2023 by Karl Bach and Archy de Berker. The company focuses on decarbonizing the global electricity grid by enhancing the interaction between distributed home energy assets and electricity markets. Axle Energy addresses the need for dynamic grid balancing as renewable energy sources become more prevalent, aggregating decentralized assets like electric vehicles, home batteries, and heat pumps to provide real-time stability.\n\nThe company offers advanced services that include energy flexibility aggregation, grid decarbonization, and predictive analytics. Its flagship product, the Axle Platform, connects and manages various home energy devices, optimizing their operation to reduce costs and emissions. Additionally, Axle provides an API for energy suppliers and hardware manufacturers to integrate flexibility features into their products, enhancing their offerings and supporting grid stability. With over $10.5 million in venture funding, Axle Energy is positioned to play a significant role in the transition to a sustainable energy future.",
+        "total_funding": 35600000,
+        "total_funding_printed": "35.6M",
+        "latest_funding_round_date": "2026-07-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2026-07-09T02:01:43.387Z",
+        "funding_events": [
+          {
+            "id": "6a4f0107fe17340001a478c2",
+            "date": "2026-07-01T00:00:00.000+00:00",
+            "news_url": "https://sifted.eu/articles/accel-axle-25m/",
+            "detected_at": "2026-07-09T02:01:43.387Z",
+            "type": "Series A",
+            "investors": "Accel, Picus Capital, Energize Capital, Eka Ventures",
+            "amount": "25M",
+            "currency": "$"
+          },
+          {
+            "id": "66c35256ee5fbf0001d16703",
+            "date": "2024-08-01T00:00:00.000+00:00",
+            "news_url": "https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/",
+            "detected_at": "2024-08-19T14:10:30.840Z",
+            "type": "Seed",
+            "investors": "Picus Capital, Amit Gudka, Eka Ventures, Hanno Renner, Accel, Nico Rosberg, Sierra Peterson",
+            "amount": "9M",
+            "currency": "$"
+          },
+          {
+            "id": "64b15e14b4aee000011fc73f",
+            "date": "2023-06-01T00:00:00.000+00:00",
+            "news_url": "https://tech.eu/2023/06/14/uks-axle-raises-16-million-to-flip-the-switch-on-energy-use/",
+            "detected_at": "2023-07-14T14:39:16.373Z",
+            "type": "Seed",
+            "investors": "Picus Capital, Eka Ventures",
+            "amount": "1.6M",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "annual_revenue_printed": "500K",
+        "annual_revenue": 500000.0,
+        "technology_names": [
+          "AI",
+          "Amazon AWS",
+          "Amazon CloudFront",
+          "Anthropic Claude",
+          "Apple iOS",
+          "Claude Code",
+          "CloudFlare",
+          "CloudFlare CDN",
+          "Cloudflare DNS",
+          "Docker",
+          "Element UI",
+          "Figma",
+          "Gmail",
+          "Google Cloud",
+          "Google Cloud",
+          "Google Cloud CDN",
+          "Google Cloud DNS",
+          "Google Cloud Hosting",
+          "Google Cloud Load Balancing",
+          "Google Drive",
+          "Google Font API",
+          "Google Frontend",
+          "Google Hosted Libraries",
+          "Google Meet",
+          "Google Workspace",
+          "HREF Lang",
+          "HSTS",
+          "HTTP/3",
+          "IBM ILOG CPLEX Optimization Studio",
+          "LottieFiles",
+          "Lucide",
+          "Mobile Friendly",
+          "Multilingual",
+          "Next.js",
+          "Open Graph",
+          "PWA",
+          "Priority Hints",
+          "Python",
+          "React",
+          "Storybook",
+          "Streamlit",
+          "Swiper",
+          "Tally",
+          "Vercel",
+          "Viewport Meta",
+          "Vimeo",
+          "Webflow",
+          "Webflow Hosting",
+          "YouTube",
+          "jQuery",
+          "jsDelivr",
+          "webpack"
+        ],
+        "current_technologies": [
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+          },
+          {
+            "uid": "apple_ios",
+            "name": "Apple iOS",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "claude_code",
+            "name": "Claude Code",
+            "category": "Other"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "element_ui",
+            "name": "Element UI",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "figma",
+            "name": "Figma",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud_cdn",
+            "name": "Google Cloud CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "google_cloud_dns",
+            "name": "Google Cloud DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "google_cloud_hosting",
+            "name": "Google Cloud Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "google_cloud_load_balancing",
+            "name": "Google Cloud Load Balancing",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "google_drive",
+            "name": "Google Drive",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_frontend_webserver",
+            "name": "Google Frontend",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "google_hosted_libraries",
+            "name": "Google Hosted Libraries",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "ibm_ilog_cplex_optimization_studio",
+            "name": "IBM ILOG CPLEX Optimization Studio",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "lottiefiles",
+            "name": "LottieFiles",
+            "category": "Other"
+          },
+          {
+            "uid": "lucide",
+            "name": "Lucide",
+            "category": "Fonts"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "multilingual",
+            "name": "Multilingual",
+            "category": "Widgets"
+          },
+          {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "pwa",
+            "name": "PWA",
+            "category": "Other"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "storybook",
+            "name": "Storybook",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "streamlit",
+            "name": "Streamlit",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "swiper",
+            "name": "Swiper",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "tally",
+            "name": "Tally",
+            "category": "Support and Feedback"
+          },
+          {
+            "uid": "vercel",
+            "name": "Vercel",
+            "category": "Hosting"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "webflow",
+            "name": "Webflow",
+            "category": "CMS"
+          },
+          {
+            "uid": "webflow_hosting",
+            "name": "Webflow Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "webpack",
+            "name": "webpack",
+            "category": "CSS and JavaScript Libraries"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "66f4213972e007000190ea7c"
+        ],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": false,
+        "org_chart_show_department_filter": true,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.0,
+        "organization_headcount_twelve_month_growth": 0.0,
+        "organization_headcount_twenty_four_month_growth": null
+      },
+      "departments": [
+        "master_engineering_technical"
+      ],
+      "subdepartments": [
+        "data_science",
+        "research_development"
+      ],
+      "seniority": "entry",
+      "functions": [
+        "data_science"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": true,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "coiled",
+    "campaign": "contract-2026-09-17",
+    "domain": "coiled.io",
+    "source_id": "apollo-77914bed9f8d724709",
+    "observed_at": "2026-09-16T11:20:10.086974+00:00",
+    "person": {
+      "id": "5cf38cf980f93ecfbec2f52b",
+      "first_name": "Gabe",
+      "last_name": "Joseph",
+      "name": "Gabe Joseph",
+      "linkedin_url": "http://www.linkedin.com/in/gabe-joseph",
+      "title": "Open-Source Software Engineer",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQE8IqHSHWU6uQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1533092489848?e=2147483647&v=beta&t=6iyO-84-XpQPaXMS0UUKhFPElg_kq4VTmlWECzPyOxo",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Open-Source Software Engineer at Coiled",
+      "organization_id": "5e9fd9729957c200c2bed7e3",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6aa58b0ae8dc8d0001041836",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e9fd9729957c200c2bed7e3",
+          "organization_name": "Coiled",
+          "raw_address": null,
+          "start_date": "2021-03-01",
+          "title": "Open-Source Software Engineer",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d0001041836",
+          "key": "6aa58b0ae8dc8d0001041836"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d0001041837",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-03-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "556e235e73696410fccd2201",
+          "organization_name": "Descartes Labs",
+          "raw_address": null,
+          "start_date": "2019-07-01",
+          "title": "Technical Lead",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d0001041837",
+          "key": "6aa58b0ae8dc8d0001041837"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d0001041838",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2019-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "556e235e73696410fccd2201",
+          "organization_name": "Descartes Labs",
+          "raw_address": null,
+          "start_date": "2018-02-01",
+          "title": "Software Engineer",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d0001041838",
+          "key": "6aa58b0ae8dc8d0001041838"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d0001041839",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-09-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "Alaska Alpine Adventures",
+          "raw_address": null,
+          "start_date": "2017-06-01",
+          "title": "Wilderness Guide",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d0001041839",
+          "key": "6aa58b0ae8dc8d0001041839"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183a",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-04-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "54a1c2d77468695860b7cd0e",
+          "organization_name": "Park City",
+          "raw_address": null,
+          "start_date": "2016-11-01",
+          "title": "Ski Patroller",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183a",
+          "key": "6aa58b0ae8dc8d000104183a"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183b",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-01-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "55922ad5736964191257a900",
+          "organization_name": "National Park Service",
+          "raw_address": null,
+          "start_date": "2016-01-01",
+          "title": "Software Engineer",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183b",
+          "key": "6aa58b0ae8dc8d000104183b"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183c",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2015-10-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "559234a273696418bcc2cb00",
+          "organization_name": "Denali National Park",
+          "raw_address": null,
+          "start_date": "2015-06-01",
+          "title": "Geoscientist-in-the-Park",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183c",
+          "key": "6aa58b0ae8dc8d000104183c"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183d",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2015-01-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "63babd19665b6700015588e5",
+          "organization_name": "Tufts Mountain Club",
+          "raw_address": null,
+          "start_date": "2014-01-01",
+          "title": "President",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183d",
+          "key": "6aa58b0ae8dc8d000104183d"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183e",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2014-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "5ed3592073ec48000115ddc9",
+          "organization_name": "Ab Initio Software",
+          "raw_address": null,
+          "start_date": "2014-06-01",
+          "title": "Development Intern",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183e",
+          "key": "6aa58b0ae8dc8d000104183e"
+        },
+        {
+          "_id": "6aa58b0ae8dc8d000104183f",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2014-01-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "5a9ded4aa6da98d932e35930",
+          "organization_name": "Tufts University Center for Engineering Education and Outreach",
+          "raw_address": null,
+          "start_date": "2012-01-01",
+          "title": "Research Assistant",
+          "updated_at": null,
+          "id": "6aa58b0ae8dc8d000104183f",
+          "key": "6aa58b0ae8dc8d000104183f"
+        }
+      ],
+      "street_address": null,
+      "city": "Santa Fe",
+      "state": "New Mexico",
+      "country": "United States",
+      "postal_code": null,
+      "formatted_address": "Santa Fe, NM, USA",
+      "time_zone": "America/Denver",
+      "email": null,
+      "email_status": "unavailable",
+      "directory_url": null,
+      "organization": {
+        "id": "5e9fd9729957c200c2bed7e3",
+        "name": "Coiled",
+        "website_url": "http://www.coiled.io",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/coiled-computing",
+        "twitter_url": "https://twitter.com/CoiledHQ",
+        "facebook_url": null,
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": "+1 212-906-4498",
+        "linkedin_uid": "64750848",
+        "founded_year": 2020,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a3edc30b89ef00014f8fd1/picture",
+        "crunchbase_url": null,
+        "primary_domain": "coiled.io",
+        "sic_codes": [
+          "7375",
+          "7372"
+        ],
+        "naics_codes": [
+          "513210"
+        ],
+        "primary_phone": {
+          "number": "+1 212-906-4498",
+          "sanitized_number": "+12129064498"
+        },
+        "sanitized_phone": "+12129064498",
+        "industry": "information technology & services",
+        "estimated_num_employees": 10,
+        "keywords": [
+          "python",
+          "dask",
+          "python at scale",
+          "software development",
+          "b2b",
+          "information technology and services",
+          "duckdb",
+          "gpu support",
+          "environment environment copying",
+          "planetary-scale data",
+          "private networking",
+          "multi-language support",
+          "multi-cloud support",
+          "pandas",
+          "software publishers",
+          "spot instances",
+          "environment installation",
+          "polars",
+          "cloud data proximity",
+          "machine learning",
+          "cloud computing",
+          "resource management",
+          "cloud infrastructure",
+          "cloud job scheduling",
+          "cost-efficient computing",
+          "cloud security",
+          "ai and ml workflows",
+          "distributed computing",
+          "python scaling",
+          "geospatial processing",
+          "custom hardware specification",
+          "aws",
+          "scalable workloads",
+          "batch jobs",
+          "software publishing",
+          "environment automation",
+          "kubernetes-free scaling",
+          "data processing",
+          "data analysis",
+          "data scientists",
+          "dask clusters",
+          "services",
+          "terabyte-scale data processing",
+          "cost control features",
+          "cloud provider support",
+          "azure",
+          "workflow orchestration",
+          "data engineers",
+          "python tools",
+          "saas",
+          "information technology & services",
+          "artificial intelligence",
+          "enterprise software",
+          "enterprises",
+          "computer software",
+          "internet infrastructure",
+          "internet",
+          "data analytics"
+        ],
+        "organization_revenue_printed": "11K",
+        "organization_revenue": 11000.0,
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "secondary_industries": [
+          "computer software"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4773696439b10b0000",
+        "industry_tag_hash": {
+          "information technology & services": "5567cd4773696439b10b0000",
+          "computer software": "5567cd4e7369643b70010000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "1412 broadway, new york, new york, united states",
+        "street_address": "1412 Broadway",
+        "city": "New York",
+        "state": "New York",
+        "postal_code": "10018",
+        "country": "United States",
+        "owned_by_organization_id": null,
+        "short_description": "Coiled, also known as Coiled Computing, is a software company founded in 2020 and based in New York City. It specializes in providing a cloud compute platform tailored for Python data professionals, including data engineers and scientists. The company aims to simplify the use of scalable computing resources for parallel processing and big data analytics, making it accessible without requiring specialized cloud expertise.\n\nCoiled's primary offering is a cloud-based data science and machine learning platform that facilitates Dask cluster management. Users can quickly scale Dask in the cloud, create virtual machines that mirror their local environments, and integrate seamlessly with popular libraries like NumPy, pandas, TensorFlow, and PyTorch. The platform supports major cloud providers such as AWS, GCP, and Azure, ensuring data security and cost control. Coiled also promotes collaboration and reproducibility among teams and offers a free tier for most users, making it an attractive option for startups and enterprises looking to manage large datasets efficiently.",
+        "total_funding": 26000000,
+        "total_funding_printed": "26M",
+        "latest_funding_round_date": "2021-05-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2021-05-18T20:36:40.687Z",
+        "funding_events": [
+          {
+            "id": "60a425584f977f000169ab49",
+            "date": "2021-05-01T00:00:00.000+00:00",
+            "news_url": "https://coiled.io/blog/announcing-21m-series-a-funding-and-fresh-coiled-brand/",
+            "detected_at": "2021-05-18T20:36:40.687Z",
+            "type": "Series A",
+            "investors": "FirstMark, Bessemer Venture Partners, IA Ventures",
+            "amount": "21M",
+            "currency": "$"
+          },
+          {
+            "id": "5f773aeae3d7f40001bd3a81",
+            "date": "2020-10-01T00:00:00.000+00:00",
+            "news_url": "https://www.prnewswire.com/news-releases/coiled-announces-5m-seed-funding-to-meet-the-needs-of-modern-data-teams-301139759.html",
+            "detected_at": "2020-10-02T14:36:26.991Z",
+            "type": "Seed",
+            "investors": "Techammer, Jeff Hammerbacher, Ben Hamner, Anthony Goldbloom, Costanoa Ventures, IA Ventures",
+            "amount": "5M",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "annual_revenue_printed": "11K",
+        "annual_revenue": 11000.0,
+        "technology_names": [
+          "Adobe Fonts",
+          "Adobe Fonts",
+          "Amazon AWS",
+          "Amazon CloudFront",
+          "Bootstrap",
+          "Clipboard.js",
+          "Cloudflare Rocket Loader",
+          "Docker",
+          "Emotion",
+          "Fastly CDN",
+          "Font Awesome",
+          "GitHub",
+          "GitHub Pages",
+          "Gmail",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Cloud",
+          "Google Cloud DNS",
+          "Google Cloud Hosting",
+          "Google Font API",
+          "Google Meet",
+          "Google Tag Manager",
+          "Google Workspace",
+          "HSTS",
+          "Hubspot",
+          "Lever",
+          "MUI",
+          "MUI",
+          "Mathjax",
+          "Microsoft 365",
+          "Mobile Friendly",
+          "Next.js",
+          "Nginx",
+          "Open Graph",
+          "Priority Hints",
+          "Pygments",
+          "Python",
+          "RSS",
+          "React",
+          "Segment",
+          "Segment",
+          "Twilio Segment",
+          "Varnish",
+          "Viewport Meta",
+          "Wistia",
+          "jsDelivr",
+          "webpack"
+        ],
+        "current_technologies": [
+          {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+          },
+          {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "clipboard.js",
+            "name": "Clipboard.js",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "emotion",
+            "name": "Emotion",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "fastly_cdn",
+            "name": "Fastly CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Fonts"
+          },
+          {
+            "uid": "github",
+            "name": "GitHub",
+            "category": "Hosting"
+          },
+          {
+            "uid": "github_pages",
+            "name": "GitHub Pages",
+            "category": "Widgets"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud_dns",
+            "name": "Google Cloud DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "google_cloud_hosting",
+            "name": "Google Cloud Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "lever",
+            "name": "Lever",
+            "category": "Recruitment"
+          },
+          {
+            "uid": "mui",
+            "name": "MUI",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "mui",
+            "name": "MUI",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "mathjax",
+            "name": "Mathjax",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "pygments",
+            "name": "Pygments",
+            "category": "Other"
+          },
+          {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Content Syndication Networks"
+          },
+          {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "segment",
+            "name": "Segment",
+            "category": "Data Management Platform"
+          },
+          {
+            "uid": "segment",
+            "name": "Segment",
+            "category": "Data Management Platform"
+          },
+          {
+            "uid": "twilio_segment",
+            "name": "Twilio Segment",
+            "category": "ERP"
+          },
+          {
+            "uid": "varnish",
+            "name": "Varnish",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "wistia",
+            "name": "Wistia",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "webpack",
+            "name": "webpack",
+            "category": "CSS and JavaScript Libraries"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "649ae1161541ca0001775868"
+        ],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": false,
+        "org_chart_show_department_filter": true,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.0,
+        "organization_headcount_twelve_month_growth": -0.2272727272727273,
+        "organization_headcount_twenty_four_month_growth": -0.2916666666666667
+      },
+      "departments": [
+        "master_engineering_technical"
+      ],
+      "subdepartments": [
+        "engineering_technical",
+        "software_development"
+      ],
+      "seniority": "entry",
+      "functions": [
+        "engineering"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  }
+]

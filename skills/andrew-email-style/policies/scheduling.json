@@ -1,0 +1,11 @@
+{
+  "weekdays": [0, 1, 2, 3, 4],
+  "window_start": "08:30",
+  "window_end": "11:30",
+  "minimum_lead_minutes": 15,
+  "minimum_spacing_minutes": 10,
+  "hourly_limit": 6,
+  "daily_limit": 30,
+  "basis": "Andrew's weekday morning prior in each recipient's timezone. Spread within eligible windows, vary spacing and wait for the next window if capacity is exhausted. An explicit instruction can allow afternoon hours. No precise minute is claimed optimal.",
+  "mode": "recommendation_only"
+}

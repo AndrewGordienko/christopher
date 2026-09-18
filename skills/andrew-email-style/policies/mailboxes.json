@@ -1,0 +1,17 @@
+{
+  "technical_contract": {
+    "sender_mailbox": "gordienko.adg@gmail.com",
+    "workspace_label": "a.outbound/Contract",
+    "source": "Andrew's September 14 sender instruction and replacement label system"
+  },
+  "outagehub_api": {
+    "sender_mailbox": "andrew.g@outagehub.ca",
+    "workspace_label": "a.outbound/OutageHub",
+    "source": "Andrew explicitly confirmed andrew.g@outagehub.ca on September 15, 2026; identity also observed in Gmail"
+  },
+  "wapahki_facility": {
+    "sender_mailbox": "andrew@wapahki.com",
+    "workspace_label": "a.outbound/Wapahki",
+    "source": "Andrew confirmed the spelling shown in the Gmail account list on September 14"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "christopher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "build": "esbuild ui/app.jsx --bundle --minify --format=esm --outfile=public/app.js --define:process.env.NODE_ENV=\\\"production\\\""
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.23",
+    "@tanstack/react-table": "8.21.3",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}

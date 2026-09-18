@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "voice": "Andrew",
+  "generated": "",
+  "source": "Current explicit preferences; actual Sent Mail is the voice reference",
+  "default_register": "email",
+  "thresholds": {
+    "short_sentence_words": 8,
+    "staccato_run": 3,
+    "min_words_for_drift": 150
+  },
+  "bans": {
+    "intensifiers": [],
+    "hedge_connectives": [],
+    "protest_framing": [],
+    "meta_commentary": [],
+    "evaluative_block": [],
+    "evaluative_review": [],
+    "extra_phrases": [
+      "share more about the vision",
+      "continued to build strong momentum",
+      "explore potential synergies",
+      "compelling opportunity",
+      "I hope this email finds you well"
+    ]
+  },
+  "registers": {
+    "email": {
+      "semicolons": "allowed",
+      "contractions": "allowed",
+      "questions": "allowed",
+      "announcement_colon": "off",
+      "hedge_connectives": "off",
+      "meta_commentary": "off",
+      "tricolon": "off",
+      "compressed_antithesis": "off",
+      "empty_intensifiers": "off",
+      "exclamations": "off",
+      "targets": {}
+    }
+  },
+  "rule_overrides": {
+    "EMPTY_INTENSIFIER": "off",
+    "EM_DASH": "block",
+    "STACCATO_RUN": "off",
+    "EVALUATIVE_ADJECTIVE_SOFT": "off",
+    "BUILDUP_BEFORE_DATA": "off",
+    "EXTRA_PHRASE": "review",
+    "STANCE_OPENER": "off",
+    "FILLER_OPENER": "off",
+    "EVALUATIVE_ADJECTIVE": "off",
+    "SEMICOLON_PROSE": "off",
+    "HEDGE_CONNECTIVE": "off",
+    "PROTEST_FRAMING": "off",
+    "PERFORMATIVE_VERB": "off",
+    "COMPRESSED_ANTITHESIS": "off",
+    "RHETORICAL_QUESTION": "off",
+    "ANNOUNCEMENT_COLON": "off",
+    "META_COMMENTARY": "off",
+    "NOT_ONLY_BUT_ALSO": "off",
+    "SUMMARY_OPENER": "off"
+  }
+}

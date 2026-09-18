@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paid Technical Contract Follow-Up Editor"
+  short_description: "Personal contract follow-ups with coherent motivation"
+  default_prompt: "Use $paid-contract-followup-editor to revise unanswered contract follow-ups using my latest reference and choose one primary contact per company."

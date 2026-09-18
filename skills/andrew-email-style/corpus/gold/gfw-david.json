@@ -1,0 +1,41 @@
+{
+  "id": "technical-contract-gfw-david-001",
+  "type": "technical/research contract outreach",
+  "sender_mode": "technical_contract",
+  "relationship": "cold",
+  "strength": "gold",
+  "approval": {
+    "source": "user:conversation/2026-09-14/gfw-shorter-opening",
+    "verdict": "Use Andrew’s new concise concrete opening. Current instruction supersedes prior longer gold paragraph; preserve remaining paragraphs."
+  },
+  "subject": "Possible project with Global Fishing Watch",
+  "body": "Hi David,\n\nI’m a UofT student currently on co-op in London working on search, planning and simulation for biotech automation, mostly around finding failures and recovery paths in large systems. I’ve also done a fair bit with RL and MCTS.\n\nI’ve wanted to find a way to use that skillset on ocean conservation for a while, and Global Fishing Watch felt like a particularly good fit given how much of the work comes down to reasoning from incomplete data and trying to understand behaviour over time.\n\nI was wondering if there might be a small contract project I could take ownership of alongside my current work. One thought was a simulation and evaluation harness around historical vessel behaviour to test models or monitoring systems against AIS gaps, ambiguous tracks, identity issues and unusual activity around protected areas, but I’d much rather work on whatever problem would actually be useful to the research team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+  "sent": false,
+  "outcome": null,
+  "traits": [
+    "Concrete current work before biography",
+    "Finding failures and recovery paths in large systems; system-level compression without generic biography",
+    "Long connected sentences",
+    "Genuine interest with technical reasoning",
+    "AIS gaps, ambiguous tracks and identity issues",
+    "Small contract project I could take ownership of",
+    "Recipient can redirect to useful work"
+  ],
+  "do_not_reuse_facts": [
+    "UofT",
+    "co-op",
+    "London",
+    "biotech employer",
+    "RL/MCTS experience",
+    "ocean-conservation interest",
+    "resume attached"
+  ],
+  "attachment_rule": "Keep this approved draft intact but block approval until a real resume attachment is linked to its current content.",
+  "version": 2,
+  "compression_note": "The September 14 shorter opening is current. Preserve its system-level explanation; retain AIS gaps, ambiguous tracks and identity issues because they directly explain the proposed evaluation work.",
+  "current_instruction_overrides": [
+    "The historical approved text stays intact as evidence. Current first-touch default is a project I could take ownership of, not small contract project.",
+    "Use London, UK in current location wording.",
+    "Read thought-continuity.md and scheduling-and-batch-review.md before transforming this exemplar."
+  ]
+}

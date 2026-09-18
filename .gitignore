@@ -1,0 +1,13 @@
+skills/andrew-email-style/data/
+skills/andrew-email-style/archive/
+campaigns/
+__pycache__/
+*.pyc
+.DS_Store
+skills/andrew-email-style/references/mailbox-coverage.md
+
+.venv/
+node_modules/
+.runtime/
+
+.venv-jobs/

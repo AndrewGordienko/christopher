@@ -1,0 +1,1305 @@
+[
+  {
+    "account": "terraclear",
+    "campaign": "contract-2026-09-16",
+    "domain": "terraclear.com",
+    "source_id": "apollo-9d8aae8d134d0f09a4",
+    "observed_at": "2026-09-16T00:43:55.867102+00:00",
+    "person": {
+      "id": "6aa9e64bf7a9b5001c71e325",
+      "first_name": "Mary",
+      "last_name": "Reeder",
+      "name": "Mary Reeder",
+      "linkedin_url": null,
+      "title": null,
+      "photo_url": null,
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": null,
+      "organization_id": "5b84d1e5f874f749873cfa8a",
+      "match_confidence": "none",
+      "employment_history": [
+        {
+          "_id": "6aa9e64bf7a9b5001c71e326",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": null,
+          "organization_id": "5b84d1e5f874f749873cfa8a",
+          "organization_name": null,
+          "raw_address": null,
+          "start_date": null,
+          "title": null,
+          "updated_at": null,
+          "id": "6aa9e64bf7a9b5001c71e326",
+          "key": "6aa9e64bf7a9b5001c71e326"
+        }
+      ],
+      "email": null,
+      "email_status": null,
+      "directory_url": null,
+      "organization": {
+        "id": "5b84d1e5f874f749873cfa8a",
+        "name": "TerraClear Inc",
+        "website_url": "http://www.terraclear.com",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/terraclearinc",
+        "twitter_url": "https://twitter.com/TerraClearInc",
+        "facebook_url": "https://facebook.com/TerraClearInc",
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": "+1 425-610-9496",
+        "linkedin_uid": "18611397",
+        "founded_year": 2017,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6959a513e2b9530001549108/picture",
+        "crunchbase_url": null,
+        "primary_domain": "terraclear.com",
+        "sic_codes": [
+          "7372"
+        ],
+        "naics_codes": [
+          "11511",
+          "333310",
+          "51321"
+        ],
+        "primary_phone": {
+          "number": "+1 425-610-9496",
+          "sanitized_number": "+14256109496"
+        },
+        "sanitized_phone": "+14256109496",
+        "industry": "machinery",
+        "estimated_num_employees": 51,
+        "keywords": [
+          "agriculture",
+          "machine vision",
+          "neural networks",
+          "drone survey",
+          "electrohydraulics",
+          "gps",
+          "artificial intelligence",
+          "automation",
+          "precision agriculture",
+          "automation machinery manufacturing",
+          "b2b",
+          "saas",
+          "services",
+          "information technology & services",
+          "computer software"
+        ],
+        "organization_revenue_printed": "8M",
+        "organization_revenue": 8000000.0,
+        "industries": [
+          "machinery",
+          "agriculture",
+          "industrial automation",
+          "computer software",
+          "information technology & services"
+        ],
+        "secondary_industries": [
+          "agriculture",
+          "industrial automation",
+          "computer software",
+          "information technology & services"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4973696439d53c0000",
+        "industry_tag_hash": {
+          "machinery": "5567cd4973696439d53c0000",
+          "agriculture": "55718f947369642142b84a12",
+          "industrial automation": "5567e1337369641ad2970000",
+          "computer software": "5567cd4e7369643b70010000",
+          "information technology & services": "5567cd4773696439b10b0000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "1770 NW Maple St, Issaquah, Washington 98027, US",
+        "street_address": "1770 NW Maple St",
+        "city": "Issaquah",
+        "state": "Washington",
+        "postal_code": "98027-8924",
+        "country": "United States",
+        "owned_by_organization_id": null,
+        "short_description": "TerraClear Inc is an agricultural technology company founded in 2017, focused on AI-driven rock management and robotic rock removal solutions. The company aims to enhance productivity for large-scale agriculture, particularly in broad-acre row crops. By integrating advanced technologies such as aerial sensing, machine vision, high-accuracy GPS, and robotics, TerraClear provides solutions that help farmers control costs and concentrate on more valuable production tasks.\n\nBased in Bellevue, Washington, and Grangeville, Idaho, TerraClear has developed a range of products and services. These include the TC Rock Picker, a robotic arm for autonomous rock clearing, and the Rock Map, a drone-derived tool for visualizing rock locations. The company also offers a rock picking service and is set to launch TerraScout, a fully autonomous robot for image collection and weed identification. TerraClear targets large-scale growers in the Pacific Northwest and across the United States, addressing the challenges of rock accumulation in farming.",
+        "total_funding": 50200000,
+        "total_funding_printed": "50.2M",
+        "latest_funding_round_date": "2024-04-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2024-05-17T01:29:35.818Z",
+        "funding_events": [
+          {
+            "id": "6646b2ffd4da010001f0c3ee",
+            "date": "2024-04-01T00:00:00.000+00:00",
+            "news_url": "https://www.geekwire.com/2024/ag-tech-startup-terraclear-raises-15m-to-grow-its-end-to-end-solution-for-ridding-fields-of-rocks/",
+            "detected_at": "2024-05-17T01:29:35.818Z",
+            "type": "Series A",
+            "investors": "Madrona Venture Group",
+            "amount": "15M",
+            "currency": "$"
+          },
+          {
+            "id": "60aeb15de46f9300013bc7a9",
+            "date": "2021-05-01T00:00:00.000+00:00",
+            "news_url": "https://techcrunch.com/2021/05/26/rock-picking-robotics-startup-terraclear-raises-25-million/",
+            "detected_at": "2021-05-26T20:36:45.442Z",
+            "type": "Series A",
+            "investors": "Madrona Venture Group",
+            "amount": "25M",
+            "currency": "$"
+          },
+          {
+            "id": "615df5d01149400001db67e7",
+            "date": "2019-04-01T00:00:00.000+00:00",
+            "news_url": "https://www.geekwire.com/2019/cash-crops-terraclear-startup-raises-6-1m-bid-change-farming-advanced-tech/",
+            "detected_at": "2021-10-06T19:15:28.839Z",
+            "type": "Seed",
+            "investors": "Madrona Venture Group",
+            "amount": "4.7M",
+            "currency": "$"
+          },
+          {
+            "id": "5b484018f6e0856c54f0796e",
+            "date": "2018-07-01T00:00:00.000+00:00",
+            "news_url": "https://www.geekwire.com/2018/terraclear-raises-5-5m-smartsheet-co-founder-continues-work-rock-picking-robot-farmers/",
+            "detected_at": "2018-07-13T06:00:56.772Z",
+            "type": "Seed",
+            "investors": "",
+            "amount": "5.5M",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "annual_revenue_printed": "8M",
+        "annual_revenue": 8000000.0,
+        "technology_names": [
+          "ABB Robotics",
+          "AI",
+          "AWS SDK for JavaScript",
+          "Advanced Custom Fields",
+          "Android",
+          "CallRail",
+          "Chart.Js",
+          "Clarity SDM",
+          "ClickCease",
+          "CloudFlare",
+          "CloudFlare CDN",
+          "Cloudflare Browser Insights",
+          "Cloudflare DNS",
+          "Cloudflare Insights",
+          "Cloudflare Rocket Loader",
+          "CookieYes",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Gmail",
+          "Google Ads",
+          "Google Ads Conversion",
+          "Google Ads Conversion",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Cloud",
+          "Google Cloud DNS",
+          "Google Cloud Hosting",
+          "Google Cloud Looker",
+          "Google Cloud Looker",
+          "Google Docs",
+          "Google Font API",
+          "Google Meet",
+          "Google Play",
+          "Google Plus",
+          "Google Search Console",
+          "Google Tag Manager",
+          "Google Workspace",
+          "Gravity Forms",
+          "Greenhouse",
+          "HREF Lang",
+          "HSTS",
+          "HTTP/3",
+          "Hotjar",
+          "Hotjar",
+          "HubSpot Marketing Hub",
+          "Hubspot",
+          "Microsoft Clarity",
+          "Mobile Friendly",
+          "Mode",
+          "MySQL",
+          "NVIDIA TensorRT",
+          "Olo",
+          "Open Graph",
+          "Open Neural Network Exchange",
+          "PHP",
+          "PowerBI Tiles",
+          "PrimeNG",
+          "Priority Hints",
+          "PyTorch",
+          "RSS",
+          "SLURM Workload Manager",
+          "Slack",
+          "Smartsheet",
+          "Squarespace",
+          "TradeTracker",
+          "Twitter Ads",
+          "Twitter Analytics",
+          "Viewport Meta",
+          "Visio",
+          "WordPress.org",
+          "Wordpress",
+          "Yahoo Analytics",
+          "Yoast",
+          "Yoast SEO",
+          "YouTube",
+          "YouTube Advertising",
+          "jQuery",
+          "jQuery Migrate",
+          "jsDelivr",
+          "mod_page_speed"
+        ],
+        "current_technologies": [
+          {
+            "uid": "abb_robotics",
+            "name": "ABB Robotics",
+            "category": "Robotic Process Automation"
+          },
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "aws_sdk_for_javascript",
+            "name": "AWS SDK for JavaScript",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "advanced_custom_fields",
+            "name": "Advanced Custom Fields",
+            "category": "CMS"
+          },
+          {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "callrail",
+            "name": "CallRail",
+            "category": "Call Tracking"
+          },
+          {
+            "uid": "chartjs",
+            "name": "Chart.Js",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "clarity_sdm",
+            "name": "Clarity SDM",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "clickcease",
+            "name": "ClickCease",
+            "category": "Security"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "cloudflare_browser_insights",
+            "name": "Cloudflare Browser Insights",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "cloudflare_insights",
+            "name": "Cloudflare Insights",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "cookie_yes",
+            "name": "CookieYes",
+            "category": "Widgets"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud_dns",
+            "name": "Google Cloud DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "google_cloud_hosting",
+            "name": "Google Cloud Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "google_cloud_looker",
+            "name": "Google Cloud Looker",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_cloud_looker",
+            "name": "Google Cloud Looker",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_docs",
+            "name": "Google Docs",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+          },
+          {
+            "uid": "google_plus_login",
+            "name": "Google Plus",
+            "category": "Social Login"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "gravity_forms",
+            "name": "Gravity Forms",
+            "category": "Hosted Forms"
+          },
+          {
+            "uid": "greenhouse",
+            "name": "Greenhouse",
+            "category": "Recruitment"
+          },
+          {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "microsoft_clarity",
+            "name": "Microsoft Clarity",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Business Intelligence"
+          },
+          {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+          },
+          {
+            "uid": "nvidia_tensorrt",
+            "name": "NVIDIA TensorRT",
+            "category": "Other"
+          },
+          {
+            "uid": "olo",
+            "name": "Olo",
+            "category": "Food Ordering Services"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "open_neural_network_exchange_onnx",
+            "name": "Open Neural Network Exchange",
+            "category": "Other"
+          },
+          {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "primeng",
+            "name": "PrimeNG",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "pytorch",
+            "name": "PyTorch",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Content Syndication Networks"
+          },
+          {
+            "uid": "slurm_workload_manager",
+            "name": "SLURM Workload Manager",
+            "category": "Other"
+          },
+          {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+          },
+          {
+            "uid": "smartsheet",
+            "name": "Smartsheet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "squarespace",
+            "name": "Squarespace",
+            "category": "CMS"
+          },
+          {
+            "uid": "tradetracker",
+            "name": "TradeTracker",
+            "category": "Affiliate Advertising Network"
+          },
+          {
+            "uid": "twitter_ads",
+            "name": "Twitter Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "twitter_analytics",
+            "name": "Twitter Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "visio",
+            "name": "Visio",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+          },
+          {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+          },
+          {
+            "uid": "yahoo_analytics",
+            "name": "Yahoo Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "Search Marketing"
+          },
+          {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "youtube_advertising",
+            "name": "YouTube Advertising",
+            "category": "Video Advertising Networks"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jquery_migrate",
+            "name": "jQuery Migrate",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "mod_page_speed",
+            "name": "mod_page_speed",
+            "category": "Web Accelerators"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "557099f8736964257b7ba400"
+        ],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.1463414634146341,
+        "organization_headcount_twelve_month_growth": 0.119047619047619,
+        "organization_headcount_twenty_four_month_growth": 0.2368421052631579
+      },
+      "departments": [],
+      "subdepartments": [],
+      "seniority": null,
+      "functions": [],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "flash-forest",
+    "campaign": "contract-2026-09-17",
+    "domain": "flashforest.com",
+    "source_id": "apollo-3ae1c6f07d2b086e9f",
+    "observed_at": "2026-09-16T00:43:56.559322+00:00",
+    "person": {
+      "id": "58bf71eaf6512514bd1344b1",
+      "first_name": "Badriveer",
+      "last_name": "Thota",
+      "name": "Badriveer Thota",
+      "linkedin_url": "http://www.linkedin.com/in/badriveer",
+      "title": "Mechatronics Engineering Lead",
+      "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Mechatronics Engineering Lead @ CERT Systems | MEng, Aerospace Engineering",
+      "organization_id": "5ff3b3e3a67490008cf2594a",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6a7ba8dfda242d000189cd74",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5ff3b3e3a67490008cf2594a",
+          "organization_name": "CERT Systems",
+          "raw_address": null,
+          "start_date": "2025-04-01",
+          "title": "Mechatronics Engineering Lead",
+          "updated_at": null,
+          "id": "6a7ba8dfda242d000189cd74",
+          "key": "6a7ba8dfda242d000189cd74"
+        },
+        {
+          "_id": "6a7ba8dfda242d000189cd75",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2025-04-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5703e676fec600012fa541",
+          "organization_name": "Flash Forest",
+          "raw_address": null,
+          "start_date": "2021-02-01",
+          "title": "Engineering Lead",
+          "updated_at": null,
+          "id": "6a7ba8dfda242d000189cd75",
+          "key": "6a7ba8dfda242d000189cd75"
+        },
+        {
+          "_id": "6a7ba8dfda242d000189cd76",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-02-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "64a1520142b7a800a3160c8f",
+          "organization_name": "Filament AI",
+          "raw_address": null,
+          "start_date": "2020-07-01",
+          "title": "Solutions Developer - Industrial AI",
+          "updated_at": null,
+          "id": "6a7ba8dfda242d000189cd76",
+          "key": "6a7ba8dfda242d000189cd76"
+        },
+        {
+          "_id": "6a7ba8dfda242d000189cd77",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-01-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": null,
+          "organization_name": "Tata Advanced Systems Ltd",
+          "raw_address": null,
+          "start_date": "2016-12-01",
+          "title": "Quality Engineer Intern",
+          "updated_at": null,
+          "id": "6a7ba8dfda242d000189cd77",
+          "key": "6a7ba8dfda242d000189cd77"
+        }
+      ],
+      "street_address": null,
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "postal_code": null,
+      "formatted_address": "Etobicoke, Toronto, ON, Canada",
+      "time_zone": "America/New_York",
+      "email": "badri@co2cert.com",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "5ff3b3e3a67490008cf2594a",
+        "name": "CERT Systems",
+        "website_url": "http://www.co2cert.com",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/co2cert",
+        "twitter_url": null,
+        "facebook_url": null,
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": null,
+        "linkedin_uid": "37182586",
+        "founded_year": null,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/686e11163644ca0001dcc60d/picture",
+        "crunchbase_url": null,
+        "primary_domain": "co2cert.com",
+        "sic_codes": [
+          "2899",
+          "2869"
+        ],
+        "naics_codes": [
+          "32513",
+          "325110"
+        ],
+        "industry": "chemicals",
+        "estimated_num_employees": 20,
+        "keywords": [
+          "co2 utilization",
+          "electrochemistry",
+          "electrolyzers",
+          "ethylene",
+          "chemical manufacturing",
+          "co2 electrolysis scale-up",
+          "synthetic dye and pigment manufacturing",
+          "industrial emissions conversion",
+          "renewable energy",
+          "chemicals",
+          "industrial emissions utilization",
+          "carbon footprint reduction",
+          "b2b",
+          "electricity-powered process",
+          "industrial emission utilization",
+          "environmental technology",
+          "water electrolysis",
+          "downstream process compatibility",
+          "sustainable chemical feedstocks",
+          "fossil fuel alternatives",
+          "decarbonization technology",
+          "single-step chemical process",
+          "sustainable ethylene",
+          "high-value chemicals",
+          "process optimization",
+          "co2 conversion",
+          "services",
+          "carbon sequestration",
+          "clean technology",
+          "climate tech innovation",
+          "carbon capture and utilization",
+          "co2 electrolysis",
+          "clean energy",
+          "materials science",
+          "climate change mitigation",
+          "fossil fuel-free chemicals",
+          "clean energy & technology",
+          "environmental services",
+          "renewables & environment"
+        ],
+        "organization_revenue_printed": null,
+        "organization_revenue": 0.0,
+        "industries": [
+          "chemicals"
+        ],
+        "secondary_industries": [],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567e21e73696426a1030000",
+        "industry_tag_hash": {
+          "chemicals": "5567e21e73696426a1030000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "toronto, ontario, canada, toronto, ontario, canada",
+        "street_address": "Ontario St",
+        "city": "Toronto",
+        "state": "Ontario",
+        "postal_code": "M5A",
+        "country": "Canada",
+        "owned_by_organization_id": null,
+        "short_description": "CERT Systems is a climate technology company dedicated to decarbonization by converting carbon dioxide emissions into sustainable high-value chemicals. The company specializes in producing sustainable ethylene through a unique single-step process known as CO\u2082 electrolysis. This innovative approach utilizes only water and electricity, making it a cost-effective solution that minimizes capital expenditure and physical footprint compared to traditional methods.\n\nRecognized for its groundbreaking work, CERT Systems was a finalist in the NRG COSIA Carbon XPRIZE and has received support from the Breakthrough Energy Fellows program, founded by Bill Gates. The company aims to mitigate over half a gigatonne of annual CO\u2082 emissions, with each tonne of ethylene produced sequestering over three tonnes of CO\u2082. CERT Systems targets industries involved in industrial emissions and chemical production, providing a sustainable option for businesses looking to reduce their carbon footprint while producing valuable chemicals.",
+        "total_funding": 1260000,
+        "total_funding_printed": "1.3M",
+        "latest_funding_round_date": "2024-10-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Other",
+        "latest_funding_detected_at": "2026-01-13T08:34:19.083Z",
+        "funding_events": [
+          {
+            "id": "6966038beb0fd80001f0ee61",
+            "date": "2024-10-01T00:00:00.000+00:00",
+            "news_url": "https://betakit.com/nunafab-snapwrite-aruna-revolution-among-startups-to-score-prize-money-at-elevate/",
+            "detected_at": "2026-01-13T08:34:19.083Z",
+            "type": "Other",
+            "investors": "Elevate Toronto",
+            "amount": "10K",
+            "currency": "$"
+          },
+          {
+            "id": "6966038beb0fd80001f0ee5d",
+            "date": "2023-02-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2026-01-13T08:34:19.015Z",
+            "type": "Seed",
+            "investors": "",
+            "amount": "220K",
+            "currency": "$"
+          },
+          {
+            "id": "6966038aeb0fd80001f0ee5a",
+            "date": "2020-02-01T00:00:00.000+00:00",
+            "news_url": "https://natural-resources.canada.ca/science-data/funding-partnerships/funding-opportunities/current-investments/chemical-manufacturing-through-electrochemical-carbon-dioxide-utilization/22619",
+            "detected_at": "2026-01-13T08:34:18.921Z",
+            "type": "Seed",
+            "investors": "",
+            "amount": "1.4M",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "technology_names": [
+          ".NET",
+          "AI",
+          "Agilent SLIMS",
+          "Amazon CloudWatch",
+          "Aspen HYSYS",
+          "Aspen Plus",
+          "Aspen SIS",
+          "Aspen SIS",
+          "Balance",
+          "Blade",
+          "CAT",
+          "Cascade CMS",
+          "CloudFlare",
+          "CloudFlare CDN",
+          "Cloudflare Browser Insights",
+          "Cloudflare DNS",
+          "Cloudflare Insights",
+          "Cloudflare Rocket Loader",
+          "Cloudways",
+          "ElasticEmail",
+          "Elementor",
+          "FRAC Pumps",
+          "FUSION",
+          "Flow",
+          "GAS",
+          "Gmail",
+          "Google Font API",
+          "Google Meet",
+          "Google Search Console",
+          "Google Workspace",
+          "Graphy",
+          "HTTP/3",
+          "Hello Elementor",
+          "Java",
+          "MATLAB",
+          "MailerLite",
+          "Massflow",
+          "Microsoft 365",
+          "Mobile Friendly",
+          "MySQL",
+          "Nginx",
+          "Oat++",
+          "PHP",
+          "PrimeNG",
+          "Python",
+          "Quantcast",
+          "Quip",
+          "RSS",
+          "Twitter Sharing",
+          "Viewport Meta",
+          "WordPress.org",
+          "Wordpress",
+          "Wordpress.com",
+          "edX",
+          "jQuery",
+          "jQuery Migrate"
+        ],
+        "current_technologies": [
+          {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "agilent_slims",
+            "name": "Agilent SLIMS",
+            "category": "Other"
+          },
+          {
+            "uid": "amazon_cloudwatch",
+            "name": "Amazon CloudWatch",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "aspen_hysys",
+            "name": "Aspen HYSYS",
+            "category": "Other"
+          },
+          {
+            "uid": "aspen_plus",
+            "name": "Aspen Plus",
+            "category": "Other"
+          },
+          {
+            "uid": "aspen_sis",
+            "name": "Aspen SIS",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "aspen_sis",
+            "name": "Aspen SIS",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "balance",
+            "name": "Balance",
+            "category": "Payments"
+          },
+          {
+            "uid": "blade",
+            "name": "Blade",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "cat",
+            "name": "CAT",
+            "category": "ERP"
+          },
+          {
+            "uid": "cascade_cms",
+            "name": "Cascade CMS",
+            "category": "CMS"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "cloudflare_browser_insights",
+            "name": "Cloudflare Browser Insights",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "cloudflare_insights",
+            "name": "Cloudflare Insights",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "cloudways",
+            "name": "Cloudways",
+            "category": "Hosting"
+          },
+          {
+            "uid": "elasticemail",
+            "name": "ElasticEmail",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "elementor",
+            "name": "Elementor",
+            "category": "CMS"
+          },
+          {
+            "uid": "frac_pumps",
+            "name": "FRAC Pumps",
+            "category": "Other"
+          },
+          {
+            "uid": "fusion",
+            "name": "FUSION",
+            "category": "Other"
+          },
+          {
+            "uid": "flow",
+            "name": "Flow",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "gas",
+            "name": "GAS",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "graphy",
+            "name": "Graphy",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "hello_elementor",
+            "name": "Hello Elementor",
+            "category": "CMS"
+          },
+          {
+            "uid": "java",
+            "name": "Java",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "matlab",
+            "name": "MATLAB",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "mailerlite",
+            "name": "MailerLite",
+            "category": "Email Marketing"
+          },
+          {
+            "uid": "massflow",
+            "name": "Massflow",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+          },
+          {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "oat++",
+            "name": "Oat++",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "primeng",
+            "name": "PrimeNG",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "quantcast",
+            "name": "Quantcast",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "quip",
+            "name": "Quip",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Content Syndication Networks"
+          },
+          {
+            "uid": "twitter_sharing",
+            "name": "Twitter Sharing",
+            "category": "Social Sharing"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+          },
+          {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+          },
+          {
+            "uid": "wordpress_com",
+            "name": "Wordpress.com",
+            "category": "CMS"
+          },
+          {
+            "uid": "edx",
+            "name": "edX",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jquery_migrate",
+            "name": "jQuery Migrate",
+            "category": "CSS and JavaScript Libraries"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "54a78366746869705aff4a3c"
+        ],
+        "org_chart_sector": null,
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.2,
+        "organization_headcount_twelve_month_growth": 0.0,
+        "organization_headcount_twenty_four_month_growth": 0.2631578947368421
+      },
+      "departments": [
+        "master_engineering_technical",
+        "master_information_technology"
+      ],
+      "subdepartments": [
+        "engineering_technical",
+        "software_development",
+        "infrastructure"
+      ],
+      "seniority": "manager",
+      "functions": [
+        "engineering"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  }
+]

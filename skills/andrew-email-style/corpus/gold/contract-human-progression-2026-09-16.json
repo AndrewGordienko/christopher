@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "observed_at": "2026-09-16T00:53:18.801546+00:00",
+  "source": "Andrew explicit September 16 correction in conversation",
+  "status": "preferred_drafts_not_send_authorization",
+  "outcome": "No reply or contract outcome established for these versions",
+  "direction": "Believable human progression: observation, technical interest, actual skill connection, genuine motivation, small contract ask, tentative useful idea, deference and natural call. Not a rigid structure.",
+  "rejected_direction": "credential → deliverable → paid contract → backlog → 15 minutes",
+  "rejected_versions": "campaigns/contract-2026-09-16/reviews/human-progression-2026-09-16/source-before/",
+  "examples": [
+    {
+      "name": "Nic Fischer",
+      "company": "Agtonomy",
+      "body": "Hi Nic,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI was reading about Agtonomy's multi-point turns and got interested in the cases right at the edge of what the machine can complete, where a small change in available space means the same plan no longer works.\n\nThat's pretty close to what I spend a lot of my time on now: finding the conditions that make a plan fail and then searching for a way out. I've also been wanting to use more of that work on physical systems where getting the planning right actually changes what the machine can get done.\n\nI wanted to ask whether there might be room for a small contract project I could take on. One idea would be to build simulated turning cases around those limits and test how the planner recovers as the available space changes, but if there’s another autonomy problem the team actually needs help with, I’d be happy to work on that instead.\n\nHappy to hop on a call if it sounds worth exploring, and happy to send over my resume as well.\n\nBest,\nAndrew",
+      "provenance": "Exact user-supplied body; subject not part of the supplied example",
+      "mode": "first_touch"
+    },
+    {
+      "name": "Archy Berker",
+      "company": "Axle Energy",
+      "body": "Hi Archy,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI was reading Axle's price-curve documentation and got interested in what happens when the price signal changes after part of the original battery schedule has already run. At that point you're not really optimizing from scratch anymore; you're replanning around the energy you've already used and what the user still needs.\n\nThat's close to the planning work I'm already doing, and lately I've been looking for ways to apply more of it to energy and other problems where better decisions have a real-world effect.\n\nThat made me want to ask whether there might be room for a small contract project I could take on. One idea would be to compare replanning strategies as successive price curves arrive and see which ones still meet the user's energy needs, but I'd much rather work on whatever flexibility-planning problem would actually be useful to the team.\n\nHappy to hop on a call if there might be something worth working on, and happy to send over my resume as well.\n\nBest,\nAndrew",
+      "provenance": "Exact user-supplied body; subject not part of the supplied example",
+      "mode": "first_touch"
+    },
+    {
+      "name": "Neil Carter",
+      "company": "FIDO AI",
+      "body": "Hi Neil,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI sent your CTO a note earlier today, but wanted to reach out to you too given your engineering work on the sensors. Your sampling guide got me interested in when more recordings actually change the leak determination, especially when background noise varies through the day.\n\nLately I've been looking for ways to use more of my simulation and ML work on problems with a real-world benefit, and this felt close enough to what I already do that I could be useful.\n\nThat made me want to ask whether there might be room for a small contract project I could take on. One idea would be to compare sampling schedules under the same recording budget and see which ones still detect a leak as background noise changes, but I'd rather shape it around whatever sensor-testing problem would actually be useful to the team.\n\nHappy to hop on a call if it sounds worth exploring, and happy to send over my resume as well.\n\nBest,\nAndrew",
+      "source_path": "campaigns/contract-wave-1/accounts/fido-ai/neil-carter/draft.md",
+      "provenance": "Existing local draft explicitly selected by Andrew as voice reference, not claimed Sent text",
+      "mode": "second_contact",
+      "warning": "Do not carry its earlier-contact acknowledgement into first touches."
+    }
+  ]
+}

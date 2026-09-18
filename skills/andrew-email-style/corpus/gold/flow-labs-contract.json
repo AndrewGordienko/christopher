@@ -1,0 +1,11 @@
+{
+  "source": "Andrew explicitly selected this existing task draft as a Contract Work north star in the current conversation",
+  "type": "user_selected_task_draft",
+  "not_sent_evidence": true,
+  "not_send_approval": true,
+  "account": "flow-labs",
+  "recipient": "Jatish Patel",
+  "subject": "Traffic signals under changing demand",
+  "body": "Hi Jatish,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for planning problems outside biotech, which is what drew me to Flow Labs’ traffic signal work. I’m interested in how you choose timings when demand keeps changing and the observations don’t give you a complete picture of traffic conditions.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a simulation benchmark to compare signal-timing choices under changing demand and incomplete traffic observations, but I’d much rather work on whatever problem would actually be useful to the team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+  "selected_at": "2026-09-15T12:44:26.626438+00:00"
+}

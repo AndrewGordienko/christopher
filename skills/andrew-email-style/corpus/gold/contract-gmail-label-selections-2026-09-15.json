@@ -1,0 +1,158 @@
+{
+  "selection_rule": "Only Gmail contracts-labelled sent messages are current user-accepted wave examples. Do not infer acceptance from system sends or manual CRM receipts without this label.",
+  "messages": [
+    {
+      "contact_id": "contract-wave-1/aclima/paul",
+      "subject": "Air quality mapping routes",
+      "body": "Hi Paul,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe planning work has made me interested in problems where the decisions you make also determine what you get to observe. Aclima’s mobile mapping seems like an interesting case, since the route determines what you learn about how pollution varies across an area and there’s only so much ground you can cover.\n\nI was wondering if there might be a small contract project I could take ownership of alongside my current work. One idea would be to compare driving plans in simulation and look at what each one misses under the same time constraint, though I’d much rather work on whatever problem would actually be useful to the research team.\n\nMy resume is attached for context; happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a55a82ad43910",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/gridware/omar",
+      "subject": "Testing ambiguous grid fault detections",
+      "body": "Hi Omar,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe failure-analysis side of my work has made me interested in what happens when different pieces of evidence point in different directions. With Gridware, I’d be curious about cases where a harmless disturbance initially looks like a fault, but the picture changes once another sensor comes in.\n\nI was wondering if there might be a small contract project around that kind of problem that I could take ownership of alongside my current work. One idea would be to build replayable examples of ambiguous events and test when additional evidence changes the detection, though I’d much rather work on whatever problem would actually be useful to the team.\n\nI attached my resume for context; happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a558f6580ad0e",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/linevision/john",
+      "subject": "Forecast uncertainty in dynamic line ratings",
+      "body": "Hi John,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe simulation side of my work has made me interested in decisions that depend on forecasts that can be wrong. With LineVision’s dynamic line ratings, I’d be curious how much weather forecast error it takes before the safe operating limit actually changes.\n\nI was wondering if there might be a small contract project around that question that I could take ownership of alongside my current work. A simple starting point could be simulating different forecast errors and seeing which ones materially change the capacity estimate, though I’d much rather work on whatever problem would actually be useful to the team.\n\nMy resume is attached for context; happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a5572c16c21b8",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/overstory/brian",
+      "subject": "Updating vegetation work plans",
+      "body": "Hi Brian,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for planning problems outside biotech where the plan has to adapt as new information comes in. Overstory’s vegetation work has an interesting version of that, since updated risk estimates can change where crews should go while constantly reshuffling the existing work plan creates problems of its own.\n\nI was wondering if there might be a small contract project around that kind of replanning that I could take ownership of alongside my current work. One idea would be to compare different ways of revising a work plan as the risk estimates change and see how much disruption each one creates, though I’d much rather work on whatever problem the team actually needs answered.\n\n\nMy resume is attached for context; happy to chat if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a54ff8f7fd7fc",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/pano-ai/aleksandar",
+      "subject": "Testing early wildfire detections",
+      "body": "Hi Saša,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nA part of the work I’d like to do more of is figuring out where a detection stops being reliable. Pano’s early wildfire detection seems like an interesting version of that, especially in the ambiguous cases where something could be smoke but could also just be haze or a change in visibility.\n\nI was wondering if there might be a small contract project around that problem that I could take ownership of alongside my current work. One idea would be to build evaluation tooling to test how changes in visibility affect early detections, though I’d much rather work on whatever problem would actually be useful to the engineering team.\n\nMy resume is attached; happy to jump on a call if useful.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a54937899e7eb",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/passivelogic/jeremy",
+      "subject": "Control failures from bad sensor data",
+      "body": "Hi Jeremy,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nA part of the work I’d like to do more of is finding situations a control system struggles to recover from. PassiveLogic seemed interesting in that context, especially cases where the controller is making reasonable decisions but one of the sensors has started giving it bad information.\n\nI was wondering if there might be a small contract project on that kind of problem that I could take ownership of alongside my current work. One thought was to simulate different sensor errors and look for the ones a control strategy has trouble recovering from, though I’d much rather work on whatever problem would actually be useful to the team.\n\nI attached my resume for context. Happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a5469a2ba7f6d",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/rainforest-connection/topher",
+      "subject": "Forest recordings and detection errors",
+      "body": "Hi Topher,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nOne problem I’d like to spend more time on is figuring out why a model stops being reliable once the conditions change. Rainforest Connection seems like an interesting setting for that, since a detection that works well at one recording site might behave very differently somewhere with different insects, weather, machinery or other background sound.\n\nI was wondering if there might be a small contract project around that kind of problem that I could take ownership of alongside my current work. I could help build evaluation tooling to isolate which changes in background sound are actually responsible for detections breaking across sites, though I’d much rather work from whatever question the team already needs answered.\n\nI attached my resume for context. Happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a54476215af89",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/routific/scott",
+      "subject": "Recovering delivery plans after delays",
+      "body": "Hi Scott,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nA lot of the planning work I’m doing now is about what to do once the original plan stops being valid, and I’d like to do more of that outside biotech. Routific seemed interesting for that reason. If one delivery runs late, there’s a tradeoff between replanning enough to recover the schedule and changing so much that you create new problems elsewhere.\n\nI was wondering if there might be a small contract project on that kind of recovery problem that I could take ownership of alongside my current work. One possible starting point would be to simulate delays and compare different replanning strategies by how much lateness they recover and how much of the original route they disrupt. But I’d rather work from a problem the team already cares about than force that exact idea.\n\nI attached my resume for context. Happy to talk if there’s something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a54212cf12624",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/sofar-ocean/evan",
+      "subject": "Replanning a voyage",
+      "body": "Hi Evan,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nOne planning problem I’ve been thinking about outside biotech is when to stick with an existing plan versus change it as new information comes in. With Wayfinder’s voyage routing, that seems particularly interesting when a weather forecast shifts but there’s still uncertainty around how much the new forecast should change the route.\n\nThere might be a small contract project around that I could take ownership of alongside my current work. One idea would be to simulate those decisions under changing forecasts and compare when rerouting helps against when sticking with the original plan works better, though I’d much rather work on whatever problem would actually be useful to the R&D team.\n\nMy resume is attached for context; happy to talk if there might be something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a53e51253a7e2",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/upstream-tech/laura",
+      "subject": "Reservoir decisions under uncertain inflows",
+      "body": "Hi Laura,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’d like to do more simulation work around how uncertainty changes a decision, which is what drew me to HydroForecast. One case I’ve been thinking about is a forecast that gets the total amount of water roughly right but gets the timing of the peak wrong, and how much that changes the choices a reservoir operator can make.\n\nI was wondering if there might be a small contract project I could take ownership of alongside my current work. I could simulate reservoir decisions as an expected inflow peak arrives earlier or later than forecast and look at which decisions are most sensitive to that timing error, though I’d much rather work on whatever problem would actually be useful to the team.\n\nMy resume is attached; happy to talk if there might be something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a53bee0704b4f",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/watttime/joel",
+      "subject": "Scheduling loads around emissions forecasts",
+      "body": "Hi Joel,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for planning problems where forecasts actually have to drive decisions in a real system, which is what drew me to WattTime. I’m particularly interested in flexible loads, where you might want to shift work toward lower-emissions periods but still have a hard deadline to meet.\n\nI was wondering if there might be a small contract project I could take ownership of alongside my current work. One idea would be to simulate different scheduling strategies as the emissions forecast changes and see which ones still perform well once those forecasts turn out to be wrong or incomplete. I’d much rather work from whatever problem the engineering team actually needs answered, though.\n\nMy resume is attached for context; happy to talk if there might be something useful I could take on.\n\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a53a60a7474e4",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/windborne-systems/joan",
+      "subject": "Missing observations in weather forecasts",
+      "body": "Hi Joan,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe simulation work has made me interested in what happens when models have to make predictions from incomplete observations. That seems especially relevant to WindBorne, where a missed or delayed balloon observation could matter very differently depending on where it happens and what the weather is doing.\n\nI’d be interested in taking ownership of a small contract project around that alongside my current work, for example building an evaluation setup to test how sensitive predictions are to different patterns of missing or delayed observations. If there’s another question along those lines the AI team actually needs answered, I’d much rather work from that.\n\nMy resume is attached for context; happy to talk if there might be something useful I could take on.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a5385e4482c26",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/global-fishing-watch/david",
+      "subject": "Possible project with Global Fishing Watch",
+      "body": "Hi David,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve wanted to find a way to use that skillset on ocean conservation for a while, and Global Fishing Watch felt like a particularly good fit given how much of the work comes down to reasoning from incomplete data and trying to understand behaviour over time.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a simulation and evaluation harness around historical vessel behaviour to test models or monitoring systems against AIS gaps, ambiguous tracks, identity issues and unusual activity around protected areas, but I’d much rather work on whatever problem would actually be useful to the research team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a52ced40afdbb",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/flow-labs/jatish",
+      "subject": "Traffic signals under changing demand",
+      "body": "Hi Jatish,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for planning problems outside biotech, which is what drew me to Flow Labs’ traffic signal work. I’m interested in how you choose timings when demand keeps changing and the observations don’t give you a complete picture of traffic conditions.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a simulation benchmark to compare signal-timing choices under changing demand and incomplete traffic observations, but I’d much rather work on whatever problem would actually be useful to the team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a52bb0869cfed",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/development-seed/martha",
+      "subject": "Geospatial model evaluation",
+      "body": "Hi Martha,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’d like to do more work on finding where a model stops being reliable, which is what drew me to Development Seed’s geospatial work. I was thinking about models that work well on one set of imagery but behave differently when the region, sensor or available coverage changes.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was evaluation tooling to test how a geospatial model behaves across regions and with missing imagery or changing sensor conditions, but I’d much rather work on whatever problem would actually be useful to your team.\n\nI attached my resume for context; happy to talk if there might be something worth exploring.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a52a247e4692d",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/citrine-informatics/james",
+      "subject": "Experiment selection with limited data",
+      "body": "Hi James,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe biotech work has also made me interested in how you choose the next experiment, which is what drew me to Citrine’s materials work. When you only have a few measurements and each test takes time and uses material, the uncertainty should affect what you decide to try next.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a benchmark comparing experiment-selection strategies under limited observations, measurement uncertainty and a fixed test budget, but I’d much rather work on whatever problem would actually be useful to the research team.\n\nI attached my resume for context; happy to talk if there might be something worth exploring.\n\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a52896396cac9",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    },
+    {
+      "contact_id": "contract-wave-1/camus-energy/david",
+      "subject": "Testing flexible grid connections",
+      "body": "Hi David,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for ways to use that work to connect more clean energy without overloading the grid, and Camus’s flexible connections work caught my attention. Deciding what the grid can accommodate as forecasts change or a resource becomes unavailable is a planning problem I’d be interested in working on.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was some simulation work to test where proposed operating limits hold up as forecasts change or resources become unavailable, but I’d much rather work on whatever problem would actually be useful to the engineering team.\n\nMy resume is attached; happy to jump on a call if useful.\n\nBest,\nAndrew",
+      "source": "https://mail.google.com/mail/u/0/#search/in%3Asent+after%3A2026%2F09%2F14+%22biotech+automation%22",
+      "gmail_message_id": "1a0a524ce39471ff",
+      "selection_basis": "Andrew explicitly identified the contracts-labelled messages as the ones he sent and liked; Gmail label search returned these exact 17 threads.",
+      "outcome": "no_reply_observed_yet"
+    }
+  ]
+}

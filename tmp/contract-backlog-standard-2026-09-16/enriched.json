@@ -1,0 +1,4421 @@
+[
+  {
+    "account": "marinelabs",
+    "campaign": "contract-2026-09-16",
+    "domain": "marinelabs.io",
+    "source_id": "apollo-4a5dfce43c7acf10db",
+    "observed_at": "2026-09-16T00:35:46.000521+00:00",
+    "person": {
+      "id": "60198c618e7f15000185174b",
+      "first_name": "Bryce",
+      "last_name": "Bocking",
+      "name": "Bryce Bocking",
+      "linkedin_url": "http://www.linkedin.com/in/bryce-bocking-18839589",
+      "title": "Director of Data Science",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQHXZO3-UuxFiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1559169247477?e=1778716800&v=beta&t=679ifVa-Ho4-ksVwEazn2-QX1dJr-NNs5C6thpJD56I",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Director of Data Science at MarineLabs",
+      "organization_id": "5b12f7d4a6da98dca5a737de",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6a0b4d8f97483200013c4f15",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b12f7d4a6da98dca5a737de",
+          "organization_name": "MarineLabs",
+          "raw_address": null,
+          "start_date": "2021-01-01",
+          "title": "Director of Data Science",
+          "updated_at": null,
+          "id": "6a0b4d8f97483200013c4f15",
+          "key": "6a0b4d8f97483200013c4f15"
+        },
+        {
+          "_id": "6a0b4d8f97483200013c4f16",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2013-12-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a13b8c69702d0486299c01",
+          "organization_name": "AML Oceanographic",
+          "raw_address": null,
+          "start_date": "2013-09-01",
+          "title": "Mechanical Engineering Co-op",
+          "updated_at": null,
+          "id": "6a0b4d8f97483200013c4f16",
+          "key": "6a0b4d8f97483200013c4f16"
+        },
+        {
+          "_id": "6a0b4d8f97483200013c4f17",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2013-04-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a11fdd69702d94a4acf301",
+          "organization_name": "Ocean Networks Canada",
+          "raw_address": null,
+          "start_date": "2013-01-01",
+          "title": "Mechanical Engineering Co-op",
+          "updated_at": null,
+          "id": "6a0b4d8f97483200013c4f17",
+          "key": "6a0b4d8f97483200013c4f17"
+        },
+        {
+          "_id": "6a0b4d8f97483200013c4f18",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2012-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "65644558f2178001382e3033",
+          "organization_name": "University of Victoria",
+          "raw_address": null,
+          "start_date": "2012-05-01",
+          "title": "IESVic Research Assistant",
+          "updated_at": null,
+          "id": "6a0b4d8f97483200013c4f18",
+          "key": "6a0b4d8f97483200013c4f18"
+        }
+      ],
+      "street_address": null,
+      "city": null,
+      "state": "British Columbia",
+      "country": "Canada",
+      "postal_code": null,
+      "formatted_address": "Central Saanich, BC, Canada",
+      "time_zone": "America/Los_Angeles",
+      "email": "bryce.bocking@marinelabs.io",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "5b12f7d4a6da98dca5a737de",
+        "name": "MarineLabs",
+        "website_url": "http://www.marinelabs.io",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/marinelabsdata",
+        "twitter_url": "https://twitter.com/MarineLabsdata",
+        "facebook_url": "https://www.facebook.com/MarineLabsData/",
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": "+1 778-817-1198",
+        "linkedin_uid": "11276633",
+        "founded_year": 2017,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66ef8eeffb533a00014e77c1/picture",
+        "crunchbase_url": null,
+        "primary_domain": "marinelabs.io",
+        "sic_codes": [
+          "3812"
+        ],
+        "naics_codes": [
+          "54133",
+          "488390",
+          "513210"
+        ],
+        "primary_phone": {
+          "number": "+1 778-817-1198",
+          "sanitized_number": "+17788171198"
+        },
+        "sanitized_phone": "+17788171198",
+        "industry": "maritime",
+        "estimated_num_employees": 37,
+        "keywords": [
+          "smart ports",
+          "weather intelligence",
+          "marine domain awareness",
+          "marine technology",
+          "coastal observation",
+          "maritime transportation",
+          "coastal data",
+          "marine weather data",
+          "climate resilience",
+          "ai-driven insights",
+          "coastal erosion analysis",
+          "coastal intelligence",
+          "high-resolution data",
+          "predictive analytics",
+          "maritime and port transportation",
+          "berth depth monitoring",
+          "weather-critical decision support",
+          "sensor network",
+          "climate resilience and environmental monitoring",
+          "coastal modeling",
+          "ai weather insights",
+          "real-time alerts",
+          "historical data analysis",
+          "storm surge data",
+          "port safety",
+          "engineering services",
+          "marine operations",
+          "b2b",
+          "machine learning",
+          "asset monitoring",
+          "government",
+          "weather forecasting",
+          "hyper-local metocean forecasts",
+          "maritime decision support",
+          "weather forecasting and data services",
+          "navigation support",
+          "flood and erosion studies",
+          "vessel wake ai",
+          "port safety automation",
+          "maritime safety",
+          "vessel wake analysis",
+          "sensor deployment optimization",
+          "real-time sensor network",
+          "siltation monitoring",
+          "coastal engineering",
+          "hyper-local forecasts",
+          "port operations",
+          "marine infrastructure resilience",
+          "coastal flood modeling",
+          "climate adaptation",
+          "services",
+          "sensor deployment",
+          "education",
+          "distribution",
+          "transportation & logistics",
+          "energy & utilities",
+          "information technology & services",
+          "enterprise software",
+          "enterprises",
+          "computer software",
+          "artificial intelligence"
+        ],
+        "organization_revenue_printed": null,
+        "organization_revenue": 0.0,
+        "industries": [
+          "maritime",
+          "computer software"
+        ],
+        "secondary_industries": [
+          "computer software"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd8273696439b1240000",
+        "industry_tag_hash": {
+          "maritime": "5567cd8273696439b1240000",
+          "computer software": "5567cd4e7369643b70010000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "2100 Douglas St,, Victoria, British Columbia V8T 4L3, CA",
+        "street_address": "2100 Douglas St",
+        "city": "Victoria",
+        "state": "British Columbia",
+        "postal_code": "V8T 4L3",
+        "country": "Canada",
+        "owned_by_organization_id": null,
+        "short_description": "MarineLabs is an ocean technology startup based in Victoria, British Columbia, founded in 2017 by CEO Scott Beatty. The company specializes in coastal intelligence, providing real-time, high-resolution weather data to enhance maritime safety and streamline operations. MarineLabs operates a unique hardware-and-software model, deploying compact, rugged sensor units across North America to collect hyper-local data on wind, waves, and weather conditions.\n\nThe flagship product, CoastAware\u2122, is the world's first platform dedicated to real-time coastal intelligence. It offers subscription access to high-resolution data, AI-driven insights, and 360-degree buoy camera integration. MarineLabs' sensors are designed for rapid deployment and connectivity, creating a continuously expanding network that fills weather data gaps in coastal zones. The company serves a diverse range of clients, including port operators, vessel pilots, coastal engineers, and government agencies, providing critical data for safer and more efficient maritime operations.",
+        "total_funding": 6460000,
+        "total_funding_printed": "6.5M",
+        "latest_funding_round_date": "2025-10-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Seed",
+        "latest_funding_detected_at": "2026-01-13T08:35:51.927Z",
+        "funding_events": [
+          {
+            "id": "696603e71bb259000186d977",
+            "date": "2025-10-01T00:00:00.000+00:00",
+            "news_url": "https://techcouver.com/2025/10/22/marinelabs-to-expand-maritime-weather-intelligence-network/",
+            "detected_at": "2026-01-13T08:35:51.927Z",
+            "type": "Seed",
+            "investors": "BDC Capital, InBC Investment",
+            "amount": "4M",
+            "currency": "$"
+          },
+          {
+            "id": "696603e71bb259000186d973",
+            "date": "2024-03-01T00:00:00.000+00:00",
+            "news_url": "https://marinelabs.io/marinelabs-raises-largest-seed-round-in-canadian-ocean-technology-history/",
+            "detected_at": "2026-01-13T08:35:51.895Z",
+            "type": "Seed",
+            "investors": "BDC Capital, Seaspan International",
+            "amount": "4.5M",
+            "currency": "$"
+          },
+          {
+            "id": "696603e71bb259000186d96f",
+            "date": "2019-03-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2026-01-13T08:35:51.845Z",
+            "type": "Other",
+            "investors": "Innovate BC",
+            "amount": "230K",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "technology_names": [
+          "AWS Cloud",
+          "Adobe Fonts",
+          "Adobe Fonts",
+          "Amazon AWS",
+          "Amazon Route 53",
+          "Amazon SES",
+          "Amazon Simple Email Service",
+          "Anthropic Claude",
+          "Apple Business Manager",
+          "Apple School Manager",
+          "Astra",
+          "Astra WordPress Theme",
+          "Atlassian",
+          "Autodesk",
+          "Babel",
+          "BambooHR",
+          "CAPTCHA",
+          "CloudFlare",
+          "Elementor",
+          "Flywheel",
+          "Font Awesome",
+          "GSAP",
+          "GSAP",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Font API",
+          "Google Tag Manager",
+          "Gravity Forms",
+          "Hotjar",
+          "Hotjar",
+          "HubSpot Marketing Hub",
+          "Hubspot",
+          "LinkedIn Ads",
+          "Linkedin Insight Tag",
+          "Linkedin Marketing Solutions",
+          "Mailshake",
+          "Microsoft 365",
+          "Microsoft 365 Apps & Services",
+          "Microsoft Email Providers",
+          "Microsoft Exchange",
+          "Microsoft Exchange Online",
+          "Mobile Friendly",
+          "MySQL",
+          "Open Graph",
+          "Outlook",
+          "PHP",
+          "PrimeNG",
+          "Priority Hints",
+          "RSS",
+          "Salesforce",
+          "Three.js",
+          "Unpkg",
+          "Viewport Meta",
+          "Vimeo",
+          "WP Rocket",
+          "WordPress.org",
+          "Wordpress",
+          "Yoast",
+          "Yoast SEO",
+          "cdnjs",
+          "jQuery",
+          "jQuery CDN",
+          "jQuery Migrate",
+          "reCAPTCHA"
+        ],
+        "current_technologies": [
+          {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+          },
+          {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "amazon_simple_email_service_amazon_ses",
+            "name": "Amazon Simple Email Service",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+          },
+          {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "astra",
+            "name": "Astra",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "astra_wordpress_theme",
+            "name": "Astra WordPress Theme",
+            "category": "CMS"
+          },
+          {
+            "uid": "atlassian",
+            "name": "Atlassian",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "autodesk",
+            "name": "Autodesk",
+            "category": "Contruction Management Platform"
+          },
+          {
+            "uid": "babel",
+            "name": "Babel",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "bamboohr",
+            "name": "BambooHR",
+            "category": "Recruitment"
+          },
+          {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "elementor",
+            "name": "Elementor",
+            "category": "CMS"
+          },
+          {
+            "uid": "fly_wheel",
+            "name": "Flywheel",
+            "category": "Hosting"
+          },
+          {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Fonts"
+          },
+          {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "gravity_forms",
+            "name": "Gravity Forms",
+            "category": "Hosted Forms"
+          },
+          {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "linkedin_insight_tag",
+            "name": "Linkedin Insight Tag",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "mailshake",
+            "name": "Mailshake",
+            "category": "Email Marketing"
+          },
+          {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "primeng",
+            "name": "PrimeNG",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Content Syndication Networks"
+          },
+          {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "threejs",
+            "name": "Three.js",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "unpkg",
+            "name": "Unpkg",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "wp_rocket",
+            "name": "WP Rocket",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+          },
+          {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+          },
+          {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "Search Marketing"
+          },
+          {
+            "uid": "cdnjs",
+            "name": "cdnjs",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jquery_cdn",
+            "name": "jQuery CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "jquery_migrate",
+            "name": "jQuery Migrate",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "66f532f340d63e000186f1bb"
+        ],
+        "org_chart_sector": null,
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.0,
+        "organization_headcount_twelve_month_growth": 0.02564102564102564,
+        "organization_headcount_twenty_four_month_growth": 0.25
+      },
+      "departments": [
+        "master_engineering_technical"
+      ],
+      "subdepartments": [
+        "data_science"
+      ],
+      "seniority": "director",
+      "functions": [
+        "data_science"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "terraclear",
+    "campaign": "contract-2026-09-16",
+    "domain": "terraclear.com",
+    "source_id": "apollo-e892789d3b9fa127ba",
+    "observed_at": "2026-09-16T00:35:46.025219+00:00",
+    "person": {
+      "id": "611b9e60e5402d000108a9d5",
+      "first_name": "Vivek",
+      "last_name": "Nayak",
+      "name": "Vivek Nayak",
+      "linkedin_url": "http://www.linkedin.com/in/vivek-nayak-008140",
+      "title": null,
+      "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQFXJRSslb4ZyA/profile-displayphoto-scale_200_200/B56Zpk1Xp1I0AY-/0/1762628304329?e=2147483647&v=beta&t=F74hS3aA1f8LZt0YtK3teXcSHQmkwNE2LmjB59mR2uM",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": null,
+      "organization_id": null,
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6aa53271afc6620001ed8ba1",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2024-08-03",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b84d1e5f874f749873cfa8a",
+          "organization_name": "TerraClear Inc",
+          "raw_address": null,
+          "start_date": "2024-06-01",
+          "title": "Interim President",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba1",
+          "key": "6aa53271afc6620001ed8ba1"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba2",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2024-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b84d1e5f874f749873cfa8a",
+          "organization_name": "TerraClear Inc",
+          "raw_address": null,
+          "start_date": "2017-10-01",
+          "title": "Co-founder, VP Engineering",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba2",
+          "key": "6aa53271afc6620001ed8ba2"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba3",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a1350169702d407f876a00",
+          "organization_name": "TUUSSO Energy, LLC",
+          "raw_address": null,
+          "start_date": "2009-06-01",
+          "title": "Co-founder, VP Operations",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba3",
+          "key": "6aa53271afc6620001ed8ba3"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba4",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2009-05-03",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a122ad69702d9a8bfd5f03",
+          "organization_name": "Intellectual Ventures",
+          "raw_address": null,
+          "start_date": "2009-03-01",
+          "title": "Senior Manager Business Development",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba4",
+          "key": "6aa53271afc6620001ed8ba4"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba5",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2009-02-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a122ad69702d9a8bfd5f03",
+          "organization_name": "Intellectual Ventures",
+          "raw_address": null,
+          "start_date": "2008-02-01",
+          "title": "Licensing Operations Manager",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba5",
+          "key": "6aa53271afc6620001ed8ba5"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba6",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2008-01-05",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "Bain & Company",
+          "raw_address": null,
+          "start_date": "2007-09-01",
+          "title": "Case Team Leader",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba6",
+          "key": "6aa53271afc6620001ed8ba6"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba7",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2007-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5777837e83710001dfe1c5",
+          "organization_name": "Bain & Company",
+          "raw_address": null,
+          "start_date": "2005-09-01",
+          "title": "Consultant",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba7",
+          "key": "6aa53271afc6620001ed8ba7"
+        },
+        {
+          "_id": "6aa53271afc6620001ed8ba8",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2004-08-03",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5777837e83710001dfe1c5",
+          "organization_name": "Bain & Company",
+          "raw_address": null,
+          "start_date": "2004-06-01",
+          "title": "Summer Associate",
+          "updated_at": null,
+          "id": "6aa53271afc6620001ed8ba8",
+          "key": "6aa53271afc6620001ed8ba8"
+        }
+      ],
+      "street_address": null,
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "postal_code": null,
+      "formatted_address": "San Francisco, CA, USA",
+      "time_zone": "America/Los_Angeles",
+      "email": null,
+      "email_status": "unavailable",
+      "directory_url": null,
+      "departments": [],
+      "subdepartments": [],
+      "seniority": null,
+      "functions": [],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "flash-forest",
+    "campaign": "contract-2026-09-17",
+    "domain": "flashforest.com",
+    "source_id": "apollo-a89cc99797770fbf9d",
+    "observed_at": "2026-09-16T00:35:46.043510+00:00",
+    "person": {
+      "id": "57d99e54a6da9872115e6c1d",
+      "first_name": "Quinn",
+      "last_name": "Daigle",
+      "name": "Quinn Daigle",
+      "linkedin_url": "http://www.linkedin.com/in/quinn-daigle-a80927104",
+      "title": "Engineering Technical Lead",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQHeWmrRk9HMiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600915955436?e=2147483647&v=beta&t=ztz4OvLB4AX8TIuoGMNzsL9X1qjUA_pbml75g-XcEvU",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Engineering Technical Automation Lead at Flash Forest",
+      "organization_id": "5e5703e676fec600012fa541",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6a9be1e860226f0001b133f0",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e5703e676fec600012fa541",
+          "organization_name": "Flash Forest",
+          "raw_address": null,
+          "start_date": "2020-10-01",
+          "title": "Engineering Technical Lead",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f0",
+          "key": "6a9be1e860226f0001b133f0"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f1",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-12-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": null,
+          "organization_name": "EsFox",
+          "raw_address": null,
+          "start_date": "2017-05-01",
+          "title": "Quality Assurance Quality Control Inspector",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f1",
+          "key": "6a9be1e860226f0001b133f1"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f2",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-02-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5592179b736964185f5c6300",
+          "organization_name": "Dayson Agricultural Ventilation Ltd",
+          "raw_address": null,
+          "start_date": "2016-09-01",
+          "title": "Technician",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f2",
+          "key": "6a9be1e860226f0001b133f2"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f3",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2016-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "556d6003736964126c22fa00",
+          "organization_name": "Summit Reforestation & Forest Management LTD.",
+          "raw_address": null,
+          "start_date": "2016-05-01",
+          "title": "Treeplanter",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f3",
+          "key": "6a9be1e860226f0001b133f3"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f4",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2015-09-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5ed302dd8f56700001031dd4",
+          "organization_name": "University of Ontario Institute of Technology (UOIT)",
+          "raw_address": null,
+          "start_date": "2015-07-01",
+          "title": "Technical Assistant",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f4",
+          "key": "6a9be1e860226f0001b133f4"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f5",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2013-09-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "55f453cdf3e5bb3be80044df",
+          "organization_name": "Roteq Machinery Inc",
+          "raw_address": null,
+          "start_date": "2013-05-01",
+          "title": "Labourer",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f5",
+          "key": "6a9be1e860226f0001b133f5"
+        },
+        {
+          "_id": "6a9be1e860226f0001b133f6",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2012-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5d36c990a3ae61da8752d318",
+          "organization_name": "Town of Richmond Hill",
+          "raw_address": null,
+          "start_date": "2011-09-01",
+          "title": "Lifeguard/ Swim Instructor",
+          "updated_at": null,
+          "id": "6a9be1e860226f0001b133f6",
+          "key": "6a9be1e860226f0001b133f6"
+        }
+      ],
+      "street_address": null,
+      "city": "Richmond Hill",
+      "state": "Ontario",
+      "country": "Canada",
+      "postal_code": null,
+      "formatted_address": "Richmond Hill, ON, Canada",
+      "time_zone": "America/New_York",
+      "email": "quinn@flashforest.ca",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "5e5703e676fec600012fa541",
+        "name": "Flash Forest",
+        "website_url": "http://www.flashforest.com",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/flashforest",
+        "twitter_url": "https://twitter.com/flash_forest",
+        "facebook_url": "https://facebook.com/flashforest.ca/",
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": null,
+        "linkedin_uid": "51672456",
+        "founded_year": 2019,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6a765ca50b2be90001db49eb/picture",
+        "crunchbase_url": null,
+        "primary_domain": "flashforest.com",
+        "naics_codes": [
+          "92411",
+          "115310",
+          "541620"
+        ],
+        "industry": "environmental services",
+        "estimated_num_employees": 28,
+        "keywords": [
+          "ai-driven planting",
+          "seedpod deployment",
+          "automated planting",
+          "post-wildfire reforestation",
+          "data analytics",
+          "environmental data analysis",
+          "machine learning models",
+          "mission-driven reforestation",
+          "reforestation automation",
+          "wildfire land recovery",
+          "ai gis robotics",
+          "automation",
+          "drones for land reclamation",
+          "aerial mapping",
+          "precision planting",
+          "administration of air and water resource and solid waste management programs",
+          "forest management technology",
+          "drone reforestation",
+          "remote area planting",
+          "biodiversity enhancement",
+          "ground-based seeding",
+          "precision drone planting",
+          "aerial mapping software",
+          "robotic planting systems",
+          "forest health monitoring",
+          "automated drone systems",
+          "gis analysis",
+          "plant science",
+          "cloud computing",
+          "ai optimization",
+          "ecological restoration",
+          "scalable tree planting",
+          "biodegradable seedpods",
+          "environmental technology",
+          "carbon sequestration",
+          "ai",
+          "scalable ecological solutions",
+          "ecosystem restoration",
+          "reforestation projects",
+          "machine learning for forest planning",
+          "environmental impact",
+          "native species seed pods",
+          "climate action technology",
+          "scalable planting solutions",
+          "government",
+          "ai for reforestation",
+          "remote wildfire reforestation",
+          "climate technology",
+          "wildfire recovery",
+          "environmental services",
+          "robotic seed dispersal",
+          "seedpod engineering",
+          "remote sensing",
+          "climate change mitigation",
+          "gis mapping",
+          "drone deployment systems",
+          "seedpod technology",
+          "large-scale reforestation",
+          "drone seed dispersal",
+          "remote reforestation",
+          "silviculture",
+          "ecological impact",
+          "automated ecological restoration",
+          "services",
+          "climate goals",
+          "machine learning",
+          "climate-focused reforestation",
+          "b2b",
+          "data analytics in forestry",
+          "ecosystem regeneration",
+          "geospatial analysis",
+          "carbon offset solutions",
+          "sustainable forestry",
+          "north america",
+          "climate change adaptation",
+          "ecosystem biodiversity enhancement",
+          "environmental monitoring",
+          "native species planting",
+          "biodiversity conservation",
+          "aerial seeding technology",
+          "forestry",
+          "precision forestry ai",
+          "scalable forestry solutions",
+          "climate tech",
+          "data-driven reforestation",
+          "forest recovery",
+          "high-density planting drones",
+          "ecosystem resilience",
+          "drone technology",
+          "plant science research",
+          "precision agriculture",
+          "transportation & logistics",
+          "enterprise software",
+          "enterprises",
+          "computer software",
+          "information technology & services",
+          "renewables & environment",
+          "artificial intelligence"
+        ],
+        "organization_revenue_printed": "4M",
+        "organization_revenue": 4000000.0,
+        "industries": [
+          "environmental services",
+          "renewables & environment"
+        ],
+        "secondary_industries": [
+          "renewables & environment"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567ce5b736964540d280000",
+        "industry_tag_hash": {
+          "environmental services": "5567ce5b736964540d280000",
+          "renewables & environment": "5567cd49736964540d020000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "501 Alliance Ave, Toronto, Ontario M6N 2J1, CA",
+        "street_address": "501 Alliance Ave",
+        "city": "Toronto",
+        "state": "Ontario",
+        "postal_code": "M6N 2J1",
+        "country": "Canada",
+        "owned_by_organization_id": null,
+        "short_description": "Flash Forest is a Canadian reforestation startup founded in May 2019, recognized as the first and largest automated drone reforestation company globally. Based in Mississauga, Ontario, with operations in Toronto and Vancouver, the company aims to plant 1 billion trees by 2028 to combat climate change. Flash Forest utilizes advanced technologies such as drones, artificial intelligence, and geographic information systems to enhance ecological restoration efforts.\n\nThe company offers drone-based reforestation services that efficiently plant trees in challenging environments, including post-wildfire areas and remote terrains. Flash Forest's patented products include bio-engineered seed pods that promote healthy growth, a drone deployment system for precise seed placement, and machine learning software for optimizing planting strategies. With a commitment to safety, speed, and cost efficiency, Flash Forest partners with various public and private entities to execute large-scale reforestation projects across Canada and internationally.",
+        "total_funding": 10049999,
+        "total_funding_printed": "10M",
+        "latest_funding_round_date": "2023-04-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2026-01-13T08:39:12.837Z",
+        "funding_events": [
+          {
+            "id": "6456451566236c0001db059d",
+            "date": "2023-04-01T00:00:00.000+00:00",
+            "news_url": "https://www.finsmes.com/2023/04/flash-forest-raises-series-a-financing.html",
+            "detected_at": "2023-05-06T12:16:21.707Z",
+            "type": "Series A",
+            "investors": "TELUS Pollinator Fund for Good, OurCrowd",
+            "amount": "11.4M",
+            "currency": "$"
+          },
+          {
+            "id": "696604b01bb2590001870287",
+            "date": "2022-10-01T00:00:00.000+00:00",
+            "news_url": "https://techcouver.com/2022/10/03/innovate-bc-awards-rd-projects/",
+            "detected_at": "2026-01-13T08:39:12.837Z",
+            "type": "Other",
+            "investors": "Innovate BC",
+            "amount": "300K",
+            "currency": "$"
+          },
+          {
+            "id": "696604b01bb2590001870285",
+            "date": "2021-10-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2026-01-13T08:39:12.801Z",
+            "type": "Seed",
+            "investors": "Lemvi Strategies, The Good Fund, MFS Investment Management, Circular Investments",
+            "amount": "1.4M",
+            "currency": "$"
+          },
+          {
+            "id": "5f23d8019c79dc0001275628",
+            "date": "2020-07-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2020-07-31T08:36:17.657Z",
+            "type": "Seed",
+            "investors": "Sustainable Development Technology Canada",
+            "amount": "100K",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "annual_revenue_printed": "4M",
+        "annual_revenue": 4000000.0,
+        "technology_names": [
+          "AI",
+          "Adobe Fonts",
+          "Amazon AWS",
+          "Amazon CloudFront",
+          "Apollo.io",
+          "CAPTCHA",
+          "Cart Functionality",
+          "Clarity SDM",
+          "CloudFlare",
+          "CloudFlare CDN",
+          "Cloudflare DNS",
+          "GSAP",
+          "GSAP",
+          "Gmail",
+          "GoDaddy Domains",
+          "GoDaddy Hosting",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Font API",
+          "Google Hosted Libraries",
+          "Google Meet",
+          "Google Search Console",
+          "Google Tag Manager",
+          "Google Workspace",
+          "HSTS",
+          "HTTP/3",
+          "HubSpot Marketing Hub",
+          "Hubspot",
+          "LinkedIn Ads",
+          "Magento 2",
+          "Magento Open Source",
+          "Mailgun",
+          "Mailgun",
+          "Microsoft Clarity",
+          "Mobile Friendly",
+          "Open Graph",
+          "POWR",
+          "Priority Hints",
+          "Squarespace",
+          "Squarespace Commerce",
+          "Squarespace ECommerce",
+          "Viewport Meta",
+          "Vimeo",
+          "Webflow",
+          "Webflow Hosting",
+          "cdnjs",
+          "jQuery",
+          "jsDelivr",
+          "parallax.js",
+          "reCAPTCHA"
+        ],
+        "current_technologies": [
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "apolloio",
+            "name": "Apollo.io",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+          },
+          {
+            "uid": "cart_functionality",
+            "name": "Cart Functionality",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "clarity_sdm",
+            "name": "Clarity SDM",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "godaddy_domains",
+            "name": "GoDaddy Domains",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "godaddy_hosting",
+            "name": "GoDaddy Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_hosted_libraries",
+            "name": "Google Hosted Libraries",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "magento_2",
+            "name": "Magento 2",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "magento_open_source",
+            "name": "Magento Open Source",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "mailgun",
+            "name": "Mailgun",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "mailgun",
+            "name": "Mailgun",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "microsoft_clarity",
+            "name": "Microsoft Clarity",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "powr",
+            "name": "POWR",
+            "category": "Widgets"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "squarespace",
+            "name": "Squarespace",
+            "category": "CMS"
+          },
+          {
+            "uid": "squarespace_commerce",
+            "name": "Squarespace Commerce",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "squarespace_ecommerce",
+            "name": "Squarespace ECommerce",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "webflow",
+            "name": "Webflow",
+            "category": "CMS"
+          },
+          {
+            "uid": "webflow_hosting",
+            "name": "Webflow Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "cdnjs",
+            "name": "cdnjs",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "parallax.js",
+            "name": "parallax.js",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "60e5bf5d1581eb0001cc8292"
+        ],
+        "org_chart_sector": null,
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.1785714285714286,
+        "organization_headcount_twelve_month_growth": 0.0,
+        "organization_headcount_twenty_four_month_growth": -0.25
+      },
+      "departments": [
+        "master_engineering_technical",
+        "master_information_technology"
+      ],
+      "subdepartments": [
+        "engineering_technical",
+        "software_development",
+        "infrastructure"
+      ],
+      "seniority": "manager",
+      "functions": [
+        "engineering"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "scanifly",
+    "campaign": "contract-2026-09-17",
+    "domain": "scanifly.com",
+    "source_id": "apollo-4db1fcebda8ab4dba2",
+    "observed_at": "2026-09-16T00:35:46.051047+00:00",
+    "person": {
+      "id": "66f2507a0a61fc0001238821",
+      "first_name": "John",
+      "last_name": "Novak",
+      "name": "John Novak",
+      "linkedin_url": "http://www.linkedin.com/in/johnjnovak",
+      "title": "Founder",
+      "photo_url": "https://media.licdn.com/dms/image/v2/D4E03AQE-xpJGGy37JA/profile-displayphoto-shrink_200_200/B4EZTXh816GgAg-/0/1738782789702?e=2147483647&v=beta&t=zjjJMuclZkV3Aw1TnQX8Bv2CMzDXo5Gteyji38M_ERM",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "Founder @ Scanifly",
+      "organization_id": "57c4c30ea6da9836f2ac6b41",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6aa7939895097d0001b33545",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "57c4c30ea6da9836f2ac6b41",
+          "organization_name": "Scanifly",
+          "raw_address": null,
+          "start_date": "2018-01-01",
+          "title": "Founder",
+          "updated_at": null,
+          "id": "6aa7939895097d0001b33545",
+          "key": "6aa7939895097d0001b33545"
+        },
+        {
+          "_id": "6aa7939895097d0001b33546",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2018-01-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "57c4c30ea6da9836f2ac6b41",
+          "organization_name": "Scanifly",
+          "raw_address": null,
+          "start_date": "2016-05-01",
+          "title": "Founder & Chief Executive Officer",
+          "updated_at": null,
+          "id": "6aa7939895097d0001b33546",
+          "key": "6aa7939895097d0001b33546"
+        },
+        {
+          "_id": "6aa7939895097d0001b33547",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2016-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "556d288f736964122a699d00",
+          "organization_name": "NRG Home Solar",
+          "raw_address": null,
+          "start_date": "2014-08-01",
+          "title": "Senior PV System Designer & Design Coordinator",
+          "updated_at": null,
+          "id": "6aa7939895097d0001b33547",
+          "key": "6aa7939895097d0001b33547"
+        },
+        {
+          "_id": "6aa7939895097d0001b33548",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2014-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a135f369702d46f09ce700",
+          "organization_name": "GeoPeak Energy LLC",
+          "raw_address": null,
+          "start_date": "2011-06-01",
+          "title": "PV System Designer & PV Monitoring System Specialist",
+          "updated_at": null,
+          "id": "6aa7939895097d0001b33548",
+          "key": "6aa7939895097d0001b33548"
+        }
+      ],
+      "street_address": null,
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "postal_code": null,
+      "formatted_address": "New York, NY, USA",
+      "time_zone": "America/New_York",
+      "email": "jnovak@scanifly.com",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "57c4c30ea6da9836f2ac6b41",
+        "name": "Scanifly",
+        "website_url": "http://www.scanifly.com",
+        "angellist_url": "http://angel.co/scanifly",
+        "linkedin_url": "http://www.linkedin.com/company/scanifly",
+        "twitter_url": "https://twitter.com/Scanifly",
+        "facebook_url": "https://www.facebook.com/Scanifly/",
+        "languages": [],
+        "alexa_ranking": 209758,
+        "phone": "+1 646-580-3769",
+        "linkedin_uid": "10871808",
+        "founded_year": 2015,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a8032c2f1f930001eec2d9/picture",
+        "crunchbase_url": null,
+        "primary_domain": "scanifly.com",
+        "sic_codes": [
+          "3621",
+          "7372"
+        ],
+        "naics_codes": [
+          "54133",
+          "51321"
+        ],
+        "primary_phone": {
+          "number": "+1 646-580-3769",
+          "sanitized_number": "+16465803769"
+        },
+        "sanitized_phone": "+16465803769",
+        "industry": "information technology & services",
+        "estimated_num_employees": 23,
+        "keywords": [
+          "drones",
+          "3d mapping",
+          "3d modeling",
+          "solar",
+          "lidar",
+          "photogrammetry",
+          "3d scanning",
+          "sustainable design",
+          "pv system design",
+          "solar system design",
+          "reality capture",
+          "photovoltaic system design",
+          "field operations",
+          "design services",
+          "engineering",
+          "software development",
+          "lidar data",
+          "real-time shading analysis",
+          "design for residential and commercial",
+          "design customization",
+          "design workflow automation",
+          "design automation",
+          "design collaboration",
+          "ai-powered design",
+          "permit-ready plan sets",
+          "solar project workflow",
+          "automatic shading reports",
+          "automated plan sets",
+          "expert design services",
+          "field data digitization",
+          "services",
+          "integration with proposal tools",
+          "vegetation and obstructions detection",
+          "construction",
+          "revisions elimination",
+          "project planning",
+          "post-sale final design",
+          "customer relationship management",
+          "b2b",
+          "data security",
+          "mobile app for field ops",
+          "cad export",
+          "solar energy equipment & systems",
+          "cloud-based platform",
+          "design accuracy",
+          "remote imagery",
+          "photorealistic 3d models",
+          "design revision management",
+          "pv design software",
+          "real-time onsite measurements",
+          "shading analysis",
+          "drone-based onsite data",
+          "ai obstruction detection",
+          "pre-sale remote design",
+          "onsite drone surveys",
+          "drone imagery",
+          "permit documentation",
+          "engineering services",
+          "pv design",
+          "renewable energy",
+          "integration with racking and finance",
+          "onsite data collection",
+          "finance",
+          "education",
+          "aviation & aerospace",
+          "information technology & services",
+          "clean energy & technology",
+          "environmental services",
+          "renewables & environment",
+          "sustainability",
+          "crm",
+          "sales",
+          "enterprise software",
+          "enterprises",
+          "computer software",
+          "computer & network security",
+          "financial services"
+        ],
+        "organization_revenue_printed": null,
+        "organization_revenue": 0.0,
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "secondary_industries": [
+          "computer software"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4773696439b10b0000",
+        "industry_tag_hash": {
+          "information technology & services": "5567cd4773696439b10b0000",
+          "computer software": "5567cd4e7369643b70010000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "1105 Edinburg Windsor Rd, Hightstown, New Jersey 08520, US",
+        "street_address": "1105 Edinburg Windsor Rd",
+        "city": "Hightstown",
+        "state": "New Jersey",
+        "postal_code": "08520-2011",
+        "country": "United States",
+        "owned_by_organization_id": null,
+        "short_description": "Scanifly is a B2B software company that specializes in providing a comprehensive drone-based 3D design and field operations platform tailored for the solar industry. Founded in January 2015, the company centralizes all stages of solar project development, from initial site surveys to installation and maintenance. With over 150,000 projects processed and approximately $12.4 million in funding, Scanifly has established itself as a key player in the Multimedia and Design Software industry.\n\nThe platform integrates drone-based surveying techniques, such as LiDAR and photogrammetry, to create virtual 3D replicas of properties. This enables precise solar design without the need for physical site visits. Key offerings include Scanifly Prelim for initial photovoltaic system planning, Scanifly3D for managing field changes during installation, and Scanifly Mobile for on-site workflow management. The services provided encompass photorealistic 3D modeling, shading analysis, engineering support, and proposal generation, all aimed at enhancing efficiency and accuracy for solar contractors and firms across the solar value chain.",
+        "total_funding": 12270000,
+        "total_funding_printed": "12.3M",
+        "latest_funding_round_date": "2022-02-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2026-01-13T08:13:04.000Z",
+        "funding_events": [
+          {
+            "id": "62d13370c1a8300001cd2930",
+            "date": "2022-02-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2022-07-15T09:29:20.704Z",
+            "type": "Series A",
+            "investors": "Lightbank, Early Light Ventures, Avenue Growth Partners, Executive Forum Angels",
+            "amount": "10M",
+            "currency": "$"
+          },
+          {
+            "id": "6005f161eada3300011b4969",
+            "date": "2021-01-01T00:00:00.000+00:00",
+            "news_url": "https://craft.co/scanifly/metrics",
+            "detected_at": "2021-01-18T20:36:49.445Z",
+            "type": "Seed",
+            "investors": "Alpine Meridian Ventures, SustainVC, Runway Venture Partners, Right Side Capital Management",
+            "amount": "2.3M",
+            "currency": "$"
+          },
+          {
+            "id": "6965fe8feb0fd80001efaae0",
+            "date": "2019-07-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2026-01-13T08:13:04.000Z",
+            "type": "Seed",
+            "investors": "",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "technology_names": [
+          "AWS Cloud",
+          "Amazon AWS",
+          "Amazon Route 53",
+          "Android",
+          "Elementor",
+          "Facebook",
+          "Facebook Login",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook SDK",
+          "Facebook SDK",
+          "Gmail",
+          "Google AdSense",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Meet",
+          "Google Play",
+          "Google Search Console",
+          "Google Tag Manager",
+          "Google Workspace",
+          "HubSpot Marketing Hub",
+          "Hubspot",
+          "Mailchimp Mandrill",
+          "Mobile Friendly",
+          "MySQL",
+          "PHP",
+          "PrimeNG",
+          "Viewport Meta",
+          "WordPress.org",
+          "Wordpress",
+          "Yoast"
+        ],
+        "current_technologies": [
+          {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "elementor",
+            "name": "Elementor",
+            "category": "CMS"
+          },
+          {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+          },
+          {
+            "uid": "facebook_login",
+            "name": "Facebook Login",
+            "category": "Social Login"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_adsense",
+            "name": "Google AdSense",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "mailchimp_mandrill",
+            "name": "Mailchimp Mandrill",
+            "category": "Email Delivery"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+          },
+          {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "primeng",
+            "name": "PrimeNG",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+          },
+          {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+          },
+          {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "66f6ca871c6ac8000119c014"
+        ],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": false,
+        "org_chart_show_department_filter": true,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.04,
+        "organization_headcount_twelve_month_growth": -0.1875,
+        "organization_headcount_twenty_four_month_growth": -0.2352941176470588
+      },
+      "departments": [
+        "c_suite"
+      ],
+      "subdepartments": [
+        "founder"
+      ],
+      "seniority": "founder",
+      "functions": [
+        "entrepreneurship"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "uncountable",
+    "campaign": "contract-2026-09-17",
+    "domain": "uncountable.com",
+    "source_id": "apollo-74e034f6a4f8eecc79",
+    "observed_at": "2026-09-16T00:35:46.058372+00:00",
+    "person": {
+      "id": "626edc453736e90001b8ff2d",
+      "first_name": "Katie",
+      "last_name": "Bacher",
+      "name": "Katie Bacher",
+      "linkedin_url": "http://www.linkedin.com/in/katie-bacher",
+      "title": "Director of Engineering",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQEvLRE82DdOow/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1641605237459?e=2147483647&v=beta&t=ynMEV3xZGt7jYpZgTIhXOVrif068awj4QWaF71l1z_c",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": null,
+      "organization_id": "5b1494f7a6da9870ecebc8e8",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6a9e37a0c892350001fab75d",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b1494f7a6da9870ecebc8e8",
+          "organization_name": "Uncountable Inc.",
+          "raw_address": null,
+          "start_date": "2026-08-01",
+          "title": "Director of Engineering",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab75d",
+          "key": "6a9e37a0c892350001fab75d"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab75e",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b1494f7a6da9870ecebc8e8",
+          "organization_name": "Uncountable Inc.",
+          "raw_address": null,
+          "start_date": "2022-11-01",
+          "title": "Engineering Manager",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab75e",
+          "key": "6a9e37a0c892350001fab75e"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab75f",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b1494f7a6da9870ecebc8e8",
+          "organization_name": "Uncountable Inc.",
+          "raw_address": null,
+          "start_date": "2021-08-01",
+          "title": "Full-stack Developer",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab75f",
+          "key": "6a9e37a0c892350001fab75f"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab760",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2021-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "55f60f77f3e5bb1977002126",
+          "organization_name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+          "raw_address": null,
+          "start_date": "2020-08-01",
+          "title": "Graduate Student Researcher",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab760",
+          "key": "6a9e37a0c892350001fab760"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab761",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2020-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5d09b4ff80f93e0ece8751d8",
+          "organization_name": "Peloton Interactive",
+          "raw_address": null,
+          "start_date": "2020-05-01",
+          "title": "Software Engineer Intern",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab761",
+          "key": "6a9e37a0c892350001fab761"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab762",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2020-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5e584a39146fb30001e161e7",
+          "organization_name": "MIT Media Lab",
+          "raw_address": null,
+          "start_date": "2019-09-01",
+          "title": "Undergraduate Researcher",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab762",
+          "key": "6a9e37a0c892350001fab762"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab763",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2019-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5fcd2cf3ed78c700f9383e4e",
+          "organization_name": "Apple",
+          "raw_address": null,
+          "start_date": "2019-05-01",
+          "title": "Summer Intern",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab763",
+          "key": "6a9e37a0c892350001fab763"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab764",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2019-05-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "55f60f77f3e5bb1977002126",
+          "organization_name": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+          "raw_address": null,
+          "start_date": "2017-06-01",
+          "title": "Undergraduate Researcher",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab764",
+          "key": "6a9e37a0c892350001fab764"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab765",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2018-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "5a9f5606a6da98d954deb858",
+          "organization_name": "Schneider Electric",
+          "raw_address": null,
+          "start_date": "2018-06-01",
+          "title": "Emerging Technology Intern",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab765",
+          "key": "6a9e37a0c892350001fab765"
+        },
+        {
+          "_id": "6a9e37a0c892350001fab766",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-06-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": true,
+          "organization_id": "64f9565913415e00014d922d",
+          "organization_name": "MIT Department of Physics",
+          "raw_address": null,
+          "start_date": "2017-02-01",
+          "title": "Teaching Assistant",
+          "updated_at": null,
+          "id": "6a9e37a0c892350001fab766",
+          "key": "6a9e37a0c892350001fab766"
+        }
+      ],
+      "street_address": null,
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "postal_code": null,
+      "formatted_address": "San Francisco, CA, USA",
+      "time_zone": "America/Los_Angeles",
+      "email": "katie@uncountable.com",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "5b1494f7a6da9870ecebc8e8",
+        "name": "Uncountable Inc.",
+        "website_url": "http://www.uncountable.com",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/uncountable-inc",
+        "twitter_url": null,
+        "facebook_url": "https://facebook.com/UncountableHQ/",
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": "+1 650-208-5949",
+        "linkedin_uid": "18351331",
+        "founded_year": 2016,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6958d3d3eb51f10001834d31/picture",
+        "crunchbase_url": null,
+        "primary_domain": "uncountable.com",
+        "sic_codes": [
+          "3824",
+          "7372"
+        ],
+        "naics_codes": [
+          "54171",
+          "513210"
+        ],
+        "primary_phone": {
+          "number": "+1 650-208-5949",
+          "sanitized_number": "+16502085949"
+        },
+        "sanitized_phone": "+16502085949",
+        "industry": "information technology & services",
+        "estimated_num_employees": 220,
+        "keywords": [
+          "rd software",
+          "scientific data management",
+          "laboratory information management system",
+          "unified laboratory informatics software",
+          "electronic laboratory notebook",
+          "rd data management software",
+          "cloudbased laboratory management software",
+          "enterprise laboratory data management software",
+          "enterprise rd software",
+          "laboratory automation solution",
+          "laboratory digitalization solution",
+          "lims",
+          "sdms",
+          "eln",
+          "lis",
+          "new product development software",
+          "rd platform",
+          "materials science solution",
+          "chemistry materials science",
+          "laboratory informatics solution",
+          "advanced visualizations reporting",
+          "automated inventory management regulatory compliance",
+          "formulation experimentation tools",
+          "searchable experiment repository",
+          "scientific data management system",
+          "qclims",
+          "product lifecycle management",
+          "quality management systems",
+          "ai platform for end to end product development",
+          "software development",
+          "security",
+          "data management",
+          "compliance",
+          "data centralization",
+          "food & beverage",
+          "sample tracking",
+          "machine learning",
+          "r&d data platform",
+          "advanced materials",
+          "automation",
+          "multivariate experiments",
+          "predictive analytics",
+          "biotech research",
+          "access control",
+          "enterprise research software",
+          "pharmaceuticals",
+          "experiment tracking",
+          "advanced materials research",
+          "cross-project learning",
+          "scientific data visualization",
+          "collaborative research",
+          "high throughput screening",
+          "regulatory compliance",
+          "laboratory informatics",
+          "services",
+          "intellectual property protection",
+          "visualizations & reports",
+          "automated data ingestion",
+          "data security",
+          "pharmaceutical development",
+          "scalability",
+          "experiment management",
+          "ai-driven insights",
+          "b2b",
+          "consulting",
+          "data analytics",
+          "cloud-based platform",
+          "chemicals",
+          "integrated eln",
+          "complex workflow creation",
+          "predictive modeling",
+          "automated workflows",
+          "cloud infrastructure",
+          "regulatory standards",
+          "research and development in the physical, engineering, and life sciences",
+          "multi-location collaboration",
+          "biotechnology",
+          "inventory management",
+          "data visualization tools",
+          "healthcare",
+          "information technology & services",
+          "consumer goods",
+          "consumers",
+          "artificial intelligence",
+          "material science",
+          "enterprise software",
+          "enterprises",
+          "computer software",
+          "medical",
+          "computer & network security",
+          "internet infrastructure",
+          "internet",
+          "health care",
+          "health, wellness & fitness",
+          "hospital & health care"
+        ],
+        "organization_revenue_printed": "13.1M",
+        "organization_revenue": 13100000.0,
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "secondary_industries": [
+          "computer software"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4773696439b10b0000",
+        "industry_tag_hash": {
+          "information technology & services": "5567cd4773696439b10b0000",
+          "computer software": "5567cd4e7369643b70010000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "415 Brannan St, San Francisco, California 94107, US",
+        "street_address": "415 Brannan Street",
+        "city": "San Francisco",
+        "state": "California",
+        "postal_code": "94107",
+        "country": "United States",
+        "owned_by_organization_id": null,
+        "short_description": "Uncountable Inc. is a technology company based in San Francisco, California, founded in 2016. The company specializes in AI-powered, cloud-native Unified Laboratory Informatics Platforms that help Research and Development (R&D) enterprises manage and analyze scientific data more effectively. Uncountable aims to accelerate innovation by integrating disparate data sets into a cohesive knowledge base, enabling advanced visualization, predictive analytics, and enhanced collaboration among scientists and researchers.\n\nThe company's primary offering is an enterprise-class platform that centralizes laboratory information management. It features unified data integration, AI-powered analytics, and real-time collaboration tools. Uncountable serves various industries, including Chemicals, Advanced Materials, Pharmaceuticals, and Food & Agriculture, targeting large-scale manufacturers and enterprise R&D laboratories. Notable clients include Plastic Ingenuity, Cooper Standard, and St. Jude Children's Research Hospital, who utilize Uncountable's platform to modernize their R&D workflows and streamline data management.",
+        "total_funding": 27000000,
+        "total_funding_printed": "27M",
+        "latest_funding_round_date": "2025-06-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series A",
+        "latest_funding_detected_at": "2026-01-13T08:57:37.450Z",
+        "funding_events": [
+          {
+            "id": "6897bfb72f6f9f0001d5ebe4",
+            "date": "2025-06-01T00:00:00.000+00:00",
+            "news_url": "https://www.businesswire.com/news/home/20250617119696/en/Uncountable-Secures-%2427M-in-Series-A-Funding-to-Accelerate-AI-Adoption-in-RD",
+            "detected_at": "2025-08-09T21:37:59.910Z",
+            "type": "Series A",
+            "investors": "SE Ventures, Teamworthy Ventures, Sageview Capital, MK Capital, 8VC",
+            "amount": "27M",
+            "currency": "$"
+          },
+          {
+            "id": "696609011cf1c200018726cd",
+            "date": "2016-06-01T00:00:00.000+00:00",
+            "news_url": null,
+            "detected_at": "2026-01-13T08:57:37.450Z",
+            "type": "Seed",
+            "investors": "",
+            "currency": "$"
+          }
+        ],
+        "suborganizations": [],
+        "num_suborganizations": 0,
+        "annual_revenue_printed": "13.1M",
+        "annual_revenue": 13100000.0,
+        "technology_names": [
+          "AI",
+          "AWS Cloud",
+          "Amazon AWS",
+          "Amazon CloudFront",
+          "Amazon Route 53",
+          "Anthropic Claude",
+          "Apple Business Manager",
+          "Apple School Manager",
+          "Arena PLM",
+          "Bing",
+          "CloudFlare",
+          "CloudFlare CDN",
+          "Cloudflare DNS",
+          "Embedly",
+          "Facebook",
+          "Facebook Login",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook Pixel",
+          "Facebook SDK",
+          "Facebook SDK",
+          "Finsweet",
+          "Flask",
+          "GSAP",
+          "Glassdoor for Employers",
+          "Gmail",
+          "Google Ads",
+          "Google AlloyDB for PostgreSQL",
+          "Google Analytics",
+          "Google Analytics 4",
+          "Google Font API",
+          "Google Hosted Libraries",
+          "Google Meet",
+          "Google Search Console",
+          "Google Tag Manager",
+          "Google Workspace",
+          "HSTS",
+          "HTTP/3",
+          "HubSpot Marketing Hub",
+          "Hubspot",
+          "Intel Nios",
+          "LinkedIn Ads",
+          "LinkedIn Sales Navigator",
+          "Linkedin Marketing Solutions",
+          "Microsoft Advertising",
+          "Microsoft Advertising",
+          "Mobile Friendly",
+          "Open Graph",
+          "PostgreSQL",
+          "Python",
+          "React",
+          "Redux",
+          "SQL",
+          "Salesforce",
+          "Salesforce Sales Cloud",
+          "Sass",
+          "Slack",
+          "Slim SEO",
+          "Snowflake",
+          "Sqlalchemy",
+          "TypeScript",
+          "Unpkg",
+          "Viewport Meta",
+          "Vimeo",
+          "Webflow",
+          "Webflow Hosting",
+          "YouTube",
+          "ZoomInfo",
+          "cdnjs",
+          "jQuery",
+          "jsDelivr"
+        ],
+        "current_technologies": [
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+          },
+          {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "arena_plm",
+            "name": "Arena PLM",
+            "category": "ERP"
+          },
+          {
+            "uid": "bing",
+            "name": "Bing",
+            "category": "Search Appliances"
+          },
+          {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "embedly",
+            "name": "Embedly",
+            "category": "Widgets"
+          },
+          {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+          },
+          {
+            "uid": "facebook_login",
+            "name": "Facebook Login",
+            "category": "Social Login"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+          },
+          {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "finsweet",
+            "name": "Finsweet",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "flask",
+            "name": "Flask",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "glassdoor_for_employers",
+            "name": "Glassdoor for Employers",
+            "category": "Customer Reviews"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "google_alloydb_for_postgresql",
+            "name": "Google AlloyDB for PostgreSQL",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_hosted_libraries",
+            "name": "Google Hosted Libraries",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "intel_nios",
+            "name": "Intel Nios",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "linkedin_sales_navigator",
+            "name": "LinkedIn Sales Navigator",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "microsoft_advertising",
+            "name": "Microsoft Advertising",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "microsoft_advertising",
+            "name": "Microsoft Advertising",
+            "category": "Advertising Networks"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "postgresql",
+            "name": "PostgreSQL",
+            "category": "Database"
+          },
+          {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "redux",
+            "name": "Redux",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "sql",
+            "name": "SQL",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "salesforce_sales_cloud",
+            "name": "Salesforce Sales Cloud",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "sass",
+            "name": "Sass",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+          },
+          {
+            "uid": "slim_seo",
+            "name": "Slim SEO",
+            "category": "CMS"
+          },
+          {
+            "uid": "snowflake",
+            "name": "Snowflake",
+            "category": "Data Management Platform"
+          },
+          {
+            "uid": "sqlalchemy",
+            "name": "Sqlalchemy",
+            "category": "Database"
+          },
+          {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "unpkg",
+            "name": "Unpkg",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "webflow",
+            "name": "Webflow",
+            "category": "CMS"
+          },
+          {
+            "uid": "webflow_hosting",
+            "name": "Webflow Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+          },
+          {
+            "uid": "zoominfo",
+            "name": "ZoomInfo",
+            "category": "Business Intelligence"
+          },
+          {
+            "uid": "cdnjs",
+            "name": "cdnjs",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+          }
+        ],
+        "org_chart_root_people_ids": [],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": -0.03252032520325204,
+        "organization_headcount_twelve_month_growth": 0.4166666666666667,
+        "organization_headcount_twenty_four_month_growth": 1.051724137931034
+      },
+      "departments": [
+        "master_engineering_technical",
+        "master_information_technology"
+      ],
+      "subdepartments": [
+        "engineering_technical",
+        "software_development",
+        "infrastructure"
+      ],
+      "seniority": "director",
+      "functions": [
+        "engineering"
+      ],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": true,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  },
+  {
+    "account": "diligent-robotics",
+    "campaign": "contract-2026-09-16",
+    "domain": "serverobotics.com",
+    "source_id": "apollo-10097c83782f316c72",
+    "observed_at": "2026-09-16T00:35:46.065615+00:00",
+    "person": {
+      "id": "611c16f58b1f450001fec1a8",
+      "first_name": "Vivian",
+      "last_name": "Chu",
+      "name": "Vivian Chu",
+      "linkedin_url": "http://www.linkedin.com/in/vivianchu",
+      "title": "Head of Product, Robotics Systems and Firmware",
+      "photo_url": "https://media.licdn.com/dms/image/v2/C4E03AQEC-san0YCkTA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1626999971930?e=1786579200&v=beta&t=Izze2eiodyk-LfGsPfxvGfX1BkkFOsJE_Cb8ZXuy-z0",
+      "twitter_url": null,
+      "github_url": null,
+      "facebook_url": null,
+      "extrapolated_email_confidence": null,
+      "headline": "PhD Roboticist | Co-Founder Diligent Robotics | Hospital Robots -\u200b> Autonomous Delivery | Serve Robotics",
+      "organization_id": "6040076f32ad1400e32e9084",
+      "match_confidence": "high",
+      "employment_history": [
+        {
+          "_id": "6aa6e7a43d29450001bba63d",
+          "created_at": null,
+          "current": true,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": null,
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "6040076f32ad1400e32e9084",
+          "organization_name": "Serve Robotics",
+          "raw_address": null,
+          "start_date": "2026-02-01",
+          "title": "Head of Product, Robotics Systems and Firmware",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba63d",
+          "key": "6aa6e7a43d29450001bba63d"
+        },
+        {
+          "_id": "6aa6e7a43d29450001bba63e",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2026-03-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b87470b324d444aaaccac0f",
+          "organization_name": "Diligent Robotics",
+          "raw_address": null,
+          "start_date": "2025-07-01",
+          "title": "Co-Founder & Chief Innovation Officer",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba63e",
+          "key": "6aa6e7a43d29450001bba63e"
+        },
+        {
+          "_id": "6aa6e7a43d29450001bba63f",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2025-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5b87470b324d444aaaccac0f",
+          "organization_name": "Diligent Robotics",
+          "raw_address": null,
+          "start_date": "2016-07-01",
+          "title": "Co-Founder and CTO",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba63f",
+          "key": "6aa6e7a43d29450001bba63f"
+        },
+        {
+          "_id": "6aa6e7a43d29450001bba640",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2017-12-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "54a1299769702dc128267301",
+          "organization_name": "Georgia Institute of Technology",
+          "raw_address": null,
+          "start_date": "2013-08-01",
+          "title": "Graduate Research Assistant",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba640",
+          "key": "6aa6e7a43d29450001bba640"
+        },
+        {
+          "_id": "6aa6e7a43d29450001bba641",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2015-07-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "57c4ace7a6da9867ee5599e7",
+          "organization_name": "Google",
+          "raw_address": null,
+          "start_date": "2015-05-01",
+          "title": "User Experience Researcher at Google X (Project Wing)",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba641",
+          "key": "6aa6e7a43d29450001bba641"
+        },
+        {
+          "_id": "6aa6e7a43d29450001bba642",
+          "created_at": null,
+          "current": false,
+          "degree": null,
+          "description": null,
+          "emails": null,
+          "end_date": "2013-08-01",
+          "grade_level": null,
+          "kind": null,
+          "major": null,
+          "org_matched_by_name": false,
+          "organization_id": "5500ce9373696416bcb47d00",
+          "organization_name": "Honda Research Institute USA, Inc.",
+          "raw_address": null,
+          "start_date": "2013-06-01",
+          "title": "Researcher",
+          "updated_at": null,
+          "id": "6aa6e7a43d29450001bba642",
+          "key": "6aa6e7a43d29450001bba642"
+        }
+      ],
+      "street_address": null,
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "postal_code": null,
+      "formatted_address": "Austin, TX, USA",
+      "time_zone": "America/Chicago",
+      "email": "vivian.chu@serverobotics.com",
+      "email_status": "verified",
+      "directory_url": null,
+      "organization": {
+        "id": "6040076f32ad1400e32e9084",
+        "name": "Serve Robotics",
+        "website_url": "http://www.serverobotics.com",
+        "angellist_url": null,
+        "linkedin_url": "http://www.linkedin.com/company/serverobotics",
+        "twitter_url": "https://twitter.com/ServeRobotics",
+        "facebook_url": "https://facebook.com/profile.php?id=100065196364000",
+        "languages": [],
+        "alexa_ranking": null,
+        "phone": "+1 818-860-1352",
+        "linkedin_uid": "72049930",
+        "founded_year": 2021,
+        "publicly_traded_symbol": "SERV",
+        "publicly_traded_exchange": "nasdaq",
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b4fbffa7c25900018e54e5/picture",
+        "crunchbase_url": null,
+        "primary_domain": "serverobotics.com",
+        "sic_codes": [
+          "3711"
+        ],
+        "naics_codes": [
+          "33639",
+          "488510",
+          "492110"
+        ],
+        "primary_phone": {
+          "number": "+1 818-860-1352",
+          "sanitized_number": "+18188601352"
+        },
+        "sanitized_phone": "+18188601352",
+        "market_cap": "428.8M",
+        "industry": "information technology & services",
+        "estimated_num_employees": 380,
+        "keywords": [
+          "industrial machinery/components",
+          "industrials",
+          "technology, information & internet",
+          "autonomous delivery robots",
+          "urban delivery ecosystem",
+          "delivery robot technology",
+          "self-driving delivery fleet",
+          "delivery automation in cities",
+          "robot delivery for food",
+          "autonomous vehicle technology",
+          "urban delivery robots",
+          "urban delivery technology",
+          "pedestrian-aware navigation",
+          "technology",
+          "autonomous delivery",
+          "commercial deployment of robots",
+          "urban logistics",
+          "autonomous last mile logistics",
+          "self-driving delivery service",
+          "lidar sensor technology",
+          "self-driving sidewalk vehicles",
+          "ai-enabled delivery systems",
+          "zero-emission delivery vehicles",
+          "electric sidewalk robots",
+          "autonomous sidewalk logistics",
+          "robotic fleet coordination",
+          "multi-market deployment",
+          "autonomous delivery in cities",
+          "partnership with uber eats",
+          "operational efficiency",
+          "delivery robots for food",
+          "customer engagement",
+          "autonomous navigation",
+          "self-driving robots",
+          "robotic delivery partnerships",
+          "consumer goods & retail",
+          "urban logistics automation",
+          "ai-enabled navigation",
+          "robotic delivery services",
+          "last-mile delivery",
+          "autonomous vehicle sensors",
+          "self-driving delivery vehicles",
+          "sensor fusion",
+          "self-driving vehicle sensors",
+          "delivery logistics software",
+          "urban mobility robotics",
+          "robotic fleet scaling",
+          "delivery robot manufacturer",
+          "autonomous delivery industry",
+          "ai-powered robots",
+          "contactless food delivery",
+          "food delivery",
+          "autonomous sidewalk vehicles",
+          "pedestrian sidewalk navigation",
+          "robotic fleet management",
+          "delivery automation",
+          "ai-powered delivery robots",
+          "zero-emission delivery robots",
+          "b2b",
+          "e-commerce",
+          "urban mobility",
+          "delivery automation systems",
+          "urban mobility solutions",
+          "autonomous vehicle software",
+          "contactless urban delivery",
+          "robot fleet management",
+          "robotic delivery platform",
+          "scalable deployment",
+          "delivery automation technology",
+          "b2c",
+          "ai-powered urban logistics",
+          "contactless delivery",
+          "services",
+          "lidar sensors",
+          "scalable autonomous logistics",
+          "transportation & logistics",
+          "urban environment navigation",
+          "robotic last mile delivery",
+          "ai in urban delivery",
+          "pedestrian navigation",
+          "d2c",
+          "level 4 autonomous",
+          "scalable autonomous delivery",
+          "ai in robotics",
+          "sustainable last-mile delivery",
+          "other motor vehicle parts manufacturing",
+          "pedestrian navigation technology",
+          "level 4 autonomous robots",
+          "robotic delivery management",
+          "electric delivery robots",
+          "urban delivery innovation",
+          "autonomous last mile",
+          "contactless delivery technology",
+          "robotic logistics solutions",
+          "sustainable urban transportation",
+          "automotive",
+          "sustainable transportation",
+          "advanced sensor systems",
+          "level 4 self-driving technology",
+          "ai-powered navigation",
+          "ai in logistics",
+          "retail",
+          "last mile delivery",
+          "urban environment mapping",
+          "robotic delivery infrastructure",
+          "robot delivery",
+          "autonomous robots",
+          "ai-powered delivery",
+          "sustainable delivery",
+          "zero-emissions robots",
+          "uber eats",
+          "delivery robots",
+          "partner platform",
+          "highway congestion reduction",
+          "robot deployment",
+          "fleet scaling",
+          "robotic fleet",
+          "innovation in delivery",
+          "food delivery technology",
+          "delivery experience",
+          "warehouse automation",
+          "robot navigation",
+          "urban transportation",
+          "delivery convenience",
+          "augmented reality delivery",
+          "delivery tracking",
+          "robot cargo security",
+          "partnerships with uber",
+          "investor relations",
+          "commercial agreements",
+          "high capacity delivery",
+          "robotic service",
+          "urban robotics",
+          "smart technology",
+          "supply chain optimization",
+          "logistics automation",
+          "delivery efficiency",
+          "robot aesthetics",
+          "community service",
+          "environmentally friendly delivery",
+          "emissions reduction",
+          "real-time delivery notifications",
+          "delivery partnership",
+          "robotic logistics",
+          "local market expansion",
+          "service partners",
+          "distribution",
+          "consumer products & retail",
+          "energy & utilities",
+          "information technology & services",
+          "consumer internet",
+          "consumers",
+          "internet"
+        ],
+        "organization_revenue_printed": "2.7M",
+        "organization_revenue": 2651000.0,
+        "industries": [
+          "information technology & services",
+          "logistics & supply chain",
+          "transportation/trucking/railroad"
+        ],
+        "secondary_industries": [
+          "logistics & supply chain",
+          "transportation/trucking/railroad"
+        ],
+        "snippets_loaded": true,
+        "industry_tag_id": "5567cd4773696439b10b0000",
+        "industry_tag_hash": {
+          "information technology & services": "5567cd4773696439b10b0000",
+          "logistics & supply chain": "5567cd4973696439b9010000",
+          "transportation/trucking/railroad": "5567cd4e7369644cf93b0000"
+        },
+        "retail_location_count": 0,
+        "raw_address": "west hollywood, california, united states",
+        "street_address": null,
+        "city": "West Hollywood",
+        "state": "California",
+        "postal_code": null,
+        "country": "United States",
+        "owned_by_organization_id": null,
+        "short_description": "Serve Robotics Inc. is a technology company based in Redwood City, California, specializing in autonomous, zero-emission sidewalk delivery robots. Founded in 2017, the company emerged from a research division of Postmates and became independent in 2021. It launched its commercial delivery service in 2022 and is publicly traded on NASDAQ under the ticker symbol SERV.\n\nThe company offers a Delivery-as-a-Service platform that allows merchants to manage autonomous deliveries without owning the robots. Its services include on-demand sidewalk delivery, fleet management, and tele-assist capabilities. The Serve Robot, its primary product, is designed for urban environments and features advanced mobility, AI-driven navigation, and a secure cargo compartment. Serve Robotics partners with various brands, including Uber Eats and 7-Eleven, to provide efficient and sustainable last-mile delivery solutions across selected U.S. urban markets.",
+        "suborganizations": [
+          {
+            "id": "5b14da60a6da9870eced0dd8",
+            "name": "Phantom Auto",
+            "website_url": "http://www.phantomauto.com",
+            "industries": [
+              "logistics & supply chain",
+              "computer software",
+              "information technology & services"
+            ],
+            "estimated_num_employees": 38,
+            "country": "United States"
+          },
+          {
+            "id": "5a9deb00a6da98d94d8fcc0d",
+            "name": "Voysys AB",
+            "website_url": "http://www.voysys.se",
+            "industries": [
+              "information technology & services",
+              "computer software"
+            ],
+            "estimated_num_employees": 9,
+            "country": "Sweden"
+          },
+          {
+            "id": "623fc42a9d2e2d00017abd24",
+            "name": "Vayu Robotics",
+            "website_url": "http://www.vayurobotics.com",
+            "industries": [
+              "information technology & services"
+            ],
+            "estimated_num_employees": 5,
+            "country": "United States"
+          },
+          {
+            "id": "5b87470b324d444aaaccac0f",
+            "name": "Diligent Robotics",
+            "website_url": "http://www.diligentrobots.com",
+            "industries": [
+              "hospital & health care",
+              "medical devices",
+              "industrial automation"
+            ],
+            "estimated_num_employees": 170,
+            "country": "United States"
+          }
+        ],
+        "num_suborganizations": 4,
+        "annual_revenue_printed": "2.7M",
+        "annual_revenue": 2651000.0,
+        "technology_names": [
+          "ABB Robotics",
+          "AI",
+          "AWS Trusted Advisor",
+          "Abstract",
+          "Acquia Cloud Platform",
+          "Acquia Cloud Site Factory",
+          "Act!",
+          "Adobe",
+          "Adobe Experience Cloud",
+          "Adobe Experience Cloud",
+          "Adobe Experience Cloud",
+          "Adobe Tag Management",
+          "Akamai",
+          "Akamai App & API Protector",
+          "Akamai mPulse",
+          "Allegro X PCB Designer",
+          "Amazon AWS",
+          "Amazon AWS",
+          "Amazon Linux 2",
+          "Analyzer",
+          "Anthropic Claude",
+          "Apple Business Manager",
+          "Apple School Manager",
+          "Apple iOS",
+          "Arduino",
+          "Atlassian",
+          "Atlassian Confluence",
+          "Barracuda MSP",
+          "Bash",
+          "Boomerang JS library",
+          "Bootstrap",
+          "Bootstrap",
+          "Bootstrapcdn",
+          "Broadridge",
+          "Bunny",
+          "C++",
+          "CAPTCHA",
+          "Canva",
+          "ChatGPT",
+          "Cloudflare Insights",
+          "Cloudinary",
+          "DataTables",
+          "Docker",
+          "DocuSign",
+          "Drupal",
+          "Drupal Multisite",
+          "Electron",
+          "Elixir",
+          "Erlang",
+          "Fastapi",
+          "Figma",
+          "Flow",
+          "Font Awesome",
+          "GRPC",
+          "Gem",
+          "Git",
+          "GitHub",
+          "GlobeNewswire",
+          "Gmail",
+          "Go",
+          "Google Cloud",
+          "Google Cloud",
+          "Google Cloud BigQuery",
+          "Google Cloud DNS",
+          "Google Cloud Hosting",
+          "Google Cloud Monitoring",
+          "Google Cloud Storage",
+          "Google Font API",
+          "Google Frontend",
+          "Google Meet",
+          "Google Search Console",
+          "Google Sheets",
+          "Google Workspace",
+          "Grafana",
+          "HREF Lang",
+          "HSTS",
+          "HTTP/3",
+          "Homestead",
+          "IDC",
+          "Java",
+          "JavaScript",
+          "Jira",
+          "Karate Labs",
+          "Klaviyo",
+          "Kubernetes",
+          "Laserfiche",
+          "Linux",
+          "Macaron",
+          "MaintainX",
+          "Microsoft 365",
+          "Microsoft 365 Apps & Services",
+          "Microsoft Email Providers",
+          "Microsoft Excel",
+          "Microsoft Exchange",
+          "Microsoft Exchange Online",
+          "Microsoft PowerShell",
+          "Miro",
+          "Mobile Friendly",
+          "Modernizr",
+          "Multilingual",
+          "Mux",
+          "Mux",
+          "NVIDIA",
+          "NVIDIA Jetson",
+          "NVIDIA TensorRT",
+          "Notion",
+          "Nreal",
+          "Okta",
+          "Open Graph",
+          "Open Neural Network Exchange",
+          "OpenStreetMap",
+          "OpenTelemetry",
+          "Outlook",
+          "PHP",
+          "PRO.FILE",
+          "PWA",
+          "Pipedrive",
+          "Postman",
+          "Priority Hints",
+          "Prometheus",
+          "PyTorch",
+          "Python",
+          "REST",
+          "Radix UI",
+          "React",
+          "Rippling",
+          "SAM",
+          "SQL",
+          "Salesforce CRM Analytics",
+          "Samsara",
+          "Sanity",
+          "Slack",
+          "Smartsheet",
+          "Squarespace ECommerce",
+          "Swagger UI",
+          "Telligent",
+          "ThoughtSpot",
+          "Twilio",
+          "TypeScript",
+          "Unity",
+          "Unreal Engine",
+          "Viewport Meta",
+          "Visio",
+          "Zoom Webinar",
+          "dbt",
+          "ebs",
+          "jQuery",
+          "jQuery CDN",
+          "reCAPTCHA"
+        ],
+        "current_technologies": [
+          {
+            "uid": "abb_robotics",
+            "name": "ABB Robotics",
+            "category": "Robotic Process Automation"
+          },
+          {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+          },
+          {
+            "uid": "aws_trusted_advisor",
+            "name": "AWS Trusted Advisor",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "abstract",
+            "name": "Abstract",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "acquia_cloud_platform",
+            "name": "Acquia Cloud Platform",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "acquia_cloud_site_factory",
+            "name": "Acquia Cloud Site Factory",
+            "category": "Hosting"
+          },
+          {
+            "uid": "act",
+            "name": "Act!",
+            "category": "Other"
+          },
+          {
+            "uid": "adobe",
+            "name": "Adobe",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "adobe_experience_cloud",
+            "name": "Adobe Experience Cloud",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "adobe_experience_cloud",
+            "name": "Adobe Experience Cloud",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "adobe_experience_cloud",
+            "name": "Adobe Experience Cloud",
+            "category": "Marketing Automation"
+          },
+          {
+            "uid": "adobe_tag_management",
+            "name": "Adobe Tag Management",
+            "category": "Tag Management"
+          },
+          {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "akamai_app_api_protector",
+            "name": "Akamai App & API Protector",
+            "category": "Security"
+          },
+          {
+            "uid": "akamai_mpulse",
+            "name": "Akamai mPulse",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "allegro_x_pcb_designer",
+            "name": "Allegro X PCB Designer",
+            "category": "Other"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+          },
+          {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "analyzer",
+            "name": "Analyzer",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+          },
+          {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+          },
+          {
+            "uid": "apple_ios",
+            "name": "Apple iOS",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "arduino",
+            "name": "Arduino",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "atlassian",
+            "name": "Atlassian",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "atlassian_confluence",
+            "name": "Atlassian Confluence",
+            "category": "CMS"
+          },
+          {
+            "uid": "barracuda",
+            "name": "Barracuda MSP",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "bash",
+            "name": "Bash",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "boomerang_js_library",
+            "name": "Boomerang JS library",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "bootstrapcdn",
+            "name": "Bootstrapcdn",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "broadridge",
+            "name": "Broadridge",
+            "category": "Financial Software"
+          },
+          {
+            "uid": "bunny",
+            "name": "Bunny",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "c++",
+            "name": "C++",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+          },
+          {
+            "uid": "canva",
+            "name": "Canva",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+          },
+          {
+            "uid": "cloudflare_insights",
+            "name": "Cloudflare Insights",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "cloudinary",
+            "name": "Cloudinary",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "datatables",
+            "name": "DataTables",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "docusign",
+            "name": "DocuSign",
+            "category": "Other"
+          },
+          {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+          },
+          {
+            "uid": "drupal_multisite",
+            "name": "Drupal Multisite",
+            "category": "Hosting"
+          },
+          {
+            "uid": "electron",
+            "name": "Electron",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "elixir",
+            "name": "Elixir",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "erlang",
+            "name": "Erlang",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "fastapi",
+            "name": "Fastapi",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "figma",
+            "name": "Figma",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "flow",
+            "name": "Flow",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Fonts"
+          },
+          {
+            "uid": "grpc",
+            "name": "GRPC",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "github",
+            "name": "GitHub",
+            "category": "Hosting"
+          },
+          {
+            "uid": "globenewswire",
+            "name": "GlobeNewswire",
+            "category": "Content Syndication Networks"
+          },
+          {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "go",
+            "name": "Go",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud_bigquery",
+            "name": "Google Cloud BigQuery",
+            "category": "Data Management Platform"
+          },
+          {
+            "uid": "google_cloud_dns",
+            "name": "Google Cloud DNS",
+            "category": "Domain Name Services"
+          },
+          {
+            "uid": "google_cloud_hosting",
+            "name": "Google Cloud Hosting",
+            "category": "Hosting"
+          },
+          {
+            "uid": "google_cloud_monitoring",
+            "name": "Google Cloud Monitoring",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "google_cloud_storage",
+            "name": "Google Cloud Storage",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+          },
+          {
+            "uid": "google_frontend_webserver",
+            "name": "Google Frontend",
+            "category": "Load Balancers"
+          },
+          {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "google_sheets",
+            "name": "Google Sheets",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "grafana",
+            "name": "Grafana",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+          },
+          {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+          },
+          {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Web Accelerators"
+          },
+          {
+            "uid": "homestead",
+            "name": "Homestead",
+            "category": "CMS"
+          },
+          {
+            "uid": "idc",
+            "name": "IDC",
+            "category": "Other"
+          },
+          {
+            "uid": "java",
+            "name": "Java",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "javascript",
+            "name": "JavaScript",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "karate_labs",
+            "name": "Karate Labs",
+            "category": "Other"
+          },
+          {
+            "uid": "klaviyo",
+            "name": "Klaviyo",
+            "category": "Email Marketing"
+          },
+          {
+            "uid": "kubernetes",
+            "name": "Kubernetes",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "laserfiche",
+            "name": "Laserfiche",
+            "category": "ERP"
+          },
+          {
+            "uid": "linux",
+            "name": "Linux",
+            "category": "Other"
+          },
+          {
+            "uid": "macaron",
+            "name": "Macaron",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "maintainx",
+            "name": "MaintainX",
+            "category": "Field Service Management"
+          },
+          {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+          },
+          {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+          },
+          {
+            "uid": "miro",
+            "name": "Miro",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+          },
+          {
+            "uid": "modernizr",
+            "name": "Modernizr",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "multilingual",
+            "name": "Multilingual",
+            "category": "Widgets"
+          },
+          {
+            "uid": "mux",
+            "name": "Mux",
+            "category": "Live Streaming Platforms"
+          },
+          {
+            "uid": "mux",
+            "name": "Mux",
+            "category": "Live Streaming Platforms"
+          },
+          {
+            "uid": "nvidia",
+            "name": "NVIDIA",
+            "category": "Other"
+          },
+          {
+            "uid": "nvidia_jetson",
+            "name": "NVIDIA Jetson",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "nvidia_tensorrt",
+            "name": "NVIDIA TensorRT",
+            "category": "Other"
+          },
+          {
+            "uid": "notion",
+            "name": "Notion",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "nreal",
+            "name": "Nreal",
+            "category": "Cloud Services"
+          },
+          {
+            "uid": "okta",
+            "name": "Okta",
+            "category": "Security"
+          },
+          {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+          },
+          {
+            "uid": "open_neural_network_exchange_onnx",
+            "name": "Open Neural Network Exchange",
+            "category": "Other"
+          },
+          {
+            "uid": "openstreetmap",
+            "name": "OpenStreetMap",
+            "category": "Other"
+          },
+          {
+            "uid": "opentelemetry",
+            "name": "OpenTelemetry",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+          },
+          {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "profile",
+            "name": "PRO.FILE",
+            "category": "Content Management Platform"
+          },
+          {
+            "uid": "pwa",
+            "name": "PWA",
+            "category": "Other"
+          },
+          {
+            "uid": "pipedrive",
+            "name": "Pipedrive",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "postman",
+            "name": "Postman",
+            "category": "Other"
+          },
+          {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "prometheus",
+            "name": "Prometheus",
+            "category": "Web Performance Monitoring"
+          },
+          {
+            "uid": "pytorch",
+            "name": "PyTorch",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "rest",
+            "name": "REST",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "radix_ui",
+            "name": "Radix UI",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "rippling",
+            "name": "Rippling",
+            "category": "Human Capital Management"
+          },
+          {
+            "uid": "sam",
+            "name": "SAM",
+            "category": "Other"
+          },
+          {
+            "uid": "sql",
+            "name": "SQL",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "samsara",
+            "name": "Samsara",
+            "category": "Other"
+          },
+          {
+            "uid": "sanity",
+            "name": "Sanity",
+            "category": "CMS"
+          },
+          {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+          },
+          {
+            "uid": "smartsheet",
+            "name": "Smartsheet",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "squarespace_ecommerce",
+            "name": "Squarespace ECommerce",
+            "category": "E-commerce Platforms"
+          },
+          {
+            "uid": "swagger_ui",
+            "name": "Swagger UI",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "telligent",
+            "name": "Telligent",
+            "category": "Customer Relationship Management"
+          },
+          {
+            "uid": "thoughtspot",
+            "name": "ThoughtSpot",
+            "category": "Analytics and Tracking"
+          },
+          {
+            "uid": "twilio",
+            "name": "Twilio",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "unity",
+            "name": "Unity",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "unreal_engine",
+            "name": "Unreal Engine",
+            "category": "Frameworks and Programming Languages"
+          },
+          {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "visio",
+            "name": "Visio",
+            "category": "Communication and Collaboration"
+          },
+          {
+            "uid": "zoom webinar",
+            "name": "Zoom Webinar",
+            "category": "Web Presentation Tools"
+          },
+          {
+            "uid": "dbt",
+            "name": "dbt",
+            "category": "Business Intelligence"
+          },
+          {
+            "uid": "ebs",
+            "name": "ebs",
+            "category": "Other"
+          },
+          {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+          },
+          {
+            "uid": "jquery_cdn",
+            "name": "jQuery CDN",
+            "category": "Content Delivery Networks"
+          },
+          {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+          }
+        ],
+        "org_chart_root_people_ids": [
+          "66f544a895fd6e000198f8aa"
+        ],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "is_placeholder_organization": null,
+        "organization_headcount_six_month_growth": 0.06806282722513089,
+        "organization_headcount_twelve_month_growth": 0.36,
+        "organization_headcount_twenty_four_month_growth": 2.547826086956522
+      },
+      "departments": [
+        "product_management",
+        "master_engineering_technical"
+      ],
+      "subdepartments": [
+        "product_mangement",
+        "artificial_intelligence_machine_learning"
+      ],
+      "seniority": "head",
+      "functions": [],
+      "intent_strength": null,
+      "show_intent": false,
+      "email_domain_catchall": true,
+      "email_domain_catchall_verdict": "allow",
+      "revealed_for_current_team": true
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "observed_on": "2026-09-17",
+  "source": "Read-only Gmail UI, primary gordienko.adg@gmail.com, in:scheduled; all 29 displayed contract follow-ups read",
+  "selection_authority": "Andrew said he finished writing these and asked that future skills recreate their style.",
+  "observed_message_count": 29,
+  "observed_word_range": [
+    289,
+    314
+  ],
+  "evidence_type": "User-selected scheduled messages; not sent outcomes or proof of response effectiveness.",
+  "examples": [
+    {
+      "recipient": "Nathan",
+      "company": "Aclima",
+      "subject": "Mobile mapping route planning",
+      "url": "https://mail.google.com/mail/u/0/#scheduled/KtbxLwGvZZCwKsbCRfJSKfPPVbDxJSMspL",
+      "state": "gmail_scheduled",
+      "body": "Hi Nathan,\n\nI wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that can cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.\n\nBeing this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat. Partly for my own morality, I want to offset some of that by applying my ML and planning work to problems with a clearer benefit to society.\n\nThat is a big part of why Aclima stood out to me. Better street-level pollution data can help cities see where people are actually being exposed and act on it, and the routing side maps well to the planning work I already do.\n\nIf there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it. The routing simulation idea was one thought, but I'd much rather work on something the ML team already wants solved. I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.\n\nHappy to hop on a call if anything comes to mind.\n\nBest,\nAndrew",
+      "word_count": 295
+    },
+    {
+      "recipient": "Jeaffrey",
+      "company": "Flow Labs",
+      "subject": "Comparing traffic signal plans",
+      "url": "https://mail.google.com/mail/u/0/#scheduled/QgrcJHrhzcPXFLVPKgTgcDRNLwpFszRqMlv",
+      "state": "gmail_scheduled",
+      "body": "Hi Jeaffrey,\n\nI wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that can cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.\n\nBeing this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat. Partly for my own morality, I want to offset some of that by applying my ML and planning work to problems with a clearer benefit to society.\n\nThat is part of why Flow Labs stood out to me. Better signal planning can give people time back every day, make buses and commutes more reliable, reduce fuel wasted sitting in traffic, and cut the pollution people are exposed to along busy roads. It also maps closely to the simulation and planning work I already do.\n\nIf there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it. The signal-timing comparison was one thought, but I'd much rather work on something the traffic modelling team already wants solved. I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.\n\nHappy to hop on a call if anything comes to mind.\n\nBest,\nAndrew",
+      "word_count": 309
+    },
+    {
+      "recipient": "Sajjad",
+      "company": "Development Seed",
+      "subject": "Land-cover predictions across sensors",
+      "url": "https://mail.google.com/mail/u/0/#scheduled/QgrcJHsbdwkfVvxrPTgCWnnhQGcbBpRbBpB",
+      "state": "gmail_scheduled",
+      "body": "Hi Sajjad,\n\nI wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that can cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.\n\nBeing this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat. Partly for my own morality, I want to offset some of that by applying my ML work to problems with a clearer benefit to society.\n\nThat is a big part of why Development Seed stood out to me. Reliable land-cover data can help people understand things like deforestation, agriculture and how places are changing over time, so getting the model to hold up across sensors has a pretty direct use beyond just improving a benchmark.\n\nIf there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it. The cross-sensor evaluation idea was one thought, but I'd much rather work on something the engineering team already wants solved. I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.\n\nHappy to hop on a call if anything comes to mind.\n\nBest,\nAndrew",
+      "word_count": 300
+    },
+    {
+      "recipient": "David",
+      "company": "Camus Energy",
+      "subject": "Testing flexible grid connections",
+      "url": "https://mail.google.com/mail/u/0/#scheduled/KtbxLthtHgmNGnnmmcMjZFMLnPJbBhtsFg",
+      "state": "gmail_scheduled",
+      "body": "Hi David,\n\nI wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that could cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.\n\nBeing this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat. Partly for my own morality, I want to offset some of that by applying my ML and planning work to problems with a clearer and more immediate benefit to society.\n\nThat is a big part of why Camus caught my attention. Making it possible to connect more clean energy without sacrificing grid reliability feels like exactly that kind of problem, and the planning side is close enough to work I already do that I think I could be useful quickly.\n\nIf there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it. The flexible-connections simulation idea was one thought, but I'd much rather take on something the engineering team already wants solved. I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.\n\nHappy to hop on a call if anything comes to mind.\n\nBest,\nAndrew",
+      "word_count": 305
+    }
+  ],
+  "patterns": {
+    "opening": "Work explained as a causal sequence, not a credential list.",
+    "motivation": "Personal concern follows directly from proximity to the work.",
+    "bridge": "One paragraph names an everyday consequence and connects the relevant skill.",
+    "commercial_ask": "Conditional 4–6 week paid contract, original idea treated as provisional, team need takes precedence.",
+    "ending": "Ownership and execution pace, then a natural invitation. No question mark required.",
+    "absent": "No CEO-proximity claim, forced backlog question, 15-minute CTA, guarantee or separate resume ask."
+  }
+}

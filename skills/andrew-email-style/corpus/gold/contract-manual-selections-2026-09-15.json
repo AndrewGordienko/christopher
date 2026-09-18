@@ -1,0 +1,55 @@
+{
+  "source": "Explicit CRM Mark as sent receipts",
+  "scope": "User-selected exact copy; not proof of recipient outcome or unchanged Gmail text",
+  "selection_reason_status": "Inferred from the six selections and Andrew’s explicit corrections, not directly observed mental states",
+  "examples": [
+    {
+      "id": "3ddae739-b5b5-4def-b0de-bd7fccf1ed78",
+      "contact_id": "contract-wave-1/camus-energy/david",
+      "subject": "Testing flexible grid connections",
+      "body": "Hi David,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for ways to use that work to connect more clean energy without overloading the grid, and Camus’s flexible connections work caught my attention. Deciding what the grid can accommodate as forecasts change or a resource becomes unavailable is a planning problem I’d be interested in working on.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was some simulation work to test where proposed operating limits hold up as forecasts change or resources become unavailable, but I’d much rather work on whatever problem would actually be useful to the engineering team.\n\nMy resume is attached; happy to jump on a call if useful.\n\nBest,\nAndrew",
+      "draft_hash": "1bd72cf32605ceda6dc9318730b84d46e218cf4ae42faf6c70d0719ecd2684b9",
+      "sent_at": "2026-09-15T12:58:00+00:00"
+    },
+    {
+      "id": "e329568b-e457-49d4-905f-f2a40f920c27",
+      "contact_id": "contract-wave-1/aidash/nitin",
+      "subject": "Planning inspections with uncertain risk",
+      "body": "Hi Nitin,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’d like to use that planning work to help prevent infrastructure failures, and AiDASH got me thinking about how you choose what to inspect when the risk estimates are uncertain. Field teams can only cover so much ground, so the uncertainty matters to the plan as well as the prediction.\n\nI could take ownership of a small prototype comparing inspection priorities under those constraints. I’d do it alongside my current work. I was wondering whether that would be useful to the AI team, or whether there’s another planning or evaluation problem you haven’t had time to work on.\n\nMy resume is attached for context; happy to talk if useful.\n\nBest,\nAndrew",
+      "draft_hash": "ebd6d47a5410d2058319ab3646200dc6e7b4903914bc1d1bf9d5ed99e09d1f0e",
+      "sent_at": "2026-09-15T12:59:00+00:00"
+    },
+    {
+      "id": "39360232-f68c-450b-9007-57bd468dfc06",
+      "contact_id": "contract-wave-1/citrine-informatics/james",
+      "subject": "Experiment selection with limited data",
+      "body": "Hi James,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nThe biotech work has also made me interested in how you choose the next experiment, which is what drew me to Citrine’s materials work. When you only have a few measurements and each test takes time and uses material, the uncertainty should affect what you decide to try next.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a benchmark comparing experiment-selection strategies under limited observations, measurement uncertainty and a fixed test budget, but I’d much rather work on whatever problem would actually be useful to the research team.\n\nMy resume is attached for context.\n\nBest,\nAndrew",
+      "draft_hash": "cca9975eee05cb079d4e6ed475414a8836dfdee5c61bd3ed7219b87a21a86a85",
+      "sent_at": "2026-09-15T13:02:00+00:00"
+    },
+    {
+      "id": "03415b7f-12be-45dd-89d4-7b31cfe31198",
+      "contact_id": "contract-wave-1/development-seed/martha",
+      "subject": "Geospatial model evaluation",
+      "body": "Hi Martha,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’d like to do more work on finding where a model stops being reliable, which is what drew me to Development Seed’s geospatial work. I was thinking about models that work well on one set of imagery but behave differently when the region, sensor or available coverage changes.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was evaluation tooling to test how a geospatial model behaves across regions and with missing imagery or changing sensor conditions, but I’d much rather work on whatever problem would actually be useful to your team.\n\nI attached my resume for context; happy to talk if there might be something worth exploring.\n\nBest,\nAndrew",
+      "draft_hash": "5cb9228b457ecf4e5251471ebe3589e322831400f1d95167dfdc1ab781dd4318",
+      "sent_at": "2026-09-15T13:03:00+00:00"
+    },
+    {
+      "id": "c13cfd01-4fd8-4b68-8f01-4e0dacd8358a",
+      "contact_id": "contract-wave-1/flow-labs/jatish",
+      "subject": "Traffic signals under changing demand",
+      "body": "Hi Jatish,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve been looking for planning problems outside biotech, which is what drew me to Flow Labs’ traffic signal work. I’m interested in how you choose timings when demand keeps changing and the observations don’t give you a complete picture of traffic conditions.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a simulation benchmark to compare signal-timing choices under changing demand and incomplete traffic observations, but I’d much rather work on whatever problem would actually be useful to the team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+      "draft_hash": "4f4411ea31965cec4c9124a96c6487f1825f692c3336a5bd100f6167c442c107",
+      "sent_at": "2026-09-15T13:05:00+00:00"
+    },
+    {
+      "id": "88056e69-b749-4025-93de-e3b552dd7acb",
+      "contact_id": "contract-wave-1/global-fishing-watch/david",
+      "subject": "Possible project with Global Fishing Watch",
+      "body": "Hi David,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’ve wanted to find a way to use that skillset on ocean conservation for a while, and Global Fishing Watch felt like a particularly good fit given how much of the work comes down to reasoning from incomplete data and trying to understand behaviour over time.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was a simulation and evaluation harness around historical vessel behaviour to test models or monitoring systems against AIS gaps, ambiguous tracks, identity issues and unusual activity around protected areas, but I’d much rather work on whatever problem would actually be useful to the research team.\n\nI attached my resume for context; happy to jump on a quick call if there might be something worth exploring.\n\nBest,\nAndrew",
+      "draft_hash": "bf8d911bd980132493544ffa768a433b6dabbb9e9922e2e3d709c95ce74dd977",
+      "sent_at": "2026-09-15T13:06:00+00:00"
+    }
+  ]
+}

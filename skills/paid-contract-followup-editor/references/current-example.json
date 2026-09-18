@@ -1,0 +1,52 @@
+{
+  "source": "Andrew-selected Gmail-scheduled Nathan follow-up, observed September 17, 2026",
+  "evidence_type": "User-selected scheduled messages; not sent outcomes or proof of response effectiveness.",
+  "approved_shared_spans": [
+    "I wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that can cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.",
+    "I wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that could cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.",
+    "Being this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat.",
+    "Partly for my own morality, I want to offset some of that by applying my",
+    "If there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it.",
+    "I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.",
+    "Happy to hop on a call if anything comes to mind.",
+    "ML and planning work to problems with a clearer benefit to society.",
+    "ML work to things with a clearer benefit to society.",
+    "ML work to problems with a clearer benefit to society.",
+    "ML and simulation work to problems with a clearer benefit to society.",
+    "but I'd much rather work on something the team already wants solved.",
+    "I wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that could crash a run, then using digital twins to simulate them before they touch the hardware.",
+    "Being this close to frontier AI and biological research has also made me think a lot about who these advances will actually benefit. A lot of the push around longevity and medicine seems likely to reach the ultra wealthy first. I'm only one introduction away from Anthropic's CEO and have been able to ask some of these questions pretty close to that world, while at the same time countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat.",
+    "Partly for my own morality, I want to offset some of that by putting more of my time into work with a clear benefit to society.",
+    "If there's a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it.",
+    "but I'd much rather work on something the team already needs solved.",
+    "I work pretty intensely and am used to getting to something concrete quickly."
+  ],
+  "body": "Hi Nathan,\n\nI wanted to add a bit more context on why I reached out. Since May, part of my co-op has involved working directly with teams at Anthropic and NVIDIA to deploy their biological research workflows onto robotic lab hardware. My work is on the general planning and search layer underneath that, figuring out how to execute new workflows without deadlocks, resource conflicts or other edge cases that can cause a run to fail, then using digital twins to simulate the outcome before anything touches the hardware.\n\nBeing this close to frontier AI and biological research has also made me think a lot about where I want to put my own time. A lot of the push in medicine and longevity seems likely to benefit the ultra wealthy first, while countries like Sierra Leone are still losing people to diseases like tuberculosis that we already know how to treat. Partly for my own morality, I want to offset some of that by applying my ML and planning work to problems with a clearer benefit to society.\n\nThat is a big part of why Aclima stood out to me. Better street-level pollution data can help cities see where people are actually being exposed and act on it, and the routing side maps well to the planning work I already do.\n\nIf there is a technical problem on your side that could fit into a 4–6 week paid contract, I'd be very interested in taking ownership of it. The routing simulation idea was one thought, but I'd much rather work on something the ML team already wants solved. I work pretty intensely and am used to getting unfamiliar problems to something concrete quickly.\n\nHappy to hop on a call if anything comes to mind.\n\nBest,\nAndrew",
+  "claim_notes": {
+    "Automata_and_named_teams": "User-supplied personal work context. Do not imply endorsement or client status.",
+    "longevity_access": "Andrew’s personal concern, not a proven prediction or claim about a recipient.",
+    "Sierra_Leone_TB": "Access/burden comparison, not a vaccine-price explanation.",
+    "4_6_weeks": "Proposed paid engagement, not an established company requirement.",
+    "work_timing": "Since May is supplied by Andrew in the latest reference; not independently verified.",
+    "removed_CEO_line": "Absent from all 29 chosen messages. Do not restore it from older draft history."
+  },
+  "public_sources": [
+    {
+      "url": "https://afro.who.int/countries/sierra-leone/topic/health-topics-sierra-leone",
+      "supports": "WHO identifies Sierra Leone as a high-TB-burden country."
+    },
+    {
+      "url": "https://www.who.int/teams/global-programme-on-tuberculosis-and-lung-health/tb-reports/global-tuberculosis-report-2025/tb-diagnosis-and-treatment/2-3-tb-treatment-coverage-outcomes",
+      "supports": "Global gaps remain between estimated TB incidence and diagnosis/reporting."
+    },
+    {
+      "url": "https://www.who.int/news/item/12-11-2025-global-gains-in-tuberculosis-response-endangered-by-funding-challenges",
+      "supports": "TB is preventable and curable; equitable access to care remains a challenge."
+    }
+  ],
+  "max_words": 320,
+  "source_url": "https://mail.google.com/mail/u/0/#scheduled/KtbxLwGvZZCwKsbCRfJSKfPPVbDxJSMspL",
+  "length_note": "29 chosen messages measured 289–314 whitespace-separated words. 320 is a close editing guard for this mode, not a universal cold-email limit.",
+  "example_corpus": "chosen-scheduled-examples.json",
+  "legacy_lint_note": "Earlier approved spans remain lint-compatible for existing saved drafts. They are not the voice reference for new writing; do not restore the omitted CEO sentence."
+}

@@ -1,0 +1,1266 @@
+{
+  "date": "2026-09-16",
+  "capacity": 30,
+  "sent": 0,
+  "remaining_capacity": 3,
+  "actions": [
+    {
+      "contact_id": "outagehub-embedded-platforms/domotz/andrea-tondo",
+      "touch": 1,
+      "send_at": "2026-09-16T07:20:00+00:00",
+      "status": "review",
+      "priority": 0.45
+    },
+    {
+      "contact_id": "contract-2026-09-16/enode/nikolai-heum",
+      "touch": 1,
+      "send_at": "2026-09-16T07:35:00+00:00",
+      "status": "review",
+      "priority": 0.662
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/carto/vanessa-lopez-eslava",
+      "touch": 1,
+      "send_at": "2026-09-16T07:46:00+00:00",
+      "status": "review",
+      "priority": 0.445
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/d4h/robin-blandford",
+      "touch": 1,
+      "send_at": "2026-09-16T08:51:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/ampcontrol/jonas-schlund",
+      "touch": 1,
+      "send_at": "2026-09-16T09:08:00+00:00",
+      "status": "review",
+      "priority": 0.44
+    },
+    {
+      "contact_id": "contract-2026-09-16/axle/archy-berker",
+      "touch": 1,
+      "send_at": "2026-09-16T09:19:00+00:00",
+      "status": "review",
+      "priority": 0.665
+    },
+    {
+      "contact_id": "contract-2026-09-16/recycleye/peter-hedley",
+      "touch": 1,
+      "send_at": "2026-09-16T10:21:00+00:00",
+      "status": "review",
+      "priority": 0.657
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/auvik/valerie-abbott",
+      "touch": 1,
+      "send_at": "2026-09-16T12:57:00+00:00",
+      "status": "review",
+      "priority": 0.438
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/chargelab/kelvin-kang",
+      "touch": 1,
+      "send_at": "2026-09-16T13:07:00+00:00",
+      "status": "review",
+      "priority": 0.453
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/crisis24/cathy-gill",
+      "touch": 1,
+      "send_at": "2026-09-16T13:17:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    },
+    {
+      "contact_id": "contract-2026-09-16/rideco/prem-gururajan",
+      "touch": 1,
+      "send_at": "2026-09-16T13:32:00+00:00",
+      "status": "review",
+      "priority": 0.657
+    },
+    {
+      "contact_id": "contract-2026-09-16/earthmover/ryan-abernathey",
+      "touch": 1,
+      "send_at": "2026-09-16T13:42:00+00:00",
+      "status": "review",
+      "priority": 0.667
+    },
+    {
+      "contact_id": "contract-2026-09-16/earthsense/chinmay-soman",
+      "touch": 1,
+      "send_at": "2026-09-16T13:59:00+00:00",
+      "status": "review",
+      "priority": 0.657
+    },
+    {
+      "contact_id": "contract-2026-09-16/gridraven/georg-rute",
+      "touch": 1,
+      "send_at": "2026-09-16T14:28:00+00:00",
+      "status": "review",
+      "priority": 0.66
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/factal/greta-opzt",
+      "touch": 1,
+      "send_at": "2026-09-16T14:48:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    },
+    {
+      "contact_id": "contract-2026-09-16/fero-labs/berk-birand",
+      "touch": 1,
+      "send_at": "2026-09-16T15:03:00+00:00",
+      "status": "review",
+      "priority": 0.66
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/esri/erica-morra",
+      "touch": 1,
+      "send_at": "2026-09-16T15:13:00+00:00",
+      "status": "review",
+      "priority": 0.465
+    },
+    {
+      "contact_id": "contract-2026-09-16/four-growers/dan-chi",
+      "touch": 1,
+      "send_at": "2026-09-16T15:29:00+00:00",
+      "status": "review",
+      "priority": 0.667
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/alertmedia/ben-schneider",
+      "touch": 1,
+      "send_at": "2026-09-16T16:15:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    },
+    {
+      "contact_id": "contract-2026-09-16/amperon/sean-kelly",
+      "touch": 1,
+      "send_at": "2026-09-16T16:29:00+00:00",
+      "status": "review",
+      "priority": 0.662
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/dataminr/michael-jones",
+      "touch": 1,
+      "send_at": "2026-09-16T16:39:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    },
+    {
+      "contact_id": "contract-2026-09-16/weavegrid/john-taggart",
+      "touch": 1,
+      "send_at": "2026-09-16T16:49:00+00:00",
+      "status": "review",
+      "priority": 0.66
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/coppertreeanalytics/brittany-spratt",
+      "touch": 1,
+      "send_at": "2026-09-16T17:41:00+00:00",
+      "status": "review",
+      "priority": 0.43
+    },
+    {
+      "contact_id": "contract-2026-09-16/electric-era/sam-reineman",
+      "touch": 1,
+      "send_at": "2026-09-16T17:56:00+00:00",
+      "status": "review",
+      "priority": 0.665
+    },
+    {
+      "contact_id": "contract-2026-09-16/agtonomy/nic-fischer",
+      "touch": 1,
+      "send_at": "2026-09-16T18:10:00+00:00",
+      "status": "review",
+      "priority": 0.66
+    },
+    {
+      "contact_id": "contract-2026-09-16/spare/kristoffer-hansen",
+      "touch": 1,
+      "send_at": "2026-09-16T18:20:00+00:00",
+      "status": "review",
+      "priority": 0.657
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/everbridge/mathew-mikuni",
+      "touch": 1,
+      "send_at": "2026-09-16T18:30:00+00:00",
+      "status": "review",
+      "priority": 0.458
+    }
+  ],
+  "new": 27,
+  "followups": 0,
+  "held": [
+    {
+      "contact_id": "gfw-workflow-test/global-fishing-watch/david",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "gfw-workflow-test/global-fishing-watch/fernando",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "gfw-workflow-test/global-fishing-watch/paul",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/sanieco-granby/dany-martineau",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/sanieco-granby/stephane-chartrand",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/sanieco-granby/kurt-shaner",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-montreal-est/ian-lorentz",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-montreal-est/todd-kostal",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-montreal-est/morgan-brown",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-winnipeg/todd-kostal",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-winnipeg/morgan-brown",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-winnipeg/meet-patel",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/revital-sarnia/quinn-camlis",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/revital-sarnia/robert-hicks",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/revital-sarnia/tony-moucachen",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gaudreau-victoriaville/maxime-chalifoux",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gaudreau-victoriaville/alexandre-ducharme",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gaudreau-victoriaville/jonathan-boulanger",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecolomondo-hawkesbury/david-roy",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecolomondo-hawkesbury/mario-mantaci",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecolomondo-hawkesbury/hugo-morin",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/exxel-bromont/hans-fortin",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/exxel-bromont/stephanie-gingras",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/exxel-bromont/charles-bourdeau",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/greenmantra-brantford/amit-parekh",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/greenmantra-brantford/raheel-mukarram",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/greenmantra-brantford/samson-mathew",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/invera-edmonton/doug-clavier",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/invera-edmonton/padam-singh",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/invera-edmonton/pierre-sarazin",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/mauricie-saint-etienne/philippe-cote",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/mauricie-saint-etienne/jeremie-laroche",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/mauricie-saint-etienne/alexis-doucet",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-saguenay/edmond-ateba",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-saguenay/christian-lambert",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-saguenay/mauro-pecchia",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/quantum-toronto/ario-madani",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/quantum-toronto/babak-tabrizi",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/quantum-toronto/rony-jacob",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-lachute/samuel-boudrias",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-lachute/sophie-boudrias",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-lachute/sophie-poncelet-latour",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-gifford/jens-dieckmann",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-gifford/david-hetherington",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-gifford/mark-spencer",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/terrapure-sainte-catherine/stephane-poirier",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/terrapure-sainte-catherine/christele-samne",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/terrapure-sainte-catherine/denis-beaulieu",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-hub100/daniel-demers",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-hub100/matthew-nickerson",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-hub100/matt-hepburn",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/bellemare-trois-rivieres/eric-bouchard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/bellemare-trois-rivieres/yves-gelinas",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/bellemare-trois-rivieres/alain-gariepy",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/frontenac-thetford/junior-st-cyr",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/frontenac-thetford/jonathan-landry",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/frontenac-thetford/sebastien-lambert",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/lavergne-anjou/danick-lavergne",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/lavergne-anjou/bruno-jeannotte",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/lavergne-anjou/martin-presse",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/richmond-steel-richmond/guilherme-meneguzzi",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/richmond-steel-richmond/jeff-wheeler",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/richmond-steel-richmond/mark-mossey",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-gatineau/david-periard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-gatineau/sophie-boudrias",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-gatineau/sophie-poncelet-latour",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-terrebonne/david-periard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-terrebonne/sophie-boudrias",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-terrebonne/sophie-poncelet-latour",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/canadian-treads-ingersoll/christine-mcclay",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/canadian-treads-ingersoll/scott-lloyd",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/canadian-treads-ingersoll/bruce-barnim",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/emterra-surrey/manuel-duque",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/emterra-surrey/brad-nixon",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/emterra-surrey/brad-muter",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/crm-brantford/mike-devivo",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/crm-brantford/kyle-furlong",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/crm-brantford/barry-takallou",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ebi-joliette/alain-gagnon",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ebi-joliette/yves-rousseau",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ebi-joliette/yann-veronneau",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-lethbridge/ricky-morin",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-lethbridge/martin-vogt",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-lethbridge/trevor-becker",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-riviere-du-loup/christian-lambert",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-riviere-du-loup/mauro-pecchia",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/via-riviere-du-loup/edmond-ateba",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/animat-sherbrooke/steeve-olsen",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/animat-sherbrooke/stephane-champagne",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/animat-sherbrooke/robin-simard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-magcycle/matthew-nickerson",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-magcycle/daniel-demers",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cyclic-kingston-magcycle/matt-hepburn",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-delta/jens-dieckmann",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-delta/david-hetherington",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/merlin-delta/mark-spencer",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-listowel/trevor-becker",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-listowel/martin-vogt",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/efs-listowel/ricky-morin",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/royalmat-beauceville/franck-fourrier",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/royalmat-beauceville/farid-challal",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/royalmat-beauceville/guy-vincent",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/aim-montreal-est/suresh-kalagara",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/aim-montreal-est/eric-couture",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/aim-montreal-est/joel-williams",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-toronto-arrow/todd-kostal",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-toronto-arrow/meet-patel",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/gfl-toronto-arrow/morgan-brown",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecycle-mississauga/mukul-bhardwaj",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecycle-mississauga/anna-chang",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/ecycle-mississauga/scott-loughran",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/evolve-brantford/william-clark",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/evolve-brantford/todd-mitton",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/evolve-brantford/shane-parsons",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cascades-ottawa/yves-rivet",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cascades-ottawa/bruce-westaway",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/cascades-ottawa/jean-francois-guay",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/triplem-brampton/brad-pollard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/triplem-brampton/kris-elyard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/triplem-brampton/haosen-cai",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/kal-amaranth/kyle-van-de-bospoort",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/kal-amaranth/tom-schofield",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/kal-amaranth/mike-larson",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/soleno-yamachiche/mario-rodrigue",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/soleno-yamachiche/vincent-berard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/soleno-yamachiche/jean-olivier-boulet-laporte",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "contract-wave-1/aclima/paul",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/aidash/nitin",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/benchsci/tony",
+      "reason": "Company paused; review the recorded reason"
+    },
+    {
+      "contact_id": "contract-wave-1/burro/vibhor",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/camus-energy/david",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/carbon-re/bob",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/citrine-informatics/james",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/development-seed/martha",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/enthought/eric",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/fido-ai/neil",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/floodbase/subit",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/flow-labs/jatish",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/gecko-robotics/ed",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/global-fishing-watch/david",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/goodmaps/charlie",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/konux/ole",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/open-climate-fix/peter",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/openairlines/constant",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/optibus/eitan",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/ororatech/thomas",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/pano-ai/aleksandar",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/passivelogic/jeremy",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/physicsx/michalis",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/plotlogic/andrew",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/qure-ai/preetham",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/rainforest-connection/topher",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/routific/scott",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/transitionzero/joseph",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/watttime/joel",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/windborne-systems/joan",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "wapahki-canada-recycling/tricentris-lachute/david-periard",
+      "reason": "Held by Andrew"
+    },
+    {
+      "contact_id": "contract-wave-1/sofar-ocean/evan",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/linevision/john",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/gridware/omar",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/upstream-tech/laura",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/neara/michael",
+      "reason": "Follow-up eligibility"
+    },
+    {
+      "contact_id": "contract-wave-1/overstory/brian",
+      "reason": "LinkedIn review is the account next action; choose an email action explicitly before queueing"
+    },
+    {
+      "contact_id": "contract-wave-1/aclima/nathan-sankary",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/citrine-informatics/steve-brown",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/development-seed/lilly-thomas",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/fido-ai/neil-carter",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/flow-labs/jeaffrey-goh",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/global-fishing-watch/fernando-paolo",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/gridware/dheeraj-golla",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/linevision/josef-spalenka",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/open-climate-fix/james-fulton",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/overstory/nick-fabina",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/pano-ai/riley-daggs",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/routific/kevin-lioi",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/upstream-tech/simon-topp",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/watttime/tara-larrue",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/windborne-systems/anuj-shetty",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/development-seed/sajjad-anwar",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/gridware/seema-arayarakavil",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-wave-1/open-climate-fix/dan-travers",
+      "reason": "Only contact #1 authorized for scheduling"
+    },
+    {
+      "contact_id": "contract-2026-09-16/diligent-robotics/vivian-chu",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/glacier/rebecca-hu-thrams",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/marinelabs/scott-beatty",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/spoor/ask-helseth",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/terraclear/brent-frei",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/vibrant-planet/chris-moran",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/metr/elizabeth-barnes",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/arbonaut/vesa-leppanen",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/satelligence/niels-wielaard",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/simscale/mariano-barrios",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/fathom/niall-quinn",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/secondmind/victor-picheny",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/sylvera/anastasia-bizyayeva",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/chloris/alessandro-baccini",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/climateai/david-farnham",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/paces/kyle-baranko",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/aurora-solar/nick-brown",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/zanskar/joel-edwards",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/kevala/emmanuel-levijarvi",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-week-2026-09-17/raptor-maps/nikhil-vadhavkar",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/albert/nick-talken",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/assaia/dmitry-chugreev",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/atmo/alex-levy",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/augmentus/daryl-lim",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/beebop/jan-willem-rombouts",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/bia/candace-saffery-neufeld",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/chloris/alessandro-baccini",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/civ-robotics/tom-yeshurun",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/duality/apurva-shah",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/ev-energy-steve/steve-foreman",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/flash-forest/bryce-jones",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/foxglove/adrian-macneil",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/neural-concept/pierre-baque",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/scanifly/jason-steinberg",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/simscale/david-heiny",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/toffeex-marco/marco-pietropaoli",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/treefera/jonathan-horn",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/uncountable/noel-hollingsworth",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-17/vsp-aaike/aaike-van-vugt",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/airspace-link/michael-healander",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/carbonrobotics/paul-mikesell",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/gideon/edin-koco",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/hexaly/fred-gardi",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/kp-labs/michal-zachara",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/metr/nate-rush",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/orchard/charles-wu",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/quansight/ralf-gommers",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/realtime-robotics/kevin-carlin",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/saga/lars-grimstad",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/satelligence/niels-wielaard",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/tangram/brandon-minor",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-18/tended/leo-smith",
+      "reason": "Refresh Gmail before queueing"
+    },
+    {
+      "contact_id": "contract-2026-09-16/bonsai-robotics/ugur-oezdemir",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/dusty-robotics/tessa-lau",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/sewerai/matthew-rosenthal",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/bearing-ai/dylan-keil",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/open-ocean-robotics/julie-angus",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/dryad/carsten-brinkschulte",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/searoutes/pierre-garreau",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/piclo/james-johnston",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/swiftly/jim-shedlick",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-16/takadu/amir-peleg",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/coiled/matthew-rocklin",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/envelio/simon-koopmann",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/inorbit/florian-pestoni",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/quantstack/sylvain-corlay",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/rugged/logan-farrell",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "contract-2026-09-17/timefold/geoffrey-smet",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/peasi/rick-arter",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/fusionrm/steve-sabatino",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/noggin/simon-burton",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/samdesk/dan-mceleney",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/driivz/oren-halevi",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/flo/antoine-sirois",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/n-able/ihor-pietukhov",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/sciencelogic/michael-nappi",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/hypercharge/rob-boyko",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/pelmorex/shannon-blaylock",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/precisely/andy-bell",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/tomorrow/maya-chalamish",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/xweather/hans-loewenheath",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/earthdaily/sarah-grelik",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/kodelabs/ard-stavileci",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/servicechannel/zachary-wolf",
+      "reason": "No spaced recipient-local slot in this queue day"
+    },
+    {
+      "contact_id": "outagehub-embedded-platforms/mrisoftware/joshua-boyce",
+      "reason": "No spaced recipient-local slot in this queue day"
+    }
+  ],
+  "sending_enabled": false
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ats-jobs",
+    "commit": "9edd4a6cb12fcf43d35e050d064edb61900b2683",
+    "source": "https://github.com/shunsukefuruyama/ats-jobs.git",
+    "license": "MIT",
+    "reviewed_at": "2026-09-14"
+  },
+  {
+    "name": "ats-api-reference",
+    "commit": "3ce147df525c27c76c4c63f854832812b2140213",
+    "source": "https://github.com/ConorsCode/ats-api-reference.git",
+    "license": "MIT",
+    "reviewed_at": "2026-09-14"
+  }
+]

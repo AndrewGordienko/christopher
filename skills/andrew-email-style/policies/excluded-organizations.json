@@ -1,0 +1,11 @@
+[
+  {
+    "name": "BenchSci",
+    "domain": "benchsci.com",
+    "reason": "Andrew requested no outreach: his day job works with BenchSci.",
+    "source": "Andrew current chat instruction",
+    "scope": "all outbound workspaces",
+    "created_at": "2026-09-14T21:53:57.595613+00:00",
+    "release": "Only if Andrew explicitly removes this exclusion"
+  }
+]

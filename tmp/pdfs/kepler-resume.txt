@@ -1,0 +1,69 @@
+Andrew Gordienko
+gordienko.adg@gmail.com | github.com/AndrewGordienko | LinkedIn: Andrew Gordienko
+Software Verification | Planning Algorithms | Robotics & Hardware Deployment
+Seeking a Toronto role | January-April 2027 (4 months)
+Education
+University of Toronto
+ Expected June 2028
+B.A., Computational Cognitive Science; Computer Science coursework
+ Toronto, Canada
+Technical Skills
+Languages: Python, C++, Rust, JavaScript
+Tooling: Git, Linux, pytest, Flask, multi-GPU training (H200), Apple MPS
+ML & Robotics: PyTorch, MuJoCo, CUDA, NumPy, Gymnasium, Transformers, LeRobot
+Work Experience
+Automata Technologies
+ May 2026 - Present
+Research Intern, Robotics and Planning
+ London, UK
+- Built a deterministic safety gate that verifies search-generated plans before execution, taking the system from
+ simulation to deployment on physical robotic hardware.
+- Developed a deadlock search and recovery system using CP-SAT and breadth-first search to identify unsafe workflow
+ states and generate valid recovery paths for medical-laboratory robotics.
+- Built a 3D digital twin to generate and validate laboratory configurations, then extended it into a search-based layout
+ optimizer minimizing robot travel and other workflow costs.
+OutageHub (OutageHub.ca)
+ Nov 2024 - Present
+Founder
+ Hybrid
+- Built a Rust-based platform aggregating Canadian utility outage data into a real-time national map and API.
+ 
+- Lead partnerships and business development with organizations including the Government of Canada and Canadian
+ Red Cross around outage intelligence and API access.
+Research and Projects
+TinyVLA
+ 2026
+Vision-Language-Action Model Distillation for Robotics
+- Deployed the distilled policy onto physical robotic hardware and debugged the simulation-to-hardware pipeline for
+ closed-loop manipulation.
+- Distilled a 450M-parameter SmolVLA policy to 292M parameters for local deployment, reducing bf16 footprint from
+ 749 MB to 557 MB while achieving performance comparable to the teacher on held-out evaluations.
+Hudson64
+ 2025
+AlphaZero-Style Reinforcement Learning and Search
+- Built an AlphaZero-style chess engine combining a learned policy-value network with Monte Carlo Tree Search,
+ reaching approximately 1800 Elo.
+- Implemented PUCT search, network-guided priors, exploration, batched neural evaluation, self-play, replay buffers and
+ arena-based model promotion.
+- Scaled training from Apple MPS to NVIDIA H200 GPUs, building high-throughput infrastructure for self-play
+ generation and policy-value training.
+UTMIST Virtual Creatures
+ Sep 2023 - Apr 2024
+Lead Researcher, Reinforcement Learning and Multi-Agent Planning
+- Led the creation of a Karl Sims-inspired genetic algorithm to generate MuJoCo robot morphologies and trained shared
+ PPO locomotion policies across evolved bodies to play 2v2 soccer.
+- Developed multi-agent planning experiments using Transformer-generated spatial heatmaps and Monte Carlo Tree
+ Search for action selection.
+Additional Experience
+G&K Software LLC
+ Nov 2025 - Present
+Head of Growth
+ Remote
+- Lead sales and business development for a software and AI consultancy, translating customer problems into scoped
+ technical engagements.
+CODE-IT Hacks
+ Jun 2022 - Sep 2022
+Artificial Intelligence Instructor
+ Toronto, Canada
+- Taught AI, machine learning and programming to middle and high school students through hands-on coding projects.
+ 

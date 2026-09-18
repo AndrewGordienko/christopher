@@ -1,0 +1,11 @@
+{
+  "source": "Andrew explicitly selected this existing task draft as a Contract Work north star in the current conversation",
+  "type": "user_selected_task_draft",
+  "not_sent_evidence": true,
+  "not_send_approval": true,
+  "account": "development-seed",
+  "recipient": "Martha Morrissey",
+  "subject": "Geospatial model evaluation",
+  "body": "Hi Martha,\n\nI'm a UofT student on co-op in London, UK, working on search, planning and simulation for biotech automation, mostly around failure and recovery in large systems. I've also done a fair bit with RL and MCTS.\n\nI’d like to do more work on finding where a model stops being reliable, which is what drew me to Development Seed’s geospatial work. I was thinking about models that work well on one set of imagery but behave differently when the region, sensor or available coverage changes.\n\nI was wondering if there might be a project I could take ownership of alongside my current work. One thought was evaluation tooling to test how a geospatial model behaves across regions and with missing imagery or changing sensor conditions, but I’d much rather work on whatever problem would actually be useful to your team.\n\nI attached my resume for context; happy to talk if there might be something worth exploring.\n\nBest,\nAndrew",
+  "selected_at": "2026-09-15T12:44:26.625983+00:00"
+}
